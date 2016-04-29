@@ -30,7 +30,7 @@ require [
     $("#play_overview_video_link").click ->
       $("#video_wrapper").dialog
         width: videoWidth
-        title: I18n.t("overview_video", "Overview Video of Canvas")
+        title: I18n.t("overview_video", "Overview Video of IBTA Arabia")
       false
 
   onYouTubePlayerReady = (playerid) ->

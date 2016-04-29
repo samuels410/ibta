@@ -16,7 +16,7 @@ define [
     $("<div style='padding:0;'><iframe style='float:left;' src='//player.vimeo.com/video/35336470?portrait=0&amp;color=7fc8ff&amp;autoplay=1' width='800' height='450' frameborder='0' title='#{htmlEscape(I18n.t 'Video Player')}' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>")
       .dialog
         width: 800,
-        title: I18n.t "Canvas Introduction Video",
+        title: I18n.t "IBTA Arabia Introduction Video",
         modal: true,
         resizable: false,
         close: -> $(this).remove()

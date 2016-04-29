@@ -8,7 +8,7 @@ define [
     # this check sothat we don't even try to match other types.
     if navigator.userAgent.match(/Android/i) != null
       $.smartbanner
-        title: I18n.t('android_banner_title', 'Canvas by Instructure'),
+        title: I18n.t('android_banner_title', 'Canvas'),
         author: I18n.t('android_banner_author', 'Instructure Inc.'),
         price: I18n.t('android_banner_price', 'FREE'),
         inGooglePlay: I18n.t('android_banner_in_google_play', 'In Google Play'),

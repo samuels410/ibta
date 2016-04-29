@@ -100,7 +100,7 @@
  * 
  * @author Christian Bach/christian.bach@polyester.se
  *
- * AMD by Instructure
+ * AMD
  */
 
 define(['jquery'], function ($) {

@@ -2795,7 +2795,7 @@ en:
   canvas_alert_change_assignment_name_course_name_2fc63d9c: "Canvas Alert - Change: %{assignment_name}, %{course_name}"
   canvas_alert_invited_course_as_role_type_9ed79ce3: "Canvas Alert - Invited: %{course} as %{role_type}"
   canvas_alert_invited_course_as_role_type_ea825937: "Canvas Alert - Invited: course as %{role_type}"
-  canvas_by_instructure_1490381: "Canvas by Instructure"
+  canvas_by_instructure_1490381: "Canvas"
   canvas_cartridge_description: "This enables converting a canvas export to the intermediary json format to be imported"
   canvas_cartridge_display: "Canvas Common Cartridge"
   canvas_cartridge_file_description: "Canvas Course Export Package"
@@ -14088,7 +14088,7 @@ en:
     android_banner_author: "Instructure Inc."
     android_banner_in_google_play: "In Google Play"
     android_banner_price: FREE
-    android_banner_title: "Canvas by Instructure"
+    android_banner_title: "Canvas"
     android_banner_view_button: VIEW
   some_conferences_on_this_page_are_hidden_because_o_789684fd: "Some conferences on this page are hidden because of errors while retrieving their status"
   someone: Someone
@@ -14534,7 +14534,7 @@ en:
                 Thank you,
                 Canvas Support
   the_message_you_sent_with_the_subject_line_subject_c73f92e4: |-
-      The message you sent with the subject line "%{subject}" was not delivered. To reply to Canvas messages from this email, it must first be a confirmed communication channel in your Canvas profile. Please visit your profile and resend the confirmation email for this email address [See https://community.canvaslms.com/docs/DOC-2281]. You may also contact this person via the Canvas Inbox [See https://community.canvaslms.com/docs/DOC-2670].
+      The message you sent with the subject line "%{subject}" was not delivered. To reply to Canvas messages from this email, it must first be a confirmed communication channel in your Canvas profile. Please visit your profile and resend the confirmation email for this email address [See https://community.ibta-arabia.com/docs/DOC-2281]. You may also contact this person via the Canvas Inbox [See https://community.ibta-arabia.com/docs/DOC-2670].
       
                 Thank you,
                 Canvas Support

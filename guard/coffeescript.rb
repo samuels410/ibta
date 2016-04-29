@@ -1,6 +1,6 @@
 #
 # Copyright (c) 2010 - 2011 Michael Kessler
-#   with modifications by Instructure Inc, 2011
+#   with modifications Inc, 2011
 #
 # Permission is hereby granted, free of charge, to any person obtaining
 # a copy of this software and associated documentation files (the

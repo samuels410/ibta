@@ -1,7 +1,7 @@
 <% if aac.try(:last_timeout_failure).present? %>
 <p class='last_timeout_failure'>
   <%= t :ldap_timeout_failure_help2,
-        "If Canvas times out too many times communicating with the LDAP server,"\
+        "If IBTA Arabia times out too many times communicating with the LDAP server,"\
           " it will block further login attempts from using that LDAP "\
           "server for %{time}. Your LDAP server last timed out at %{timestamp}.",
         time: distance_of_time_in_words(aac.failure_wait_time),
@@ -52,7 +52,7 @@
   <%= f.text_field :identifier_format, class: 'ic-Input' %>
   <div class="help-block">
     <%= t(:identifer_format_description,
-          "The LDAP attribute to use to look up the Canvas login. "\
+          "The LDAP attribute to use to look up the IBTA Arabia login. "\
           "Leave blank to use the username supplied by the user.") %>
   </div>
 </div>

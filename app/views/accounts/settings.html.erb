@@ -92,7 +92,7 @@
                 <%= f.select :default_locale, [[no_language, nil]] + available_locales.invert.sort, {:selected => @context.default_locale}, {:class => 'locale'} %>
                 <%= render :partial => 'shared/locale_warning' %>
                 <p class="unbreakable"><%= mt :transifex_message, <<-TEXT, :transifex_url => "https://www.transifex.com/projects/p/canvas-lms/"
-Join the [Canvas Translation Community](%{transifex_url})
+Join the [IBTA Arabia Translation Community](%{transifex_url})
 TEXT
                 %>
                 </p>
@@ -154,7 +154,7 @@ TEXT
                                               :value => @account.settings[:trusted_referers],
                                               :class => 'same-width-as-select',
                                               :placeholder => "https://example.edu" %>
-                      <p style="font-size: 0.9em;"><%= t("This is a comma separated list of URL's to trust.  Trusting any URL's in this list will bypass the CSRF token when logging in to Canvas.") %></p>
+                      <p style="font-size: 0.9em;"><%= t("This is a comma separated list of URL's to trust.  Trusting any URL's in this list will bypass the CSRF token when logging in to IBTA Arabia.") %></p>
                     </td>
                   </tr>
 
@@ -334,11 +334,11 @@ TEXT
                   <% if use_new_styles? %>
                     <div id="global_includes_warning_message" class="account_settings__help-text">
                       <p>
-                        <%= t ("Custom CSS and Javascript may cause accessibility issues or conflicts with future Canvas updates!")%>
+                        <%= t ("Custom CSS and Javascript may cause accessibility issues or conflicts with future IBTA Arabia updates!")%>
                       </p>
                       <p>
                         <%= t do %>
-                        Before implementing custom CSS or Javascript, please refer to <a href="https://community.canvaslms.com/docs/DOC-3010" target="_blank"> our documentation</a>.
+                        Before implementing custom CSS or Javascript, please refer to <a href="https://community.ibta-arabia.com/docs/DOC-3010" target="_blank"> our documentation</a>.
                         <% end %>
                       </p>
                     </div>
@@ -446,7 +446,7 @@ TEXT
                 @account.grants_right?(@current_user, :manage_site_settings) %>
             <fieldset id="add_sis_app_token">
               <legend><%= t("SIS Agent Token Authentication") %></legend>
-              <p style="font-size: 0.9em;"><%= t("This will allow you to authenticate Canvas for posting grades to SIS") %></p>
+              <p style="font-size: 0.9em;"><%= t("This will allow you to authenticate IBTA Arabia for posting grades to SIS") %></p>
               <%= f.fields_for :settings do |settings| %>
                   <table class="formtable">
                     <tr>
@@ -622,11 +622,11 @@ TEXT
               <div class="service_help_dialog" title="<%= t(:about_google_docs_tooltip, "About Google Docs Previews") %>" id="google_docs_previews_help_dialog">
                 <%= mt(:about_google_docs, <<-TEXT, :terms_url => "https://docs.google.com/viewer/TOS")
 Google Docs Previews allow users to view documents from
-within Canvas, rather than having to download them and
+within IBTA Arabia, rather than having to download them and
 open the corresponding program (e.g. Word or Excel).
 
 Google Docs Previews can also render file types
-not supported by the Canvas document previewer.
+not supported by the IBTA Arabia document previewer.
 
 By using this service you
 acknowledge that you have read and agreed to the
@@ -678,13 +678,13 @@ acknowledge that you have read and agreed to the
     <div id="tab-notifications">
       <%= form_for :account, :url => account_url(@account), :html => {:method => :put, :id => "account_settings_notifications"} do |f| %>
         <h2><%= t(:email_notification_from_settings, 'E-mail Notification "From" Settings') %></h2>
-        <p><%= t(:email_notification_from_description, "This setting allows the Admin to brand or label the 'From' text on all notifications sent from Canvas for this Account.") %></p>
+        <p><%= t(:email_notification_from_description, "This setting allows the Admin to brand or label the 'From' text on all notifications sent from IBTA Arabia for this Account.") %></p>
         <%= f.fields_for :settings do |settings| %>
           <div>
             <%= settings.radio_button :outgoing_email_default_name_option, 'default',
                                       :checked => @account.settings[:outgoing_email_default_name].blank?,
                                       :class => 'notification_from_name_option' %>
-            <%= settings.label :outgoing_email_default_name_option_default, :en => "Default Canvas Setting" %>
+            <%= settings.label :outgoing_email_default_name_option_default, :en => "Default IBTA Arabia Setting" %>
           </div>
           <div style='padding-left: 2em;'>
             <strong><%= t 'notifications.example', 'Example:' %></strong>
@@ -721,7 +721,7 @@ acknowledge that you have read and agreed to the
           </div>
           <div style='padding-left: 2em;'>
             <p>
-              <%= t('notifications.custom_name_description', 'If selected, this will replace all other branding sent in Canvas notifications.') %>
+              <%= t('notifications.custom_name_description', 'If selected, this will replace all other branding sent in IBTA Arabia notifications.') %>
               <br/>
               <%= text_field_tag 'account[settings][outgoing_email_default_name]', @account.settings[:outgoing_email_default_name] %>
             </p>
@@ -769,7 +769,7 @@ acknowledge that you have read and agreed to the
             <tr>
               <td>
                 <b><%= t('notifications.external_services_warning_label', 'Pop-up Message Content:') %></b>
-                <blockquote><%= t('notifications.external_services_warning', 'Notice: Some notifications may contain confidential information. Selecting to receive notifications at an email other than your institution provided address may result in sending sensitive Canvas course and group information outside of the institutional system.')%></blockquote>
+                <blockquote><%= t('notifications.external_services_warning', 'Notice: Some notifications may contain confidential information. Selecting to receive notifications at an email other than your institution provided address may result in sending sensitive IBTA Arabia course and group information outside of the institutional system.')%></blockquote>
               </td>
             </tr>
           </table>
@@ -967,7 +967,7 @@ acknowledge that you have read and agreed to the
               <%= t(:interpolate_account_domain, "Enter \"{{ACCOUNT_DOMAIN}}\" to substitute the user's root account domain") %>
             </p>
             <p>
-              <%= t(:interpolate_user_id, "Enter \"{{CANVAS_USER_ID}}\" to substitute the user's unique Canvas ID") %>
+              <%= t(:interpolate_user_id, "Enter \"{{CANVAS_USER_ID}}\" to substitute the user's unique IBTA Arabia ID") %>
             </p>
           <% end %>
         </div>

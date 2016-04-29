@@ -1,6 +1,6 @@
 # Copyright (c) 2008-2009 Vodafone
 # Copyright (c) 2007-2008 Ryan Allen, FlashDen Pty Ltd
-# Minor changes by Instructure, Inc.
+# Minor changes, Inc.
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal

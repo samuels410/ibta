@@ -5,7 +5,7 @@
 # * Dual licensed under the MIT or GPL Version 2 licenses.
 # * http://jquery.org/license
 # *
-# * converted to coffeescript by instructure
+# * converted to coffeescript
 define ["jquery"], ($) ->
   $.fn.extend simulate: (type, options) ->
     @each ->

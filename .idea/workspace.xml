@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa5a1993-e99f-40a6-9607-b1986a865559" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/500.html" afterPath="$PROJECT_DIR$/public/500.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/jst/assignments/GradingTypeSelector.handlebars" afterPath="$PROJECT_DIR$/app/views/jst/assignments/GradingTypeSelector.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/jst/ExternalTools/IndexView.handlebars" afterPath="$PROJECT_DIR$/app/views/jst/ExternalTools/IndexView.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/jst/tinymce/InsertUpdateImageView.handlebars" afterPath="$PROJECT_DIR$/app/views/jst/tinymce/InsertUpdateImageView.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/jst/quizzes/LDBLoginPopup.handlebars" afterPath="$PROJECT_DIR$/app/views/jst/quizzes/LDBLoginPopup.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/jsx/external_apps/components/ManageAppListButton.jsx" afterPath="$PROJECT_DIR$/app/jsx/external_apps/components/ManageAppListButton.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/jst/tours/QuizRegrade.handlebars" afterPath="$PROJECT_DIR$/app/views/jst/tours/QuizRegrade.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client_apps/canvas_quizzes/README.md" afterPath="$PROJECT_DIR$/client_apps/canvas_quizzes/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/jsx/theme_editor/ThemeEditor.jsx" afterPath="$PROJECT_DIR$/app/jsx/theme_editor/ThemeEditor.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/coffeescripts/views/accounts/admin_tools/UserDateRangeSearchFormView.coffee" afterPath="$PROJECT_DIR$/app/coffeescripts/views/accounts/admin_tools/UserDateRangeSearchFormView.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/collaborations/_auth_google_drive.html.erb" afterPath="$PROJECT_DIR$/app/views/collaborations/_auth_google_drive.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/plugins/_byots_docs.html.erb" afterPath="$PROJECT_DIR$/app/views/plugins/_byots_docs.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/_cc_prefs.html.erb" afterPath="$PROJECT_DIR$/app/views/users/_cc_prefs.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/accounts/_edit_account_notification.html.erb" afterPath="$PROJECT_DIR$/app/views/accounts/_edit_account_notification.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/_email_footer.email.erb" afterPath="$PROJECT_DIR$/app/messages/_email_footer.email.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/collaborations/_forms.html.erb" afterPath="$PROJECT_DIR$/app/views/collaborations/_forms.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_head.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_head.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/login/shared/_header_logo.html.erb" afterPath="$PROJECT_DIR$/app/views/login/shared/_header_logo.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/stylesheets/components/_ic-forms.scss" afterPath="$PROJECT_DIR$/app/stylesheets/components/_ic-forms.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/stylesheets/vendor/jqueryui/_jquery.ui.tabs.scss" afterPath="$PROJECT_DIR$/app/stylesheets/vendor/jqueryui/_jquery.ui.tabs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/plugins/_kaltura_settings.html.erb" afterPath="$PROJECT_DIR$/app/views/plugins/_kaltura_settings.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/account_authorization_configs/_ldap_fields.html.erb" afterPath="$PROJECT_DIR$/app/views/account_authorization_configs/_ldap_fields.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/account_authorization_configs/_ldap_settings_test.html.erb" afterPath="$PROJECT_DIR$/app/views/account_authorization_configs/_ldap_settings_test.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/login/canvas/_legacy_login_content.html.erb" afterPath="$PROJECT_DIR$/app/views/login/canvas/_legacy_login_content.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/login/canvas/_login_banner.html.erb" afterPath="$PROJECT_DIR$/app/views/login/canvas/_login_banner.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/_logins.html.erb" afterPath="$PROJECT_DIR$/app/views/users/_logins.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/lti/_lti_message.html.erb" afterPath="$PROJECT_DIR$/app/views/lti/_lti_message.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/plugins/_panda_pub_settings.html.erb" afterPath="$PROJECT_DIR$/app/views/plugins/_panda_pub_settings.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/shared/_profile.html.erb" afterPath="$PROJECT_DIR$/app/views/shared/_profile.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/account_authorization_configs/_saml_testing.html.erb" afterPath="$PROJECT_DIR$/app/views/account_authorization_configs/_saml_testing.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/account_authorization_configs/_sso_settings_form.html.erb" afterPath="$PROJECT_DIR$/app/views/account_authorization_configs/_sso_settings_form.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/shared/_static_notices.html.erb" afterPath="$PROJECT_DIR$/app/views/shared/_static_notices.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/eportfolios/_static_page.html.erb" afterPath="$PROJECT_DIR$/app/views/eportfolios/_static_page.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/assignments/_submit_assignment.html.erb" afterPath="$PROJECT_DIR$/app/views/assignments/_submit_assignment.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/profile/_ways_to_contact.html.erb" afterPath="$PROJECT_DIR$/app/views/profile/_ways_to_contact.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/_welcome.html.erb" afterPath="$PROJECT_DIR$/app/views/users/_welcome.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/account_user_registration.email.erb" afterPath="$PROJECT_DIR$/app/messages/account_user_registration.email.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/account_user_registration.email.html.erb" afterPath="$PROJECT_DIR$/app/messages/account_user_registration.email.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/added_to_conversation.email.erb" afterPath="$PROJECT_DIR$/app/messages/added_to_conversation.email.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/added_to_conversation.email.html.erb" afterPath="$PROJECT_DIR$/app/messages/added_to_conversation.email.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/added_to_conversation.sms.erb" afterPath="$PROJECT_DIR$/app/messages/added_to_conversation.sms.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/added_to_conversation.summary.erb" afterPath="$PROJECT_DIR$/app/messages/added_to_conversation.summary.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/added_to_conversation.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/added_to_conversation.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/announcement_created_by_you.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/announcement_created_by_you.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/announcement_reply.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/announcement_reply.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/appointment_canceled_by_user.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/appointment_canceled_by_user.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/appointment_deleted_for_user.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/appointment_deleted_for_user.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/appointment_group_deleted.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/appointment_group_deleted.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/appointment_group_published.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/appointment_group_published.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/appointment_group_updated.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/appointment_group_updated.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/appointment_reserved_by_user.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/appointment_reserved_by_user.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/appointment_reserved_for_user.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/appointment_reserved_for_user.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/ar.yml" afterPath="$PROJECT_DIR$/config/locales/ar.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/assignment_changed.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/assignment_changed.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/assignment_created.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/assignment_created.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/assignment_due_date_changed.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/assignment_due_date_changed.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/assignment_due_date_override_changed.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/assignment_due_date_override_changed.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/assignment_graded.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/assignment_graded.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/assignment_resubmitted.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/assignment_resubmitted.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/assignment_submitted.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/assignment_submitted.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/assignment_submitted_late.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/assignment_submitted_late.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/cc/exporter/epub/book.rb" afterPath="$PROJECT_DIR$/lib/cc/exporter/epub/book.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guard/coffeescript.rb" afterPath="$PROJECT_DIR$/guard/coffeescript.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/collaboration_invitation.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/collaboration_invitation.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/jst/accounts/admin_tools/commMessagesContentPane.handlebars" afterPath="$PROJECT_DIR$/app/views/jst/accounts/admin_tools/commMessagesContentPane.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/communication_channels/confirm.html.erb" afterPath="$PROJECT_DIR$/app/views/communication_channels/confirm.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/oauth2_provider/confirm.html.erb" afterPath="$PROJECT_DIR$/app/views/oauth2_provider/confirm.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/courses/confirm_action.html.erb" afterPath="$PROJECT_DIR$/app/views/courses/confirm_action.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/confirm_email_communication_channel.email.erb" afterPath="$PROJECT_DIR$/app/messages/confirm_email_communication_channel.email.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/confirm_email_communication_channel.email.html.erb" afterPath="$PROJECT_DIR$/app/messages/confirm_email_communication_channel.email.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/communication_channels/confirm_failed.html.erb" afterPath="$PROJECT_DIR$/app/views/communication_channels/confirm_failed.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/confirm_registration.email.html.erb" afterPath="$PROJECT_DIR$/app/messages/confirm_registration.email.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/confirm_sms_communication_channel.sms.erb" afterPath="$PROJECT_DIR$/app/messages/confirm_sms_communication_channel.sms.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/conversation_created.email.erb" afterPath="$PROJECT_DIR$/app/messages/conversation_created.email.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/conversation_created.email.html.erb" afterPath="$PROJECT_DIR$/app/messages/conversation_created.email.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/conversation_created.sms.erb" afterPath="$PROJECT_DIR$/app/messages/conversation_created.sms.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/conversation_created.summary.erb" afterPath="$PROJECT_DIR$/app/messages/conversation_created.summary.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/conversation_created.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/conversation_created.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/conversation_message.email.erb" afterPath="$PROJECT_DIR$/app/messages/conversation_message.email.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/conversation_message.email.html.erb" afterPath="$PROJECT_DIR$/app/messages/conversation_message.email.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/conversation_message.sms.erb" afterPath="$PROJECT_DIR$/app/messages/conversation_message.sms.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/conversation_message.summary.erb" afterPath="$PROJECT_DIR$/app/messages/conversation_message.summary.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/conversation_message.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/conversation_message.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/jst/courses/roster/createUsers.handlebars" afterPath="$PROJECT_DIR$/app/views/jst/courses/roster/createUsers.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/da.yml" afterPath="$PROJECT_DIR$/config/locales/da.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/dashboard_sidebar.html.erb" afterPath="$PROJECT_DIR$/app/views/users/dashboard_sidebar.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/de.yml" afterPath="$PROJECT_DIR$/config/locales/de.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/groups/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/groups/edit.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/en-AU.yml" afterPath="$PROJECT_DIR$/config/locales/en-AU.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/en-GB.yml" afterPath="$PROJECT_DIR$/config/locales/en-GB.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/generated/en.yml" afterPath="$PROJECT_DIR$/config/locales/generated/en.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/locales/en.yml" afterPath="$PROJECT_DIR$/public/locales/en.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/enrollment_invitation.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/enrollment_invitation.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/enrollment_notification.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/enrollment_notification.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/enrollment_registration.email.erb" afterPath="$PROJECT_DIR$/app/messages/enrollment_registration.email.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/enrollment_registration.email.html.erb" afterPath="$PROJECT_DIR$/app/messages/enrollment_registration.email.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/enrollment_registration.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/enrollment_registration.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/es.yml" afterPath="$PROJECT_DIR$/config/locales/es.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/content_imports/files.html.erb" afterPath="$PROJECT_DIR$/app/views/content_imports/files.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/forgot_password.email.erb" afterPath="$PROJECT_DIR$/app/messages/forgot_password.email.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/forgot_password.email.html.erb" afterPath="$PROJECT_DIR$/app/messages/forgot_password.email.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/fr.yml" afterPath="$PROJECT_DIR$/config/locales/fr.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/grade_weight_changed.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/grade_weight_changed.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/group_assignment_submitted_late.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/group_assignment_submitted_late.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/group_membership_accepted.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/group_membership_accepted.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/group_membership_rejected.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/group_membership_rejected.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/canvas/help.rb" afterPath="$PROJECT_DIR$/lib/canvas/help.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/jst/helpDialog.handlebars" afterPath="$PROJECT_DIR$/app/views/jst/helpDialog.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/coffeescripts/registration/incompleteRegistrationWarning.coffee" afterPath="$PROJECT_DIR$/app/coffeescripts/registration/incompleteRegistrationWarning.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/account_authorization_configs/index.html.erb" afterPath="$PROJECT_DIR$/app/views/account_authorization_configs/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/plugins/index.html.erb" afterPath="$PROJECT_DIR$/app/views/plugins/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/coffeescripts/behaviors/instructure_inline_media_comment.coffee" afterPath="$PROJECT_DIR$/app/coffeescripts/behaviors/instructure_inline_media_comment.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/ja.yml" afterPath="$PROJECT_DIR$/config/locales/ja.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/coffeescripts/helpers/jquery.simulate.coffee" afterPath="$PROJECT_DIR$/spec/coffeescripts/helpers/jquery.simulate.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/vendor/jquery.tablesorter.js" afterPath="$PROJECT_DIR$/public/javascripts/vendor/jquery.tablesorter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/legal_information_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/legal_information_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/login/logout_confirm.html.erb" afterPath="$PROJECT_DIR$/app/views/login/logout_confirm.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/coffeescripts/registration/main.coffee" afterPath="$PROJECT_DIR$/app/coffeescripts/registration/main.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/jst/outcomes/mainInstructions.handlebars" afterPath="$PROJECT_DIR$/app/views/jst/outcomes/mainInstructions.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/merge_email_communication_channel.email.erb" afterPath="$PROJECT_DIR$/app/messages/merge_email_communication_channel.email.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/merge_email_communication_channel.email.html.erb" afterPath="$PROJECT_DIR$/app/messages/merge_email_communication_channel.email.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/incoming_mail/message_handler.rb" afterPath="$PROJECT_DIR$/app/models/incoming_mail/message_handler.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/mi.yml" afterPath="$PROJECT_DIR$/config/locales/mi.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/mobile_auth.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/mobile_auth.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/selenium/navigation_spec.rb" afterPath="$PROJECT_DIR$/spec/selenium/navigation_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/nb.yml" afterPath="$PROJECT_DIR$/config/locales/nb.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/gradebook_uploads/new.html.erb" afterPath="$PROJECT_DIR$/app/views/gradebook_uploads/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/login/canvas/new.html.erb" afterPath="$PROJECT_DIR$/app/views/login/canvas/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/login/otp/new.html.erb" afterPath="$PROJECT_DIR$/app/views/login/otp/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/self_enrollments/new.html.erb" afterPath="$PROJECT_DIR$/app/views/self_enrollments/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/new.html.erb" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/new_account_user.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/new_account_user.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/new_announcement.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/new_announcement.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/new_context_group_membership.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/new_context_group_membership.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/new_context_group_membership_invitation.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/new_context_group_membership_invitation.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/new_course.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/new_course.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/new_discussion_entry.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/new_discussion_entry.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/new_discussion_topic.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/new_discussion_topic.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/new_event_created.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/new_event_created.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/new_file_added.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/new_file_added.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/new_files_added.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/new_files_added.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/new_student_organized_group.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/new_student_organized_group.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/new_user.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/new_user.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/nl.yml" afterPath="$PROJECT_DIR$/config/locales/nl.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/api/oauth.md" afterPath="$PROJECT_DIR$/doc/api/oauth.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/info/old_styleguide.html.erb" afterPath="$PROJECT_DIR$/app/views/info/old_styleguide.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client_apps/canvas_quizzes/package.json" afterPath="$PROJECT_DIR$/client_apps/canvas_quizzes/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/pl.yml" afterPath="$PROJECT_DIR$/config/locales/pl.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/tinymce_plugins/instructure_embed/plugin.js" afterPath="$PROJECT_DIR$/public/javascripts/tinymce_plugins/instructure_embed/plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/jst/profiles/notifications/privacyNotice.handlebars" afterPath="$PROJECT_DIR$/app/views/jst/profiles/notifications/privacyNotice.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/profile/profile.html.erb" afterPath="$PROJECT_DIR$/app/views/profile/profile.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/pseudonym_registration.email.erb" afterPath="$PROJECT_DIR$/app/messages/pseudonym_registration.email.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/pseudonym_registration.email.html.erb" afterPath="$PROJECT_DIR$/app/messages/pseudonym_registration.email.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/pseudonym_registration.sms.erb" afterPath="$PROJECT_DIR$/app/messages/pseudonym_registration.sms.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/pseudonym_registration.summary.erb" afterPath="$PROJECT_DIR$/app/messages/pseudonym_registration.summary.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/pseudonym_registration.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/pseudonym_registration.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/pseudonym_registration_done.email.erb" afterPath="$PROJECT_DIR$/app/messages/pseudonym_registration_done.email.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/pseudonym_registration_done.email.html.erb" afterPath="$PROJECT_DIR$/app/messages/pseudonym_registration_done.email.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/pseudonym_registration_done.sms.erb" afterPath="$PROJECT_DIR$/app/messages/pseudonym_registration_done.sms.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/pseudonym_registration_done.summary.erb" afterPath="$PROJECT_DIR$/app/messages/pseudonym_registration_done.summary.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/pseudonym_registration_done.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/pseudonym_registration_done.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/pt-BR.yml" afterPath="$PROJECT_DIR$/config/locales/pt-BR.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/pt.yml" afterPath="$PROJECT_DIR$/config/locales/pt.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/quiz_regrade_finished.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/quiz_regrade_finished.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/rails" afterPath="$PROJECT_DIR$/script/rails" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/registered.html.erb" afterPath="$PROJECT_DIR$/app/views/users/registered.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/jst/quiz/regrade.handlebars" afterPath="$PROJECT_DIR$/app/views/jst/quiz/regrade.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/jst/courses/roster/rosterUsers.handlebars" afterPath="$PROJECT_DIR$/app/views/jst/courses/roster/rosterUsers.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/context/roster_user.html.erb" afterPath="$PROJECT_DIR$/app/views/context/roster_user.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/context/roster_user_services.html.erb" afterPath="$PROJECT_DIR$/app/views/context/roster_user_services.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/ru.yml" afterPath="$PROJECT_DIR$/config/locales/ru.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/rubric_assessment_submission_reminder.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/rubric_assessment_submission_reminder.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/rubric_association_created.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/rubric_association_created.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/accounts/settings.html.erb" afterPath="$PROJECT_DIR$/app/views/accounts/settings.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/courses/settings.html.erb" afterPath="$PROJECT_DIR$/app/views/courses/settings.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/brand_configs/show.html.erb" afterPath="$PROJECT_DIR$/app/views/brand_configs/show.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/coffeescripts/bundles/smartbanner.coffee" afterPath="$PROJECT_DIR$/app/coffeescripts/bundles/smartbanner.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/submission_comment.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/submission_comment.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/submission_comment_for_teacher.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/submission_comment_for_teacher.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/submission_grade_changed.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/submission_grade_changed.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/submission_graded.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/submission_graded.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/submission_needs_grading.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/submission_needs_grading.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/summaries.email.erb" afterPath="$PROJECT_DIR$/app/messages/summaries.email.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/summaries.email.html.erb" afterPath="$PROJECT_DIR$/app/messages/summaries.email.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/summaries.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/summaries.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/sv.yml" afterPath="$PROJECT_DIR$/config/locales/sv.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/quizzes/quizzes/take_quiz.html.erb" afterPath="$PROJECT_DIR$/app/views/quizzes/quizzes/take_quiz.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/shared/terms_required.html.erb" afterPath="$PROJECT_DIR$/app/views/shared/terms_required.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/lti/tool_consumer_profile_creator.rb" afterPath="$PROJECT_DIR$/app/models/lti/tool_consumer_profile_creator.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/models/lti/tool_consumer_profile_creator_spec.rb" afterPath="$PROJECT_DIR$/spec/models/lti/tool_consumer_profile_creator_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/updated_wiki_page.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/updated_wiki_page.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/context_modules/url_show.html.erb" afterPath="$PROJECT_DIR$/app/views/context_modules/url_show.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/coffeescripts/bundles/legacy/users_registered.coffee" afterPath="$PROJECT_DIR$/app/coffeescripts/bundles/legacy/users_registered.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/web_conference_invitation.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/web_conference_invitation.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/messages/web_conference_recording_ready.twitter.erb" afterPath="$PROJECT_DIR$/app/messages/web_conference_recording_ready.twitter.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gems/workflow/lib/workflow.rb" afterPath="$PROJECT_DIR$/gems/workflow/lib/workflow.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/zh-Hans.yml" afterPath="$PROJECT_DIR$/config/locales/zh-Hans.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/zh-Hant.yml" afterPath="$PROJECT_DIR$/config/locales/zh-Hant.yml" />
+    </list>
+    <ignored path="ibta.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/components/" />
+    <ignored path="$PROJECT_DIR$/public/system/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ibta" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.35008666">
+              <caret line="139" column="10" selection-start-line="139" selection-start-column="10" selection-end-line="139" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/messages/new_files_added.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/new_student_organized_group.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/new_user.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/pseudonym_registration.email.erb" />
+        <option value="$PROJECT_DIR$/app/messages/pseudonym_registration.email.html.erb" />
+        <option value="$PROJECT_DIR$/app/messages/pseudonym_registration.sms.erb" />
+        <option value="$PROJECT_DIR$/app/messages/pseudonym_registration.summary.erb" />
+        <option value="$PROJECT_DIR$/app/messages/pseudonym_registration.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/pseudonym_registration_done.email.erb" />
+        <option value="$PROJECT_DIR$/app/messages/pseudonym_registration_done.email.html.erb" />
+        <option value="$PROJECT_DIR$/app/messages/pseudonym_registration_done.sms.erb" />
+        <option value="$PROJECT_DIR$/app/messages/pseudonym_registration_done.summary.erb" />
+        <option value="$PROJECT_DIR$/app/messages/pseudonym_registration_done.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/quiz_regrade_finished.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/rubric_assessment_submission_reminder.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/rubric_association_created.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/submission_comment.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/submission_comment_for_teacher.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/submission_grade_changed.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/submission_graded.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/submission_needs_grading.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/summaries.email.erb" />
+        <option value="$PROJECT_DIR$/app/messages/summaries.email.html.erb" />
+        <option value="$PROJECT_DIR$/app/messages/summaries.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/updated_wiki_page.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/web_conference_invitation.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/messages/web_conference_recording_ready.twitter.erb" />
+        <option value="$PROJECT_DIR$/app/helpers/legal_information_helper.rb" />
+        <option value="$PROJECT_DIR$/CONTRIBUTING.md" />
+        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/app/jsx/external_apps/components/ManageAppListButton.jsx" />
+        <option value="$PROJECT_DIR$/app/jsx/theme_editor/ThemeEditor.jsx" />
+        <option value="$PROJECT_DIR$/app/models/incoming_mail/message_handler.rb" />
+        <option value="$PROJECT_DIR$/app/views/accounts/settings.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/courses/confirm_action.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/gradebook_uploads/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/jst/helpDialog.handlebars" />
+        <option value="$PROJECT_DIR$/client_apps/canvas_quizzes/vendor/canvas_public/locales/en.yml" />
+        <option value="$PROJECT_DIR$/client_apps/canvas_quizzes/www/vendor/canvas_public/locales/en.yml" />
+        <option value="$PROJECT_DIR$/config/locales/da.yml" />
+        <option value="$PROJECT_DIR$/config/locales/de.yml" />
+        <option value="$PROJECT_DIR$/config/locales/es.yml" />
+        <option value="$PROJECT_DIR$/config/locales/fr.yml" />
+        <option value="$PROJECT_DIR$/config/locales/generated/en.yml" />
+        <option value="$PROJECT_DIR$/config/locales/ja.yml" />
+        <option value="$PROJECT_DIR$/config/locales/mi.yml" />
+        <option value="$PROJECT_DIR$/config/locales/nb.yml" />
+        <option value="$PROJECT_DIR$/config/locales/ar.yml" />
+        <option value="$PROJECT_DIR$/config/locales/en-GB.yml" />
+        <option value="$PROJECT_DIR$/config/locales/en-AU.yml" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ibta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ibta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ibta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ibta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ibta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager" selected="Rails.Development: ibta">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="false" name="test: ibta" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="ibta" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="spec: ibta" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="ibta" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Production: ibta" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="ibta" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Development: ibta" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="ibta" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Rake.test: ibta" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec: ibta" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: ibta" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: ibta" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa5a1993-e99f-40a6-9607-b1986a865559" name="Default" comment="" />
+      <created>1461912683408</created>
+      <option name="number" value="Default" />
+      <updated>1461912683408</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="724" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/messages/web_conference_recording_ready.twitter.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/messages/updated_wiki_page.twitter.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/messages/updated_wiki_page.email.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/account_notification_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/accounts_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="458" column="34" selection-start-line="458" selection-start-column="34" selection-end-line="458" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/assignments_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/attachment_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/calendar_events_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/calendars_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/collaborations_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/communication_channels_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/content_imports_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/context_modules_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/courses_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/dashboard_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/eportfolios_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/gradebooks_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/groups_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/hmac_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/kaltura_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="99" selection-start-line="20" selection-start-column="99" selection-end-line="20" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/login/canvas_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/login/otp_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/quizzes_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/search_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/self_enrollments_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/legal_information_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.172414">
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1836" column="210" selection-start-line="1836" selection-start-column="210" selection-end-line="1836" selection-end-column="210" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jsx/external_apps/components/ManageAppListButton.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="107" column="56" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jsx/theme_editor/ThemeEditor.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="401" column="75" selection-start-line="401" selection-start-column="75" selection-end-line="401" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/incoming_mail/message_handler.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="119" column="420" selection-start-line="119" selection-start-column="420" selection-end-line="119" selection-end-column="420" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/accounts/settings.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.4583335">
+          <caret line="340" column="113" selection-start-line="340" selection-start-column="113" selection-end-line="340" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/courses/confirm_action.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.4583335">
+          <caret line="18" column="298" selection-start-line="18" selection-start-column="298" selection-end-line="18" selection-end-column="298" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/gradebook_uploads/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/jst/helpDialog.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.4583335">
+          <caret line="28" column="148" selection-start-line="28" selection-start-column="148" selection-end-line="28" selection-end-column="148" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_apps/canvas_quizzes/vendor/canvas_public/locales/en.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14536" column="416" selection-start-line="14536" selection-start-column="416" selection-end-line="14536" selection-end-column="416" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_apps/canvas_quizzes/www/vendor/canvas_public/locales/en.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14536" column="416" selection-start-line="14536" selection-start-column="416" selection-end-line="14536" selection-end-column="416" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/da.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15330" column="407" selection-start-line="15330" selection-start-column="407" selection-end-line="15330" selection-end-column="407" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/de.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15269" column="472" selection-start-line="15269" selection-start-column="472" selection-end-line="15269" selection-end-column="472" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/ja.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21797004">
+          <caret line="15328" column="237" selection-start-line="15328" selection-start-column="237" selection-end-line="15328" selection-end-column="237" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/mi.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21797004">
+          <caret line="15204" column="449" selection-start-line="15204" selection-start-column="449" selection-end-line="15204" selection-end-column="449" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/nb.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21797004">
+          <caret line="15304" column="301" selection-start-line="15304" selection-start-column="301" selection-end-line="15304" selection-end-column="301" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/coffeescripts/backbone-ext/DefaultUrlMixin.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12479201">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/ar.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44425955">
+          <caret line="2952" column="8" selection-start-line="2952" selection-start-column="8" selection-end-line="2952" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/fr.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26788685">
+          <caret line="15325" column="42" selection-start-line="15325" selection-start-column="42" selection-end-line="15325" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/es.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21797004">
+          <caret line="15280" column="511" selection-start-line="15280" selection-start-column="511" selection-end-line="15280" selection-end-column="511" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/en-GB.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="18.364393">
+          <caret line="15320" column="133" selection-start-line="15320" selection-start-column="133" selection-end-line="15320" selection-end-column="133" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/en-AU.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3527454">
+          <caret line="15322" column="68" selection-start-line="15322" selection-start-column="68" selection-end-line="15322" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/generated/en.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21797004">
+          <caret line="14536" column="416" selection-start-line="14536" selection-start-column="416" selection-end-line="14536" selection-end-column="416" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35008666">
+          <caret line="139" column="10" selection-start-line="139" selection-start-column="10" selection-end-line="139" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

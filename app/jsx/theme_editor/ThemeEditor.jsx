@@ -399,7 +399,7 @@ define([
                               dangerouslySetInnerHTML={{
                                 __html:
                                   I18n.t('Before implementing custom CSS or Javascript, please refer to *our documentation*.', {
-                                    wrappers: ['<a href="https://community.canvaslms.com/docs/DOC-3010" target="_blank">$1</a>']
+                                    wrappers: ['<a href="https://community.ibta-arabia.com/docs/DOC-3010" target="_blank">$1</a>']
                                   })
                                 }}
                             />

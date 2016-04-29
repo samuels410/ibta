@@ -99,7 +99,7 @@ module Lti
 
     def create_product_info
       product_info = IMS::LTI::Models::ProductInfo.new
-      product_info.create_product_name('Canvas by Instructure')
+      product_info.create_product_name('Canvas')
       product_info.product_version = 'none'
       product_info.product_family = create_product_family
       product_info

@@ -1,6 +1,6 @@
 # canvas-quizzes
 
-A collection of quiz mini-apps for Canvas, the LMS by Instructure.
+A collection of quiz mini-apps for Canvas, the LMS.
 
 See the [development guide](https://github.com/amireh/canvas_quiz_statistics/wiki/Development-Guide) to get started.
 

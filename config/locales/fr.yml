@@ -14856,7 +14856,7 @@ fr:
     android_banner_author: "Instructure Inc."
     android_banner_in_google_play: "Dans Google Play"
     android_banner_price: GRATUIT
-    android_banner_title: "Canvas by Instructure"
+    android_banner_title: "Canvas"
     android_banner_view_button: AFFICHAGE
   some_conferences_on_this_page_are_hidden_because_o_789684fd: "Certaines conférences de cette page sont masquées à cause d'erreurs lors de la récupération de leur statut"
   someone: Quelqu'un
@@ -15328,7 +15328,7 @@ fr:
               Merci,
               L’assistance technique Canvas
   the_message_you_sent_with_the_subject_line_subject_c73f92e4: |-
-      Le message que vous avez envoyé avec le sujet "%{subject}" n'a pu être délivré. Pour répondre aux messages Canvas depuis cette adresse courriel, il doit tout d'abord  être un canal de communication confirmé dans votre profil Canvas. Veuillez visiter votre profil et renvoyer le courriel de confirmation pour cette adresse [Voir https://community.canvaslms.com/docs/DOC-2281]. Vous pouvez aussi contacter cette personne via la boîte de réception [Voir https://community.canvaslms.com/docs/DOC-2670].
+      Le message que vous avez envoyé avec le sujet "%{subject}" n'a pu être délivré. Pour répondre aux messages Canvas depuis cette adresse courriel, il doit tout d'abord  être un canal de communication confirmé dans votre profil Canvas. Veuillez visiter votre profil et renvoyer le courriel de confirmation pour cette adresse [Voir https://community.ibta-arabia.com/docs/DOC-2281]. Vous pouvez aussi contacter cette personne via la boîte de réception [Voir https://community.ibta-arabia.com/docs/DOC-2670].
       
       En vous remerciant,
       L'équipe de support de Canvas

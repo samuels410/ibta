@@ -51,12 +51,12 @@ describe 'Global Navigation' do
         @teacher.enable_feature! :lor_for_user
         @tool = Account.default.context_external_tools.new({
           :name => "Commons",
-          :domain => "canvaslms.com",
+          :domain => "ibta-arabia.com",
           :consumer_key => '12345',
           :shared_secret => 'secret'
         })
         @tool.set_extension_setting(:global_navigation, {
-          :url => "canvaslms.com",
+          :url => "ibta-arabia.com",
           :visibility => "admins",
           :display_type => "full_width",
           :text => "Commons"

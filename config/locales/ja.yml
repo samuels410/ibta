@@ -2894,7 +2894,7 @@ ja:
   canvas_alert_change_assignment_name_course_name_2fc63d9c: "Canvas アラート - 変更: %{assignment_name}、%{course_name}"
   canvas_alert_invited_course_as_role_type_9ed79ce3: "Canvas アラート - コースに招待されています: %{role_type}として%{course}へ"
   canvas_alert_invited_course_as_role_type_ea825937: "Canvas アラート - コースに招待されています: %{role_type}として"
-  canvas_by_instructure_1490381: "Canvas by Instructure"
+  canvas_by_instructure_1490381: "Canvas"
   canvas_cartridge_description: "これは、Canvas のエクスポートを JSON 形式の中間ファイルに変換し、インポートできるようにします。"
   canvas_cartridge_display: "Canvas コモン カートリッジ"
   canvas_cartridge_file_description: "Canvas コース エクスポート パッケージ"
@@ -14853,7 +14853,7 @@ ja:
     android_banner_author: "Instructure Inc."
     android_banner_in_google_play: "Google Play"
     android_banner_price: 無料
-    android_banner_title: "Canvas by Instructure"
+    android_banner_title: "Canvas"
     android_banner_view_button: 表示
   some_conferences_on_this_page_are_hidden_because_o_789684fd: このページのいくつかのカンファレンスが、ステータスの取得中に、エラーのために非表示になります。
   someone: 名前未登録ユーザ
@@ -15326,7 +15326,7 @@ ja:
       今後ともよろしくお願いいたします。
        Canvas サポート
   the_message_you_sent_with_the_subject_line_subject_c73f92e4: |-
-      "%{subject}" の件名で送信したメッセージは、送信されませんでした。このメールからCanvasメッセージに返信するには、最初にCanvasプロファイルの通信チャンネルを確認する必要があります。プロファイルに移動し、このメールアドレス[ https://community.canvaslms.com/docs/DOC-2281 をご覧ください]に確認メールを再送信してください。また、Canvas Inbox [https://community.canvaslms.com/docs/DOC-2670 をご覧ください]を通じ、この人物に連絡することができます。
+      "%{subject}" の件名で送信したメッセージは、送信されませんでした。このメールからCanvasメッセージに返信するには、最初にCanvasプロファイルの通信チャンネルを確認する必要があります。プロファイルに移動し、このメールアドレス[ https://community.ibta-arabia.com/docs/DOC-2281 をご覧ください]に確認メールを再送信してください。また、Canvas Inbox [https://community.ibta-arabia.com/docs/DOC-2670 をご覧ください]を通じ、この人物に連絡することができます。
       
       宜しくお願いします。
       Canvasサポート

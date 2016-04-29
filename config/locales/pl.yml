@@ -2914,7 +2914,7 @@ pl:
   canvas_alert_change_assignment_name_course_name_2fc63d9c: "Alert systemu Canvas — zmiana: %{assignment_name}, %{course_name}"
   canvas_alert_invited_course_as_role_type_9ed79ce3: "Alert systemu Canvas — otrzymanie zaproszenia: na  %{course}  jako %{role_type}"
   canvas_alert_invited_course_as_role_type_ea825937: "Alert systemu Canvas — otrzymanie zaproszenia  jako %{role_type}"
-  canvas_by_instructure_1490381: "Canvas by Instructure"
+  canvas_by_instructure_1490381: "Canvas"
   canvas_cartridge_description: "Umożliwia konwersję eksportu z systemu Canvas do pośredniego formatu JSON, który można importować"
   canvas_cartridge_display: "Canvas Common Cartridge"
   canvas_cartridge_file_description: "Paczka eksportu kursu Canvas"
@@ -15029,7 +15029,7 @@ pl:
     android_banner_author: "Instructure Inc."
     android_banner_in_google_play: "W sklepie Google Play"
     android_banner_price: BEZPŁATNIE
-    android_banner_title: "Canvas by Instructure"
+    android_banner_title: "Canvas"
     android_banner_view_button: WIDOK
   some_conferences_on_this_page_are_hidden_because_o_789684fd: "Niektóre konferencje na tej stronie są ukryte ze względu na błędy, które wystąpiły podczas odzyskiwania ich statusu"
   someone: Gość
@@ -15508,7 +15508,7 @@ pl:
       Dziekujemy
       Pomoc techniczna Canvas
   the_message_you_sent_with_the_subject_line_subject_c73f92e4: |-
-      Wiadomość wysłana z tematem  "%{subject}"  nie została dostarczona. Aby odpowiedzieć na wiadomości Canvas z tego adresu email, najpierw musi być wpisany jako zatwierdzony kanał komunikacyjny w twoim profilu Canvas. Odwiedź swój profil i ponownie wyślij wiadomość z potwierdzeniem dla tego adresu email [Zobacz https://community.canvaslms.com/docs/DOC-2281]. Możesz również skontaktować się z daną osobą za pośrednictwem skrzynki odbiorczej Canvas [Zobacz https://community.canvaslms.com/docs/DOC-2670].
+      Wiadomość wysłana z tematem  "%{subject}"  nie została dostarczona. Aby odpowiedzieć na wiadomości Canvas z tego adresu email, najpierw musi być wpisany jako zatwierdzony kanał komunikacyjny w twoim profilu Canvas. Odwiedź swój profil i ponownie wyślij wiadomość z potwierdzeniem dla tego adresu email [Zobacz https://community.ibta-arabia.com/docs/DOC-2281]. Możesz również skontaktować się z daną osobą za pośrednictwem skrzynki odbiorczej Canvas [Zobacz https://community.ibta-arabia.com/docs/DOC-2670].
       
       Dziękujemy,
       Zespół pomocy technicznej Canvas

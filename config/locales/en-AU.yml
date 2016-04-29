@@ -79,20 +79,20 @@ en-AU:
   accepted_user_role_type_course_course_2ce91589: "Accepted: %{user}, %{role_type}, course, %{course}"
   access_token_3be22221: "Access Token"
   access_token_is_valid_until_d2f048cf: "Access token is valid until"
-  access_tokens_can_be_used_to_allow_other_applicati_16c4a3ab: "Access tokens can be used to allow other applications to make API calls on your behalf. You can also generate access tokens and *use the Canvas Open API* to come up with your own integrations."
+  access_tokens_can_be_used_to_allow_other_applicati_16c4a3ab: "Access tokens can be used to allow other applications to make API calls on your behalf. You can also generate access tokens and *use the IBTA Arabia Open API* to come up with your own integrations."
   accordion_section_1_7888782d: "Accordion Section 1"
   accordion_section_2_e1812997: "Accordion Section 2"
   accordion_section_3_96861901: "Accordion Section 3"
   account: 
-    ask_canvas_network: "Ask the Canvas Network Community"
+    ask_canvas_network: "Ask the IBTA Arabia Network Community"
     default_account_name: "Default Account"
     default_site_administrator_account_name: "Site Admin"
     default_term_name: "Default Term"
     errors: 
       invalid_discovery_url: "The discovery URL is not valid"
     feedback_coach: "Ask the Community"
-    feedback_coach_sub: "Get help from a Canvas expert"
-    feedback_feature_request_sub: "Have an idea to improve Canvas?"
+    feedback_coach_sub: "Get help from a IBTA Arabia expert"
+    feedback_feature_request_sub: "Have an idea to improve IBTA Arabia?"
     manually_created_courses: "Manually-Created Courses"
     root_account_cant_have_sis_id: "SIS IDs cannot be set on root accounts"
     sis_id_in_use: "SIS ID \"%{sis_id}\" is already in use"
@@ -137,7 +137,7 @@ en-AU:
     index: 
       delete_auth_confirmation: "Are you sure? Users may not be able to log in if this is removed."
       delete_auth_link: "Remove All Authentication"
-      ip_address_list_description: "If you are using an authentication service that requires the Canvas servers to contact your servers directly, such as LDAP, you'll need to make sure that your servers can accept connections from these IP addresses:"
+      ip_address_list_description: "If you are using an authentication service that requires the IBTA Arabia servers to contact your servers directly, such as LDAP, you'll need to make sure that your servers can accept connections from these IP addresses:"
       no_auth_type_description: "This account does not currently integrate with an identity provider."
       page_title: "Authentication Settings"
       profile_page_link_example: "For example, here is your profile page: [%{friendlyname}](%{url})"
@@ -146,8 +146,8 @@ en-AU:
       test_ldap_link: "Test LDAP Authentication"
     ldap_fields: 
       auth_filter_description: "Use *%{placeholder}* as a placeholder for the username supplied by the user. For example: *(sAMAccountName=%{placeholder})*"
-      identifer_format_description: "The LDAP attribute to use to look up the Canvas login. Leave blank to use the username supplied by the user."
-      ldap_timeout_failure_help2: "If Canvas times out too many times communicating with the LDAP server, it will block further login attempts from using that LDAP server for %{time}. Your LDAP server last timed out at %{timestamp}."
+      identifer_format_description: "The LDAP attribute to use to look up the IBTA Arabia login. Leave blank to use the username supplied by the user."
+      ldap_timeout_failure_help2: "If IBTA Arabia times out too many times communicating with the LDAP server, it will block further login attempts from using that LDAP server for %{time}. Your LDAP server last timed out at %{timestamp}."
     ldap_settings_test: 
       labels: 
         pass: Password
@@ -155,14 +155,14 @@ en-AU:
       ldap_test_login_button: "Test Login"
       test_ldap_bind_help_body: "Your LDAP server rejected the bind attempt. Things to consider:"
       test_ldap_bind_help_fixes_1: "Verify the provided filter string (i.e. '(sAMAccountName={{login}})')."
-      test_ldap_bind_help_fixes_2: "Does the username require more scoping information? (i.e. 'cn=Canvas,ou=people,dc=example,dc=com')."
-      test_ldap_bind_help_header: "Canvas can't bind (login) to your LDAP server"
+      test_ldap_bind_help_fixes_2: "Does the username require more scoping information? (i.e. 'cn=IBTA Arabia,ou=people,dc=example,dc=com')."
+      test_ldap_bind_help_header: "IBTA Arabia can't bind (login) to your LDAP server"
       test_ldap_bind_label: "Testing LDAP bind..."
       test_ldap_connection_help_body: "The connection either timed out or was refused. Things to consider:"
-      test_ldap_connection_help_fixes_1: "Canvas is connecting to %{ips}"
+      test_ldap_connection_help_fixes_1: "IBTA Arabia is connecting to %{ips}"
       test_ldap_connection_help_fixes_2: "This was only a connection test. SSL certificates were not validated."
-      test_ldap_connection_help_fixes_3: "Check your firewall settings. Are all Canvas IP address allowed to access your server?"
-      test_ldap_connection_help_header: "Canvas can't connect to your LDAP server"
+      test_ldap_connection_help_fixes_3: "Check your firewall settings. Are all IBTA Arabia IP address allowed to access your server?"
+      test_ldap_connection_help_header: "IBTA Arabia can't connect to your LDAP server"
       test_ldap_connection_label: "Testing connection..."
       test_ldap_dialog_close: Close
       test_ldap_dialog_page_title: "Testing Your LDAP Configuration"
@@ -173,7 +173,7 @@ en-AU:
       test_ldap_search_help_fixes_1: "Verify the provided filter string (i.e. '(sAMAccountName={{login}})')."
       test_ldap_search_help_fixes_2: "Verify the provided search base (i.e. 'ou=people,dc=example,dc=com')."
       test_ldap_search_help_fixes_3: "Verify that the user object in LDAP has search privileges for the provided search base."
-      test_ldap_search_help_header: "Canvas can't search your LDAP instance"
+      test_ldap_search_help_header: "IBTA Arabia can't search your LDAP instance"
       test_ldap_search_label: "Testing LDAP search..."
     linkedin_fields: 
       description: |-
@@ -195,7 +195,7 @@ en-AU:
       auth_request_to_idp: "AuthnRequest sent to IdP"
       auth_response_from_idp: "AuthnResponse from IdP"
       labels: 
-        canvas_login_fail_message: "Canvas Login failure message"
+        canvas_login_fail_message: "IBTA Arabia Login failure message"
         fingerprint_from_idp: "IdP certificate fingerprint"
         idp_in_response_to: "IdP inResponseTo"
         idp_login_destination: "IdP LoginResponse destination"
@@ -206,10 +206,10 @@ en-AU:
         idp_response_encoded: "IdP LoginResponse encoded"
         idp_response_xml_decrypted: "IdP LoginResponse Decrypted"
         idp_response_xml_encrypted: "IdP LoginResponse Encrypted"
-        is_valid_login_response: "Canvas thinks response is valid"
+        is_valid_login_response: "IBTA Arabia thinks response is valid"
         logged_in_user_id: "Logged in user id"
         login_response_validation_error: "Validation Error"
-        login_to_canvas_success: "User successfully logged into Canvas"
+        login_to_canvas_success: "User successfully logged into IBTA Arabia"
         logout_request_id: "Logout request id"
         logout_to_idp_url: "LogoutRequest encoded URL"
         logout_to_idp_xml: "LogoutRequest XML sent to IdP"
@@ -220,10 +220,10 @@ en-AU:
       logout_request_to_idp: "LogoutRequest sent to IdP"
       logout_response_from_idp: "LogoutResponse from IdP"
     sso_settings_form: 
-      change_password_url_help: "Leave blank for default Canvas behavior"
-      discovery_url_description: "If a discovery URL is set, Canvas will forward all users to that URL when they need to be authenticated. That page will need to then help the user figure out where they need to go to log in. If no discovery URL is configured, the first configuration will be used to attempt to authenticate the user."
+      change_password_url_help: "Leave blank for default IBTA Arabia behavior"
+      discovery_url_description: "If a discovery URL is set, IBTA Arabia will forward all users to that URL when they need to be authenticated. That page will need to then help the user figure out where they need to go to log in. If no discovery URL is configured, the first configuration will be used to attempt to authenticate the user."
       login_handle_name_description: "The label used for unique login identifiers. Examples: Login, Username, Student ID, etc."
-      unknown_user_url_description: "The URL to redirect to when an authenticated user is not found in Canvas."
+      unknown_user_url_description: "The URL to redirect to when an authenticated user is not found in IBTA Arabia."
   account_domain_78f43049: "Account Domain"
   account_id_2c3b4f15: "account ID"
   account_name_13ed649: "%{account_name}"
@@ -450,7 +450,7 @@ en-AU:
         sent_at: "Sent at"
         to: To
       comm_messages_content_pane: 
-        search_info2: "To view all notifications sent to a Canvas user, select the user and date range for your search."
+        search_info2: "To view all notifications sent to a IBTA Arabia user, select the user and date range for your search."
         view_notifications: "View Notifications"
       comm_messages_search_overview: 
         messages_viewed: "Notifications sent to *%{user}* from *%{start_date}* to *%{end_date}*."
@@ -759,7 +759,7 @@ en-AU:
       account_reports: 
         sis_export: 
           description: 
-            text: "This report will export all the needed information that relates to provisioning Canvas in its respective categories."
+            text: "This report will export all the needed information that relates to provisioning IBTA Arabia in its respective categories."
     public_courses_csv_description: 
       account_reports: 
         default: 
@@ -806,11 +806,11 @@ en-AU:
     settings: 
       about_google_docs: |-
           Google Docs Previews allow users to view documents from
-          within Canvas, rather than having to download them and
+          within IBTA Arabia, rather than having to download them and
           open the corresponding program (e.g. Word or Excel).
           
           Google Docs Previews can also render file types
-          not supported by the Canvas document previewer.
+          not supported by the IBTA Arabia document previewer.
           
           By using this service you
           acknowledge that you have read and agreed to the
@@ -845,7 +845,7 @@ en-AU:
         add_users: "OK Looks Good, Add These Users"
         continue: Continue...
         modify_users: "Go back and edit the list of users"
-      confirm_global_announcement: "This announcement will be shown to *all* Canvas users. Confirm that you want to create it."
+      confirm_global_announcement: "This announcement will be shown to *all* IBTA Arabia users. Confirm that you want to create it."
       confirm_turnitin_settings_link: "confirm Turnitin settings"
       course_roles: "Course roles:"
       create_courses_description: "(Account Administrators can always create courses)"
@@ -854,7 +854,7 @@ en-AU:
       default_language_description: "This will override any browser/OS language settings. Preferred languages can still be set at the course/user level."
       delete: delete
       delete_announcement_tooltip: "Delete this Announcement"
-      email_notification_from_description: "This setting allows the Admin to brand or label the 'From' text on all notifications sent from Canvas for this Account."
+      email_notification_from_description: "This setting allows the Admin to brand or label the 'From' text on all notifications sent from IBTA Arabia for this Account."
       email_notification_from_settings: "E-mail Notification \"From\" Settings"
       enabled_web_serices_title: "Enabled Web Services"
       equall_endpoint_help: "This is the URL to your equella service. It will probably look something like \"%{sample_url}\"."
@@ -879,7 +879,7 @@ en-AU:
       help_link_available_to_all_users: Users
       if_you_would_like_to_link_to_your_own_campus_support_website_in_the_help_dialog_you_can_do_that_here: "If you would like to link to your own campus support website in the help dialog you can do that here"
       interpolate_account_domain: "Enter \"{{ACCOUNT_DOMAIN}}\" to substitute the user's root account domain"
-      interpolate_user_id: "Enter \"{{CANVAS_USER_ID}}\" to substitute the user's unique Canvas ID"
+      interpolate_user_id: "Enter \"{{IBTA Arabia_USER_ID}}\" to substitute the user's unique IBTA Arabia ID"
       ip_filter_filter_label: Filter
       ip_filter_name_label: Name
       labels: 
@@ -890,7 +890,7 @@ en-AU:
         allow_sending_scores_in_emails: "Students can opt-in to receiving scores in email notifications"
         allow_sis_import: "SIS imports"
         author_email_in_notifications: "Show the email address of sender for user interaction Notifications"
-        canvas_authentication: "Canvas Authentication"
+        canvas_authentication: "IBTA Arabia Authentication"
         default_language: "Default Language"
         default_time_zone: "Default Time Zone"
         domain: "Domain:"
@@ -922,7 +922,7 @@ en-AU:
         no_enrollments_can_create_courses: "Users with no enrollments"
         open_registration: "Open Registration"
         outgoing_email_default_name_option_custom: "Custom \"From\" Name"
-        outgoing_email_default_name_option_default: "Default Canvas Setting"
+        outgoing_email_default_name_option_default: "Default IBTA Arabia Setting"
         prevent_course_renaming_by_teachers: "Don't let teachers rename their courses"
         restrict_quiz_questions: "Restrict students from viewing quiz questions after course end date"
         restrict_student_future_listing: "Restrict students from viewing future courses in enrolments list."
@@ -969,14 +969,14 @@ en-AU:
       no_enrollment_roles: "Unenrolled users"
       no_language_preference: "Not set (defaults to %{language})"
       notifications: 
-        custom_name_description: "If selected, this will replace all other branding sent in Canvas notifications."
+        custom_name_description: "If selected, this will replace all other branding sent in IBTA Arabia notifications."
         email_date: Date
         email_reply_to: Reply-To
         email_to: To
         example: "Example:"
         external_services: "Notifications Sent to External Services"
         external_services_label: "Display one time pop-up warning on Notification Preferences page."
-        external_services_warning: "Notice: Some notifications may contain confidential information. Selecting to receive notifications at an email other than your institution provided address may result in sending sensitive Canvas course and group information outside of the institutional system."
+        external_services_warning: "Notice: Some notifications may contain confidential information. Selecting to receive notifications at an email other than your institution provided address may result in sending sensitive IBTA Arabia course and group information outside of the institutional system."
         external_services_warning_label: "Pop-up Message Content:"
         from: From
         sample_subject: "Mark Changed: Check In Survey, Testing Course"
@@ -1022,7 +1022,7 @@ en-AU:
       tab_quotas: Quotas
       tab_reports: Reports
       tab_settings: Settings
-      transifex_message: "Join the [Canvas Translation Community](%{transifex_url})"
+      transifex_message: "Join the [IBTA Arabia Translation Community](%{transifex_url})"
       turnitin_comments_help: "these comments will be shown to students when submitting a Turnitin-enabled assignment"
       turnitin_pledge_help: "students must check a box acknowledging that they agree with this pledge"
       turnitin_settings_title: "Turnitin Settings"
@@ -1391,9 +1391,9 @@ en-AU:
   allow_the_ability_to_send_notifications_through_ou_fdaace5a: "Allow the ability to send notifications through a dispatch queue"
   allows_teachers_to_mark_grade_data_to_be_exported__a6bf77cf: "Allows teachers to mark grade data to be exported in bulk to SIS integrations."
   allows_the_scheduling_of_recurring_calendar_events_aac71007: "Allows the scheduling of recurring calendar events"
-  allows_users_with_international_phone_numbers_to_r_f90f8522: "Allows users with international phone numbers to receive text messages from Canvas."
+  allows_users_with_international_phone_numbers_to_r_f90f8522: "Allows users with international phone numbers to receive text messages from IBTA Arabia."
   always_3a59e701: Always
-  always_load_the_rce_and_sidebar_from_a_canvas_rich_1495e3fd: "Always load the RCE and Sidebar from a canvas rich content service everywhere."
+  always_load_the_rce_and_sidebar_from_a_IBTA Arabia_rich_1495e3fd: "Always load the RCE and Sidebar from a IBTA Arabia rich content service everywhere."
   an_error_accurred_selecting_provisional_grades_61b36f64: "An error occurred selecting provisional marks."
   an_error_occured_please_try_again_e59b65b: "An error occured. Please try again."
   an_error_occured_trying_to_generate_this_theme_ple_6ae581d: "An error occured trying to generate this theme; please try again."
@@ -1542,7 +1542,7 @@ en-AU:
       page_disabled_for_group: "That page has been disabled for this group"
     warnings: 
       details: 
-        suspended: "This institution's Canvas account has been suspended. Only Account Administrators may log in to correct any problems."
+        suspended: "This institution's IBTA Arabia account has been suspended. Only Account Administrators may log in to correct any problems."
       please_log_in: "For security purposes, please enter your password to continue"
       titles: 
         suspended: "Institution Suspended"
@@ -1564,7 +1564,7 @@ en-AU:
       invalid_group_category: "Invalid group category"
       missing_group_category: "Group appointments must have a group category"
   approximate_value_with_precision_precision_6b7cc6ef: "%{approximate_value} with precision %{precision}"
-  apps_are_an_easy_way_to_add_new_features_to_canvas_2cbc2531: "Apps are an easy way to add new features to Canvas. They can be added to individual courses, or to all courses in an account. Once configured, you can link to them through course modules and create assignments for assessment tools."
+  apps_are_an_easy_way_to_add_new_features_to_canvas_2cbc2531: "Apps are an easy way to add new features to IBTA Arabia. They can be added to individual courses, or to all courses in an account. Once configured, you can link to them through course modules and create assignments for assessment tools."
   appt_calendar_event_dialog: 
     invalid_participants: "You must allow at least one user to attend"
     title: "Edit %{name}"
@@ -1914,7 +1914,7 @@ en-AU:
       gpa_scale_input_explainer: "Scores are input on the 4.0 scale. For instance, if an assignment is out of 100 points, inputting 4.0 results in 100%, 3.0 results in 87%, etc."
       gpa_scale_letters_explainer: "Letter marks can be used in addition to number marks."
       gpa_scale_percentage_explainer: "You cannot input points directly, but can input percentages. For instance, if an assignment is out of 50 points, inputting \"40\" will not work, but \"80%\" will."
-      gpa_scale_recommendation: "Unless your school uses a 4.0 scale (or 5.0/6.0) for grading, Canvas recommends displaying marks as Letter Grade."
+      gpa_scale_recommendation: "Unless your school uses a 4.0 scale (or 5.0/6.0) for grading, IBTA Arabia recommends displaying marks as Letter Grade."
       gpa_scale_scores_explainer: "The only scores allowed are predefined in the grading scheme."
       gpa_scale_title: "\"What is GPA Scale Grading?\""
       grading_type_options: 
@@ -2188,17 +2188,17 @@ en-AU:
           website: "Website URL"
       loading_tools: "Loading tools..."
       messages: 
-        google_docs_auth_required: "Before you can submit assignments directly from Google Docs you need to authorize Canvas to access your Google Docs account:"
-        google_drives_auth_required: "Before you can submit assignments directly from Google Drive you need to authorise Canvas to access your Google Drive account:"
+        google_docs_auth_required: "Before you can submit assignments directly from Google Docs you need to authorize IBTA Arabia to access your Google Docs account:"
+        google_drives_auth_required: "Before you can submit assignments directly from Google Drive you need to authorise IBTA Arabia to access your Google Drive account:"
         media_recording_ready: "Ready to Submit! Click 'Submit Assignment' button to finish."
-        media_recordings_disabled: "Media recordings are not enabled for this Canvas site, and you will not be able to submit these types of assignments. Please contact your instructor about changing the settings for this assignment, or your system administrator about enabling media recordings."
+        media_recordings_disabled: "Media recordings are not enabled for this IBTA Arabia site, and you will not be able to submit these types of assignments. Please contact your instructor about changing the settings for this assignment, or your system administrator about enabling media recordings."
         submitting: Submitting...
         uploading: "Retrieving a copy of your Google Doc to submit for this assignment. This may take a little while, depending on the size of the file..."
       no_files: "No Files"
       no_submission: "No Submission Selected"
       submission_url: "Submission:"
       titles: 
-        media_recordings_disabled: "Media recordings are not enabled for this Canvas site"
+        media_recordings_disabled: "Media recordings are not enabled for this IBTA Arabia site"
       upload_or_choose_file: "Upload a file, or choose a file you've already uploaded."
     syllabus: 
       page_title: "Syllabus for %{course}"
@@ -2300,7 +2300,7 @@ en-AU:
     corrupted: "Details Not Available"
     login: LOGIN
     logout: LOGOUT
-  authentication_with_provider_was_successful_but_no_6a194137: "Authentication with %{provider} was successful, but no unique ID for logging in to Canvas was provided."
+  authentication_with_provider_was_successful_but_no_6a194137: "Authentication with %{provider} was successful, but no unique ID for logging in to IBTA Arabia was provided."
   authorize_e3f25bb4: Authorise
   available_8606e40c: Available
   available_after_unlock_at_b5682224: "Available after %{unlock_at}"
@@ -2336,8 +2336,8 @@ en-AU:
   before_implementing_custom_css_or_javascript_pleas_65423572: "Before implementing custom CSS or Javascript, please refer to *our documentation*."
   before_publishing_this_file_you_must_specify_usage_2229d20b: "Before publishing this file, you must specify usage rights."
   before_publishing_you_must_set_usage_rights_on_you_dcd7b567: "Before publishing, you must set usage rights on your files."
-  before_using_this_feature_we_recommend_trying_the__1dea6042: "Before using this feature, we recommend trying the **%{t_theme_editor}** to do any branding. Enabling this feature provides the ability to upload custom JavaScript and CSS files in the Theme Editor. Modifications made with this method may conflict with future changes to the Canvas DOM (e.g. element class names or HTML structure) and are therefore not supported. Those using this feature should have advanced understanding of JavaScript and CSS and must maintain their own code. *Use at your own risk!*"
-  before_using_this_feature_we_recommend_trying_the__7e6f194e: "Before using this feature, we recommend trying the *********%{t_theme_editor}********* to do any branding. Enabling this feature provides the ability to upload custom JavaScript and CSS files in the Theme Editor. Modifications made with this method may conflict with future changes to the Canvas DOM (e.g. element class names or HTML structure) and are therefore not supported. Also, you need to make sure that whatever modifications you make are accessible to all, including, for example, those using *screen readers* and **those** ***relying*** on the ****high contrast feature****. Instructure disclaims any liability for any changes you make. It is your responsibility to ensure they meet *****any***** ******compliance****** *******standards******* that may be required in your jurisdiction. Those using this feature should have advanced understanding of JavaScript and CSS and must maintain their own code. ********Use at your own risk!********"
+  before_using_this_feature_we_recommend_trying_the__1dea6042: "Before using this feature, we recommend trying the **%{t_theme_editor}** to do any branding. Enabling this feature provides the ability to upload custom JavaScript and CSS files in the Theme Editor. Modifications made with this method may conflict with future changes to the IBTA Arabia DOM (e.g. element class names or HTML structure) and are therefore not supported. Those using this feature should have advanced understanding of JavaScript and CSS and must maintain their own code. *Use at your own risk!*"
+  before_using_this_feature_we_recommend_trying_the__7e6f194e: "Before using this feature, we recommend trying the *********%{t_theme_editor}********* to do any branding. Enabling this feature provides the ability to upload custom JavaScript and CSS files in the Theme Editor. Modifications made with this method may conflict with future changes to the IBTA Arabia DOM (e.g. element class names or HTML structure) and are therefore not supported. Also, you need to make sure that whatever modifications you make are accessible to all, including, for example, those using *screen readers* and **those** ***relying*** on the ****high contrast feature****. IBTA disclaims any liability for any changes you make. It is your responsibility to ensure they meet *****any***** ******compliance****** *******standards******* that may be required in your jurisdiction. Those using this feature should have advanced understanding of JavaScript and CSS and must maintain their own code. ********Use at your own risk!********"
   before_you_can_edit_your_profile_you_need_to_verif_4fd9143e: "Before you can edit your profile, you need to verify your email address (%{email}) by clicking the link in the email we sent you. If you don't see it, *click to re-send the email*, and make sure to check your spam box."
   beginning_date_2d2a29ac: "Beginning date"
   below_this_search_field_is_a_list_of_content_type__58aaa03f: "Below this search field is a list of %{content_type}. As you type, the list will be filtered to match your query. Conversation messages will be filtered by whichever option you select."
@@ -2376,9 +2376,9 @@ en-AU:
     export_failed: "There was an error exporting the course with bb_lcid %{id} from Blackboard"
     export_failed_no_id: "There was an error importing a course"
     export_failed_not_found: "The course with bb_lcid %{id} could not be found in Blackboard with user %{user_name}"
-    export_failed_with_id: "There was an error importing the course with bb_lcid %{id} into Canvas"
+    export_failed_with_id: "There was an error importing the course with bb_lcid %{id} into IBTA Arabia"
     no_course_found: "No course was found with %{id_type} of %{id}"
-    no_course_id_given: "No Canvas course was identified for bb_lcid %{id}"
+    no_course_id_given: "No IBTA Arabia course was identified for bb_lcid %{id}"
     no_credentials_found: "No credentials were found for the user name %{user_name}"
     no_credentials_given: "No user name was given for the course %{course_identifier}"
     no_lcid_found: "No bb_lcid was specified for a row"
@@ -2388,7 +2388,7 @@ en-AU:
       exporting: "Exporting from Blackboard"
       failed: Failed
       finished: Finished
-      importing: "Importing into Canvas"
+      importing: "Importing into IBTA Arabia"
       migration_cancelled_on: "Cancelled on %{date}"
       migration_failed_on: "Failed on %{date}"
       migration_finished_on: "Finished on %{date}"
@@ -2398,7 +2398,7 @@ en-AU:
       see_results: "See results"
       show_warnings: "Show warnings"
       waiting_to_export: "Waiting to export from Blackboard"
-      waiting_to_import: "Waiting to import into Canvas"
+      waiting_to_import: "Waiting to import into IBTA Arabia"
     index: 
       available_courses: "Available Courses"
       bulk_description: "These are the headers expected in the CSV:"
@@ -2406,8 +2406,8 @@ en-AU:
         add_credentials: "Add Credentials"
         migrate_courses: "Migrate Courses"
       column_name: "Column Name"
-      course_id_description: "The canvas id of the course to import into."
-      credential_description: "This tool will help you migrate multiple courses at the same time from a Blackboard Vista/CE system. Add a set of credentials for your Blackboard system then add Canvas course identifiers to the provided CSV template to migrate your courses."
+      course_id_description: "The IBTA Arabia id of the course to import into."
+      credential_description: "This tool will help you migrate multiple courses at the same time from a Blackboard Vista/CE system. Add a set of credentials for your Blackboard system then add IBTA Arabia course identifiers to the provided CSV template to migrate your courses."
       csv_description: "Any other columns can be added but they will be ignored. Here is an example of a simple CSV for 3 courses in the account for a user name of \"greg\":"
       csv_template: "CSV Template"
       current_migration_batch: "Current Migration Batch"
@@ -2424,8 +2424,8 @@ en-AU:
       page_title: "Bulk Course Migration"
       previous_migration_batches: "Previous Migration Batches"
       school: School
-      school_not_supported: "Please have your administrator contact Instructure to help get your school supported."
-      sis_id_description: "The SIS ID of the canvas course to import into."
+      school_not_supported: "Please have your administrator contact IBTA to help get your school supported."
+      sis_id_description: "The SIS ID of the IBTA Arabia course to import into."
       upload_migration_csv: "Upload a Migration CSV"
       user_name: "User Name"
       user_name_description: "The user name of the user that has teacher/designer access to the course for the row. This must match one of the user name's listed in the Blackboard login credentials above."
@@ -2821,7 +2821,7 @@ en-AU:
     ics_description_course: "Calendar events for the course, %{course_name}"
     ics_description_group: "Calendar events for the group, %{group_name}"
     ics_description_user: "Calendar events for the user, %{user_name}"
-    ics_title: "%{course_or_group_name} Calendar (Canvas)"
+    ics_title: "%{course_or_group_name} Calendar (IBTA Arabia)"
     invalid_date_or_time: "Invalid date or invalid datetime for %{attr}"
   calendars: 
     event: 
@@ -2891,25 +2891,25 @@ en-AU:
         login_expiration_minimum: "Session expiration must be 20 minutes or greater"
         need_integer: "Please enter an integer for the play list cache"
         stream_name_required: "The kinesis stream name is required."
-  canvas_alert_change_assignment_name_course_name_2fc63d9c: "Canvas Alert - Change: %{assignment_name}, %{course_name}"
-  canvas_alert_invited_course_as_role_type_9ed79ce3: "Canvas Alert - Invited: %{course} as %{role_type}"
-  canvas_alert_invited_course_as_role_type_ea825937: "Canvas Alert - Invited: course as %{role_type}"
-  canvas_by_instructure_1490381: "Canvas by Instructure"
-  canvas_cartridge_description: "This enables converting a canvas export to the intermediary json format to be imported"
-  canvas_cartridge_display: "Canvas Common Cartridge"
-  canvas_cartridge_file_description: "Canvas Course Export Package"
-  canvas_cartridge_name: "Canvas Cartridge Importer"
-  canvas_cloud_information_fdd404f2: "Canvas Cloud Information"
-  canvas_dashboard_links_will_navigate_to_the_catalo_4143635e: "Canvas dashboard links will navigate to the Catalog dashboard"
-  canvas_default_7f81a6b8: "Canvas Default"
-  canvas_did_not_recognize_your_identity_provider_cb0e50fc: "Canvas did not recognise your identity provider"
-  canvas_doesn_t_have_an_account_for_user_user_5bcae0dd: "Canvas doesn't have an account for user: %{user}"
-  canvas_error_report_ff678539: "Canvas Error Report"
-  canvas_introduction_video_2d81f3ad: "Canvas Introduction Video"
+  canvas_alert_change_assignment_name_course_name_2fc63d9c: "IBTA Arabia Alert - Change: %{assignment_name}, %{course_name}"
+  canvas_alert_invited_course_as_role_type_9ed79ce3: "IBTA Arabia Alert - Invited: %{course} as %{role_type}"
+  canvas_alert_invited_course_as_role_type_ea825937: "IBTA Arabia Alert - Invited: course as %{role_type}"
+  canvas_by_instructure_1490381: "IBTA Arabia"
+  canvas_cartridge_description: "This enables converting a IBTA Arabia export to the intermediary json format to be imported"
+  canvas_cartridge_display: "IBTA Arabia Common Cartridge"
+  canvas_cartridge_file_description: "IBTA Arabia Course Export Package"
+  canvas_cartridge_name: "IBTA Arabia Cartridge Importer"
+  canvas_cloud_information_fdd404f2: "IBTA Arabia Cloud Information"
+  canvas_dashboard_links_will_navigate_to_the_catalo_4143635e: "IBTA Arabia dashboard links will navigate to the Catalog dashboard"
+  canvas_default_7f81a6b8: "IBTA Arabia Default"
+  canvas_did_not_recognize_your_identity_provider_cb0e50fc: "IBTA Arabia did not recognise your identity provider"
+  canvas_doesn_t_have_an_account_for_user_user_5bcae0dd: "IBTA Arabia doesn't have an account for user: %{user}"
+  canvas_error_report_ff678539: "IBTA Arabia Error Report"
+  canvas_introduction_video_2d81f3ad: "IBTA Arabia Introduction Video"
   canvas_revision_unknown: Unknown
-  canvas_ticketing_email_connector_27e253ae: "Canvas Ticketing Email Connector"
-  canvas_ticketing_web_post_connector_11158897: "Canvas Ticketing Web Post Connector"
-  canvas_will_regrade_all_your_submissions_after_you_2d68694a: "Canvas will regrade all your submissions after you save the quiz, this may take a few minutes."
+  canvas_ticketing_email_connector_27e253ae: "IBTA Arabia Ticketing Email Connector"
+  canvas_ticketing_web_post_connector_11158897: "IBTA Arabia Ticketing Web Post Connector"
+  canvas_will_regrade_all_your_submissions_after_you_2d68694a: "IBTA Arabia will regrade all your submissions after you save the quiz, this may take a few minutes."
   careful_changes_to_group_membership_will_apply_to__19a9089c: "Careful! Changes to group membership will apply to groups that already have assignment submissions. Group assignment submissions may not align as a result. Would you like to create a new group set for future assignments?"
   cas_url_4ba2843e: "CAS URL"
   catalog_already_enabled_56478a3c: "Catalogue already enabled"
@@ -2962,7 +2962,7 @@ en-AU:
   click_to_test_dropdown_b950974d: "Click to test dropdown."
   clicking_on_the_column_headers_will_sort_the_rows__3a6e9573: "Clicking on the column headers will sort the rows by that column."
   clone_group_set_c2a40e15: "Clone Group Set"
-  close_and_return_to_canvas_80544344: "Close and return to Canvas"
+  close_and_return_to_canvas_80544344: "Close and return to IBTA Arabia"
   close_d634289d: Close
   close_picker_256aca8a: "Close Picker"
   collaboration: 
@@ -2975,7 +2975,7 @@ en-AU:
       google: 
         drive: 
           upgrade: 
-            description: "To access this collaboration, you must authorise Canvas to access your Google Drive account."
+            description: "To access this collaboration, you must authorise IBTA Arabia to access your Google Drive account."
     collaboration: 
       delete: "Are you sure you want to delete this collaboration?"
       links: 
@@ -3016,14 +3016,14 @@ en-AU:
       cannot_load_collaboration: "Cannot load collaboration"
       create_failed: "Collaboration creation failed"
       no_name: "Please enter a name for this document"
-      not_enabled: "Collaborations have not been enabled for this Canvas site"
+      not_enabled: "Collaborations have not been enabled for this IBTA Arabia site"
       title_too_long: "Please use %{maxLength} characters or less for the name. Use the description for additional content."
       update_failed: "Collaboration update failed"
     forms: 
       buttons: 
         delete_from_canvas: |-
             Just Delete  
-            from Canvas
+            from IBTA Arabia
         delete_from_google_docs: |-
             Also Delete From  
             Google Docs
@@ -3044,7 +3044,7 @@ en-AU:
         description: "Description:"
         document_name: "Document Name"
       messages: 
-        delete_google_doc_as_well: "This collaboration is being stored as a Google Doc. Did you want to delete it just from Canvas, or remove it from Google Docs as well?"
+        delete_google_doc_as_well: "This collaboration is being stored as a Google Doc. Did you want to delete it just from IBTA Arabia, or remove it from Google Docs as well?"
       titles: 
         new: "Start a New Collaboration"
     google_drive: 
@@ -3070,7 +3070,7 @@ en-AU:
       google: 
         drive: 
           upgrade: 
-            description: "To access this collaboration you must authorise Canvas to access your Google Drive account"
+            description: "To access this collaboration you must authorise IBTA Arabia to access your Google Drive account"
       how_to_start_a_new_collaboration: "To find out more about a particular type of collaboration, click \"Start a New Collaboration\" and then choose that type in the dropdown list."
       links: 
         delete: "Delete this Collaboration"
@@ -3107,7 +3107,7 @@ en-AU:
   common_cartridge_name: "Common Cartridge Importer"
   communication_5255723c: Communication
   communication_channel: 
-    body: "Your Canvas verification code is %{verification_code}"
+    body: "Your IBTA Arabia verification code is %{verification_code}"
     default_twitter_handle: "Twitter Handle"
     default_yo_name: "Yo Name"
   communication_channel_id_197ef6f9: "Communication channel ID"
@@ -3118,7 +3118,7 @@ en-AU:
         back: Back
         continue: Continue
         create_account: "Create My Account"
-        have_account: "I Have a Canvas Account"
+        have_account: "I Have a IBTA Arabia Account"
         login_as: "Log in as %{invited_user}"
         merge: Combine
         new_account: "No"
@@ -3133,7 +3133,7 @@ en-AU:
             There's a user account already associated with %{email}.
             
               **Are you %{name}?**
-        account_needed: "You've been invited to join **%{course}**. To accept this request you need a Canvas account. Click the link below to create a Canvas account."
+        account_needed: "You've been invited to join **%{course}**. To accept this request you need a IBTA Arabia account. Click the link below to create a IBTA Arabia account."
         add_email: "Would you like to add this email address to your current account?"
         choose_login: "Select where you would like to log in at."
         logged_in_other_user: "**%{email}** is a new account, but you are currently logged in as **%{user}**."
@@ -3150,7 +3150,7 @@ en-AU:
         wrong_account: "The invitation for %{course} was sent to **%{invited_user}**, but you are currently logged in as **%{current_user}**"
       labels: 
         password: Password
-        subscribe_to_emails: "I want to receive information, news and tips from Instructure"
+        subscribe_to_emails: "I want to receive information, news and tips from IBTA"
         time_zone: "Time Zone"
         unique_id: Login
       page_title: "Register %{email}"
@@ -3192,7 +3192,7 @@ en-AU:
           
           You will not be able to reopen it.
       delete: "Are you sure you want to delete this conference?"
-    disabled_error: "Web conferencing has not been enabled for this Canvas site"
+    disabled_error: "Web conferencing has not been enabled for this IBTA Arabia site"
     edit_conference_form: 
       advanced_settings: "Manage Advanced Settings..."
       conference_type: Type
@@ -3239,7 +3239,7 @@ en-AU:
       buttons: 
         close: "End it now"
         join: "Join it now"
-    type_disabled_error: "This type of conference is no longer enabled for this Canvas site"
+    type_disabled_error: "This type of conference is no longer enabled for this IBTA Arabia site"
   config_url_e96ceaf3: "Config URL"
   configurate_tool_app_5a721f2c: "Configurate %{tool} App?"
   configuration_location_ee0f6592: "Configuration Location"
@@ -3303,7 +3303,7 @@ en-AU:
       buttons: 
         cancel: Cancel
         skip: "Skip this Step"
-      description: "You can upload a zipped collection of files into your course and we'll extract them all out for you. This is an easy way to move files from another system into Canvas."
+      description: "You can upload a zipped collection of files into your course and we'll extract them all out for you. This is an easy way to move files from another system into IBTA Arabia."
       page_title: "Import Files"
     messages: 
       import_complete: "Import Complete!  Returning to the Course Page..."
@@ -3569,7 +3569,7 @@ en-AU:
         user_services: "Registered Web Services"
       help: 
         list_services: "You haven't enabled your list of registered services. Enabling this list will let fellow course and group members more easily link up with you outside of class."
-        services: "You haven't linked your user profile to any external services. You can link your Canvas account to services like Twitter. This will make it easier for fellow course and group members to link up with you outside of class."
+        services: "You haven't linked your user profile to any external services. You can link your IBTA Arabia account to services like Twitter. This will make it easier for fellow course and group members to link up with you outside of class."
       labels: 
         public_list_services: "Let fellow course/group members see which services I've linked to my profile"
         user_privileges: Privileges
@@ -3608,9 +3608,9 @@ en-AU:
         registered_services: "Registered Services"
         service_types: "Service Types"
       help: 
-        no_services: "You haven't linked your user profile to any external services. You can link your Canvas account to services like Twitter."
-        services_private: "You haven't enabled your list of registered services. Enabling this list will let fellow course and group members see which services you have linked to your Canvas account."
-        user_services: "If other members choose, they can let you see which outside services they've linked to their Canvas account. This can make it easier to coordinate group projects and also link up outside of class."
+        no_services: "You haven't linked your user profile to any external services. You can link your IBTA Arabia account to services like Twitter."
+        services_private: "You haven't enabled your list of registered services. Enabling this list will let fellow course and group members see which services you have linked to your IBTA Arabia account."
+        user_services: "If other members choose, they can let you see which outside services they've linked to their IBTA Arabia account. This can make it easier to coordinate group projects and also link up outside of class."
       labels: 
         allow_view_services: "Let fellow course/group members see which services I've linked to my profile"
       links: 
@@ -4052,7 +4052,7 @@ en-AU:
   correct_answers_will_be_available_from_to_5762e8c6: "Correct answers will be available %{from} - %{to}."
   correct_answers_will_be_available_on_date_48137: "Correct answers will be available on %{date}."
   couldn_t_find_an_authority_to_update_44d9407e: "Couldn't find an authority to update"
-  couldn_t_find_canvas_csv_import_headers_487f1b6c: "Couldn't find Canvas CSV import headers"
+  couldn_t_find_canvas_csv_import_headers_487f1b6c: "Couldn't find IBTA Arabia CSV import headers"
   couldn_t_generate_diff_message_a0528b20: "Couldn't generate diff: %{message}"
   couldn_t_update_standards_for_authority_auth_81206187: "Couldn't update standards for authority %{auth}"
   count_assignments_found_17520826: 
@@ -4141,7 +4141,7 @@ en-AU:
       sis_in_use: "SIS ID \"%{sis_id}\" is already in use"
     file_copy_error: "Couldn't copy file \"%{name}\""
     grade_export_types: 
-      instructure_csv: "Instructure formatted CSV"
+      instructure_csv: "IBTA formatted CSV"
     grade_publishing_status: 
       error: Error
       error_with_message: "Error: %{message}"
@@ -4176,10 +4176,10 @@ en-AU:
   course_conferences_3d914c96: "Course Conferences"
   course_content_a92eca20: "Course Content"
   course_copy_argument_error: "A course copy requires a source course."
-  course_copy_description: "Migration plugin for copying canvas courses"
+  course_copy_description: "Migration plugin for copying IBTA Arabia courses"
   course_copy_display: "Course Copy"
-  course_copy_file_description: "Copy a Canvas Course"
-  course_copy_name: "Copy Canvas Course"
+  course_copy_file_description: "Copy a IBTA Arabia Course"
+  course_copy_name: "Copy IBTA Arabia Course"
   course_copy_no_course_error: "The source course was not found."
   course_copy_not_allowed_error: "You are not allowed to copy the source course."
   course_discussions_38c0b74f: "Course Discussions"
@@ -4190,7 +4190,7 @@ en-AU:
       assignment_groups: "Failed to export assignment groups"
       assignment_is_locked: "The assignment \"%{title}\" could not be copied because it is locked."
       assignments: "Failed to export some assignments"
-      canvas_meta: "Failed to export canvas-specific meta data"
+      canvas_meta: "Failed to export IBTA Arabia-specific meta data"
       course_export: "Error running course export."
       course_settings: "Failed to export course settings"
       events: "Failed to export calendar events"
@@ -4464,10 +4464,10 @@ en-AU:
       path_syntax: "lower-case letters, numbers and dashes"
       portal_path_syntax: "lower-case letters, numbers, dashes and slashes (e.g. harvard/chemistry)"
       private: Hidden
-      public: "Listed on canvas.net"
+      public: "Listed on IBTA Arabia.net"
       save_changes: "Save changes"
       self_paced: Self-paced
-      unlisted: "Unlisted on canvas.net (accessible via url)"
+      unlisted: "Unlisted on IBTA Arabia.net (accessible via url)"
       when_to_set_tentative_start: "e.g. \"Fall 2013\", if the course doesn't have a definitive start date"
     enrollment_reminders: 
       buttons: 
@@ -4571,7 +4571,7 @@ en-AU:
         name: Name
         next: Next
         section: Section
-        user_might_not_exist: "If your format is correct, contact your Canvas Admin to ensure the user has a Canvas account."
+        user_might_not_exist: "If your format is correct, contact your IBTA Arabia Admin to ensure the user has a IBTA Arabia account."
         user_role: "Role:"
         validating: Validating...
         will_not_be_added: "These users had errors and will not be added. Please ensure they are formatted correctly."
@@ -4614,7 +4614,7 @@ en-AU:
         pending_acceptance_explanation: "This user has not yet accepted the invitation to the course"
         pending_acceptance_of_invitation: pending
       roster_users: 
-        canvas_user_id: "Canvas User ID"
+        canvas_user_id: "IBTA Arabia User ID"
         last_activity: "Last Activity"
         login_name: "Login ID"
         login_name_or_sis_id: "Login / SIS ID"
@@ -4747,7 +4747,7 @@ en-AU:
         edit_navigation: "Edit Course Navigation"
       tooltips: 
         cannot_unpublish_course: "You cannot unpublish this course if there are marked student submissions"
-      transifex_message: "Join the [Canvas Translation Community](%{transifex_url})"
+      transifex_message: "Join the [IBTA Arabia Translation Community](%{transifex_url})"
       turnitin: "these comments will be shown to students when submitting a Turnitin-enabled assignment"
       view_grading_scheme: "view grading scheme"
       wiki_editing_roles: "can create, rename, and edit course wiki pages by default"
@@ -4951,7 +4951,7 @@ en-AU:
     users: Users
     wiki_pages: Pages
   css_ae1d10ce: CSS
-  css_and_javascript_to_load_when_user_content_is_di_f86f73f5: "CSS and JavaScript to load when user content is displayed in the canvas iOS or Android native apps"
+  css_and_javascript_to_load_when_user_content_is_di_f86f73f5: "CSS and JavaScript to load when user content is displayed in the IBTA Arabia iOS or Android native apps"
   css_file_709e6a83: "CSS file"
   csv: 
     alpha: Alpha
@@ -5029,7 +5029,7 @@ en-AU:
       assign_blanks: "Assign zeroes to unsubmitted students"
     out_of_points_possible: "out of %{assignment.points_possible}"
     this_is_permanent: "Mark curving cannot be undone. Pre-curved mark histories will be available, but the curving action is irreversible."
-  custom_css_and_javascript_may_cause_accessibility__93d2a823: "Custom CSS and Javascript may cause accessibility issues or conflicts with future Canvas updates!"
+  custom_css_and_javascript_may_cause_accessibility__93d2a823: "Custom CSS and Javascript may cause accessibility issues or conflicts with future IBTA Arabia updates!"
   custom_fields_fc3e55af: "Custom Fields"
   cutoff_score_74254c89: "cutoff score"
   cyan_c1d5f68a: Cyan
@@ -5241,7 +5241,7 @@ en-AU:
   deleted_ce03674d: deleted
   deleting_6421031e: Deleting...
   delicious_7f9ac66f: Delicious
-  demo_sites_require_recaptcha_settings_to_be_config_8bf9c7e3: "Demo sites require Recaptcha settings to be configured. Please see your site admin for this instance of Canvas."
+  demo_sites_require_recaptcha_settings_to_be_config_8bf9c7e3: "Demo sites require Recaptcha settings to be configured. Please see your site admin for this instance of IBTA Arabia."
   demos: 
     _register: 
       add_site: "Add Site"
@@ -5307,10 +5307,10 @@ en-AU:
       provost: Provost
       school_administrator: "School Administrator"
       school_technology_coordinator: "School Technology Coordinator"
-      sign_up_to_canvas: "Sign up to try Canvas"
+      sign_up_to_canvas: "Sign up to try IBTA Arabia"
       south_america_central_america_and_caribbean: "South America, Central America, and Caribbean"
       student: Student
-      subscribe: "I want to receive news, tips and info from Instructure"
+      subscribe: "I want to receive news, tips and info from IBTA"
       superintendent: Superintendent
       support: Support
       teacher_instructor: Teacher/Instructor
@@ -5859,7 +5859,7 @@ en-AU:
   either_you_re_a_new_user_or_the_terms_of_use_have__14f0d0d0: "Either you're a new user or the *terms of use* have changed since you last agreed to them. Please agree to the *terms of use* and **privacy policy** before you continue."
   element_option_missing_error_an_element_to_attach__be433478: "`element` option missing error: An element to attach the TreeBrowserView to must be specified when setting the render option to 'true' for BBTreeBrowserView"
   email: 
-    default_from_name: "Instructure Canvas"
+    default_from_name: "IBTA IBTA Arabia"
   email_22a7d52d: Email
   email_address_6e0443a5: "Email address"
   email_already_in_use_330248e: "Email already in use"
@@ -5922,7 +5922,7 @@ en-AU:
   enrollments_e250c9c3: Enrolments
   enter_a_hexcode_here_to_use_a_custom_color_51ecccce: "Enter a hexcode here to use a custom colour."
   enter_account_domain_to_substitute_the_user_s_root_1b79eac2: "Enter \"{{ACCOUNT_DOMAIN}}\" to substitute the user's root account domain."
-  enter_canvas_user_id_to_substitute_the_user_s_uniq_b2a75735: "Enter \"{{CANVAS_USER_ID}}\" to substitute the user's unique Canvas ID."
+  enter_IBTA Arabia_user_id_to_substitute_the_user_s_uniq_b2a75735: "Enter \"{{IBTA Arabia_USER_ID}}\" to substitute the user's unique IBTA Arabia ID."
   enter_or_find_an_external_tool_url_6aebbd0d: "Enter or find an External Tool URL"
   enter_the_access_token_for_your_organization_from__cc77493d: "Enter the access token for your organisation from *eduappcenter.com*. Once applied, only apps your organisation has approved in the EduAppCenter will be listed on the External Apps page.                         Learn how to **generate an access token**."
   enter_your_question_and_multiple_answers_31370054: "Enter your question and multiple answers."
@@ -6115,7 +6115,7 @@ en-AU:
       write_only_comments: "Comments for this page are private. You can make comments, but only the portfolio's owner will be able to see them."
     show_me: "show me"
     static_page: 
-      created_with_canvas: "Created with Canvas"
+      created_with_canvas: "Created with IBTA Arabia"
       headers: 
         page_comments: "Page Comments"
       links: 
@@ -6255,7 +6255,7 @@ en-AU:
   example_final_score_a92b30b9: "Example final score]]"
   example_https_example_com_config_xml_be5f36ac: "Example: https://example.com/config.xml"
   example_https_lti_tool_provider_example_herokuapp__e9802142: "Example: https://lti-tool-provider-example.herokuapp.com/register"
-  example_https_schoolofrock_catalog_instructure_com_b7a35ab5: "example: \"https://schoolofrock.catalog.instructure.com\""
+  example_https_schoolofrock_catalog_instructure_com_b7a35ab5: "example: \"https://schoolofrock.catalog.IBTA.com\""
   example_https_schoolofrock_edu_d4326f03: "example: \"https://schoolofrock.edu\""
   example_item_scores_6726c689: "Example item scores"
   example_school_of_rock_41f32c31: "example: \"School of Rock\""
@@ -6400,8 +6400,8 @@ en-AU:
       add_new_tool: "Add New App"
       all: All
       app_headder: "External Apps"
-      external_tools_note: "Apps are an easy way to add new features to Canvas. They can be added to individual courses, or to all courses in an account. Once configured, you can link to them through course modules and create assignments for assessment tools."
-      external_tools_references: "*See some LTI tools* that work great with Canvas. You can also check out the ** Canvas Community topics about LTI tools**"
+      external_tools_note: "Apps are an easy way to add new features to IBTA Arabia. They can be added to individual courses, or to all courses in an account. Once configured, you can link to them through course modules and create assignments for assessment tools."
+      external_tools_references: "*See some LTI tools* that work great with IBTA Arabia. You can also check out the ** IBTA Arabia Community topics about LTI tools**"
       installed: Installed
       not_installed: "Not Installed"
       search_filter: "Filter by name"
@@ -6453,7 +6453,7 @@ en-AU:
     differentiated_assignments: "Differentiated Assignments"
     differentiated_assignments_account_disable_warning: |-
         Turning this feature off will impact existing courses. For assistance in disabling this feature, please contact
-        your Canvas Success Manager.
+        your IBTA Arabia Success Manager.
     differentiated_assignments_course_disable_warning: "Disabling differentiated assignments will make all published assignments visible to all students."
     differentiated_assignments_description: |-
         Differentiated Assignments is a feature that enables choosing which section(s) or individual student(s) an assignment applies to.
@@ -6510,8 +6510,8 @@ en-AU:
     prompt: "Change \"%{name}\" to"
     rename_title: Copy
     replace: Replace
-  file_s_will_be_included_on_all_pages_in_the_canvas_80569935: "File(s) will be included on all pages in the Canvas desktop application."
-  file_s_will_be_included_when_user_content_is_displ_4e16dc3c: "File(s) will be included when user content is displayed within Canvas iOS or Android apps."
+  file_s_will_be_included_on_all_pages_in_the_canvas_80569935: "File(s) will be included on all pages in the IBTA Arabia desktop application."
+  file_s_will_be_included_when_user_content_is_displ_4e16dc3c: "File(s) will be included when user content is displayed within IBTA Arabia iOS or Android apps."
   file_size_limit_user_file_quota_applies_19b9b466: "%{file_size_limit} user file quota applies"
   file_status: 
     hidden_status: "Hidden. Available with a link"
@@ -7640,9 +7640,9 @@ en-AU:
     message_will_be_sent_to_all_the_teachers_tas_in_the_course: "Message will be sent to all the Teachers / TA's in the course."
     please_select_one: "Please select one..."
     report_problem: "Report a Problem"
-    report_problem_sub: "If Canvas misbehaves, tell us about it"
-    search_the_canvas_guides: "Search the Canvas Guides"
-    see_if_your_issue_is_addressed_in_the_canvas_guides: "See if your issue is addressed in the *Canvas Guides*."
+    report_problem_sub: "If IBTA Arabia misbehaves, tell us about it"
+    search_the_canvas_guides: "Search the IBTA Arabia Guides"
+    see_if_your_issue_is_addressed_in_the_canvas_guides: "See if your issue is addressed in the *IBTA Arabia Guides*."
     send_message: "Send Message"
     sending: Sending...
     somethings_broken_but_i_can_work_around_it_for_now: "Something's broken but I can work around it for now"
@@ -7719,7 +7719,7 @@ en-AU:
   host_is_unreachable_or_not_pointing_to_catalog_fb3fc082: "Host is unreachable or not pointing to Catalog"
   hover_over_me_496521b9: "Hover over me"
   html5_first_videos_description: |-
-      By default, Canvas will try to use Flash first to play videos. Turn this on to try using HTML5 first,
+      By default, IBTA Arabia will try to use Flash first to play videos. Turn this on to try using HTML5 first,
       then fall back to Flash.
   html_editor_fb2ab713: "HTML Editor"
   i_agree_to_the_terms_of_use_and_privacy_policy_f41760cc: "I agree to the *terms of use* and **privacy policy**."
@@ -7745,7 +7745,7 @@ en-AU:
   if_none_are_selected_send_to_everyone_in_the_entir_16aa0bb0: "(If none are selected, send to everyone in the entire account.)"
   if_none_are_selected_send_to_everyone_in_the_entir_21119709: "(If none are selected, send to everyone in the entire sub-account.)"
   if_you_change_an_assignment_s_points_possible_you__25a0edad: "If you change an assignment's points possible you must regrade the assignment."
-  if_you_configure_settings_that_cause_you_to_not_be_13d4cbbf: "If you configure settings that cause you to not be able to log in, you can directly access the regular Canvas login at %{url}"
+  if_you_configure_settings_that_cause_you_to_not_be_13d4cbbf: "If you configure settings that cause you to not be able to log in, you can directly access the regular IBTA Arabia login at %{url}"
   if_you_do_not_select_usage_rights_now_this_file_wi_40c42125: "If you do not select usage rights now, this file will be unpublished after it's uploaded."
   if_you_enable_this_feature_be_sure_that_your_sales_566967e6: "If you enable this feature, be sure that your salesforce account has these custom fields added exactly as they appear here, with the names in the left column of the table."
   if_you_leave_the_zip_file_download_currently_being_c47c1dfb: "If you leave, the zip file download currently being prepared will be cancelled."
@@ -7755,7 +7755,7 @@ en-AU:
         Students will see the modified files in their comments for the submission.
       
         *Make sure you don't change the names of the submission files so we can recognise them.*
-  if_you_ve_been_using_another_course_management_sys_67edfab1: "If you've been using another course management system, you probably have stuff in there that you're going to want moved over to Canvas. We can walk you through the process of easily migrating your content into Canvas."
+  if_you_ve_been_using_another_course_management_sys_67edfab1: "If you've been using another course management system, you probably have stuff in there that you're going to want moved over to IBTA Arabia. We can walk you through the process of easily migrating your content into IBTA Arabia."
   if_you_would_like_to_keep_your_unsubmitted_comment_b7e349ce: "If you would like to keep your unsubmitted comments, please save them before navigating away from this page."
   ignore_91750df8: Ignore
   ignore_assignment_738b3c99: "Ignore Assignment"
@@ -7778,7 +7778,7 @@ en-AU:
   import_1b31507: Import
   import_content_b2fd6620: "Import Content"
   import_sis_data_428cc803: "Import SIS data"
-  important_note_educational_institutions_have_an_ob_c9350304: "*Important note: Educational institutions have an obligation to make their content as accessible as possible. Instructure recommends at least a 3:1 text-to-background-colour ratio to keep your text readable. Easily test your contrast ratios with the **WebAIM Colour Contrast Checker***."
+  important_note_educational_institutions_have_an_ob_c9350304: "*Important note: Educational institutions have an obligation to make their content as accessible as possible. IBTA recommends at least a 3:1 text-to-background-colour ratio to keep your text readable. Easily test your contrast ratios with the **WebAIM Colour Contrast Checker***."
   importers/assignment_importer: 
     errors: 
       import: 
@@ -7807,8 +7807,8 @@ en-AU:
     warnings: 
       truncated_wiki_title: "The title of the following wiki page was truncated: %{title}"
   importing_course_content_into_the_same_course_will_b09c69e: "Importing course content into the same course will duplicate content the first time and overwrite duplicates if repeated."
-  in_cases_where_it_is_available_load_the_rce_and_th_2b94310d: "In cases where it is available, load the RCE and the wiki sidebar from a canvas rich content service."
-  in_cases_where_it_is_available_load_the_rce_from_a_1fb32537: "In cases where it is available, load the RCE from a canvas rich content service."
+  in_cases_where_it_is_available_load_the_rce_and_th_2b94310d: "In cases where it is available, load the RCE and the wiki sidebar from a IBTA Arabia rich content service."
+  in_cases_where_it_is_available_load_the_rce_from_a_1fb32537: "In cases where it is available, load the RCE from a IBTA Arabia rich content service."
   in_order_to_complete_the_process_you_will_be_redir_83376e10: "In order to complete the process you will be redirected to a login page where you will need to log in with your child's credentials."
   in_progress_646a8aef: "In progress"
   in_progress_9d1ce8b9: "In Progress"
@@ -7845,15 +7845,15 @@ en-AU:
   installed_7b284a91: Installed
   installed_by_admin_97c3a721: "Installed by Admin"
   instructions: 
-    authorize_google_docs: "Before you can collaborate on documents, you need to authorize Canvas to access your Google Docs account:"
-    authorize_google_drive: "Before you can collaborate on documents, you need to authorise Canvas to access your Google Drive account:"
+    authorize_google_docs: "Before you can collaborate on documents, you need to authorize IBTA Arabia to access your Google Docs account:"
+    authorize_google_drive: "Before you can collaborate on documents, you need to authorise IBTA Arabia to access your Google Drive account:"
   instructions_2f88ee72: Instructions
   instructor_messages_a4c28674: "Instructor Messages"
   instructors_4b491a07: instructors
   instructors_cdd595d0: Instructors
   instructure: 
     alerts: 
-      file_previews_disabled: "File previews have been disabled for this Canvas site"
+      file_previews_disabled: "File previews have been disabled for this IBTA Arabia site"
     browsers: 
       unrecognized: "Unrecognized Browser"
     buttons: 
@@ -7870,7 +7870,7 @@ en-AU:
         minute: min
     draft: Draft
     errors: 
-      cannot_view_document_in_canvas: "This document cannot be displayed within Canvas."
+      cannot_view_document_in_canvas: "This document cannot be displayed within IBTA Arabia."
       document_preview_processing: "The document preview is currently being processed. Please try again later."
       field_is_required: "This field is required"
       invalid_datetime: "Invalid date/time value"
@@ -8047,13 +8047,13 @@ en-AU:
         reset_explanation: "Resetting the test student will clear all history for this student, allowing you to view the course as a brand new student."
         warning_title: "You are currently logged into Student View"
     head: 
-      default_page_title: "Canvas LMS"
+      default_page_title: "IBTA Arabia LMS"
     menu: 
       view_all_accounts: "View all accounts"
       view_all_groups: "View all groups"
       view_all_or_customize: "View All or Customise"
     mobile_auth: 
-      log_in_to_canvas: "Log In To Canvas"
+      log_in_to_canvas: "Log In To IBTA Arabia"
   learning_mastery_5fc34276: "Learning Mastery"
   learning_mastery_gradebook_description: |-
       Learning Mastery Markbook provides a way for teachers to quickly view student and course
@@ -8070,7 +8070,7 @@ en-AU:
   lib: 
     angel: 
       failed_import_link: "Failed import link"
-      failed_import_link_body: "This link referenced an Angel feature that couldn't be linked to by Canvas or that was left out of the export."
+      failed_import_link_body: "This link referenced an Angel feature that couldn't be linked to by IBTA Arabia or that was left out of the export."
     api: 
       attachments: 
         only_one_folder: "Can't set folder path and folder id"
@@ -8120,21 +8120,21 @@ en-AU:
       standard: 
         failed_to_convert_qti: "Failed to import Assessment %{file_identifier}"
     google_docs: 
-      default_document_name: "Instructure Doc"
+      default_document_name: "IBTA Doc"
     incoming_message_processor: 
       failure_message: 
         body: |-
-            The message titled "%{subject}" could not be delivered.  The message was sent to an unknown mailbox address.  If you are trying to contact someone through Canvas you can try logging in to your account and sending them a message using the Inbox tool.
+            The message titled "%{subject}" could not be delivered.  The message was sent to an unknown mailbox address.  If you are trying to contact someone through IBTA Arabia you can try logging in to your account and sending them a message using the Inbox tool.
             
                       Thank you,
-                      Canvas Support
+                      IBTA Arabia Support
         subject: "Message Reply Failed: %{subject}"
       locked_topic: 
         body: |-
-            The message titled "%{subject}" could not be delivered because the discussion topic is locked. If you are trying to contact someone through Canvas you can try logging in to your account and sending them a message using the Inbox tool.
+            The message titled "%{subject}" could not be delivered because the discussion topic is locked. If you are trying to contact someone through IBTA Arabia you can try logging in to your account and sending them a message using the Inbox tool.
             
                       Thank you,
-                      Canvas Support
+                      IBTA Arabia Support
         subject: "Message Reply Failed: %{subject}"
     progress_runner: 
       completed_message: 
@@ -8237,15 +8237,15 @@ en-AU:
         browse_courses: "Browse courses"
         buttons: 
           request_password: "Request Password"
-        coenrollment_banner: "*Parent of a Canvas User?* **Click Here For an Account**"
+        coenrollment_banner: "*Parent of a IBTA Arabia User?* **Click Here For an Account**"
         dont_know_password: "Don't know your password?"
         labels: 
           password: Password
           remember_me: "Stay signed in"
         log_in: "Log In"
         login_handle: "Enter your %{login_handle_name} and we'll send you a link to change your password."
-        page_title: "Log In to Canvas"
-        register_for_canvas: "*Need a Canvas Account?* **Click Here, It's Free!**"
+        page_title: "Log In to IBTA Arabia"
+        register_for_canvas: "*Need a IBTA Arabia Account?* **Click Here, It's Free!**"
       new_login_content: 
         ? "User Research"
         : "User Research"
@@ -8262,7 +8262,7 @@ en-AU:
     logout_confirm: 
       cancel: Cancel
       details: 
-        log_out: "Are you sure you want to log out of Canvas?"
+        log_out: "Are you sure you want to log out of IBTA Arabia?"
       log_out: "Log Out"
       page_title: "Log Out"
     otp: 
@@ -8275,7 +8275,7 @@ en-AU:
         details: 
           mfa_enrollment: |-
               Multi-factor authentication increases security by requiring that you have something in your physical possession,
-              in addition to knowing your password, in order to log in to Canvas. This can be a device that can generate
+              in addition to knowing your password, in order to log in to IBTA Arabia. This can be a device that can generate
               verification codes, or a phone that can receive text messages. The Google Authenticator app for [iPhone](%{iphone_url}) or
               [Android](%{android_url}) can be configured by scanning the QR Code below. Other tokens can be configured by entering the
               secret key **%{secret_key}**.
@@ -8307,7 +8307,7 @@ en-AU:
   login_button_text_c958250f: "Login Button Text"
   login_footer_link_badb3898: "Login Footer Link"
   login_footer_link_hover_1b474e6c: "Login Footer Link Hover"
-  login_instructure_logo_8f2332db: "Login Instructure Logo"
+  login_instructure_logo_8f2332db: "Login IBTA Logo"
   login_is_invalid_must_be_alphanumeric_or_an_email__ae4499b3: "Login is invalid: it must be alphanumeric or an email address."
   login_is_too_long_25373f95: "Login is too long"
   login_label_1dea0f9d: "Login Label"
@@ -8383,7 +8383,7 @@ en-AU:
   maximum_number_of_appointments_a_participant_can_a_70dfd6cd: "Maximum number of appointments a participant can attend"
   media_comments: 
     alerts: 
-      kaltura_disabled: "Kaltura has been disabled for this Canvas site"
+      kaltura_disabled: "Kaltura has been disabled for this IBTA Arabia site"
     buttons: 
       submit: "Submit Media File"
     cancel: Cancel
@@ -8432,7 +8432,7 @@ en-AU:
     managed_accounts: "Managed Accounts"
     my_courses: "My Courses"
   message: 
-    default_subject: "Canvas Alert"
+    default_subject: "IBTA Arabia Alert"
   message_5c38209d: Message
   message_896d2ed0: "%{message}"
   message_body_1f782712: "Message Body"
@@ -8472,32 +8472,32 @@ en-AU:
           click_to_finish_registration: "Click here to finish the registration process"
           email: Email
           name: Name
-          subject: "Canvas Account Admin Invitation"
-          url_info_label: "You'll need to register with Canvas before you can participate as an account admin."
+          subject: "IBTA Arabia Account Admin Invitation"
+          url_info_label: "You'll need to register with IBTA Arabia before you can participate as an account admin."
           username: Username
         name_info: "Name: %{name}"
-        subject: "Canvas Account Admin Invitation"
+        subject: "IBTA Arabia Account Admin Invitation"
         url_info: |-
-            You'll need to register with Canvas before you can participate as an account admin.  You can finish the registration process here:
+            You'll need to register with IBTA Arabia before you can participate as an account admin.  You can finish the registration process here:
             %{url}
         username_info: "Username: %{username}"
     added_to_conversation: 
       email: 
-        body: "%{user_name} just added you to a conversation in Canvas. To view the conversation, click the link below:"
+        body: "%{user_name} just added you to a conversation in IBTA Arabia. To view the conversation, click the link below:"
         html: 
-          body: "%{user_name} just added you to a conversation in Canvas."
+          body: "%{user_name} just added you to a conversation in IBTA Arabia."
           link_text: "View Conversation"
-          subject: "%{user_name} just added you to a conversation in Canvas."
+          subject: "%{user_name} just added you to a conversation in IBTA Arabia."
           unknown_user: "Unknown User"
-        subject: "%{user_name} just added you to a conversation in Canvas."
+        subject: "%{user_name} just added you to a conversation in IBTA Arabia."
         unknown_user: "Unknown User"
       sms: 
-        body: "%{user_name} just added you to a conversation in Canvas."
+        body: "%{user_name} just added you to a conversation in IBTA Arabia."
         more_info: "More info at %{url}"
         unknown_user: "Unknown User"
       summary: 
-        body: "%{user_name} just added you to a conversation in Canvas."
-        subject: "%{user_name} just added you to a conversation in Canvas."
+        body: "%{user_name} just added you to a conversation in IBTA Arabia."
+        subject: "%{user_name} just added you to a conversation in IBTA Arabia."
         unknown_user: "Unknown User"
       twitter: 
         tweet: "Canvas Alert - Added to conversation by %{user_name}."
@@ -8567,7 +8567,7 @@ en-AU:
         details: "More info at %{url}"
         subject: "You created this Announcement: %{title}, %{course}"
       twitter: 
-        body: "Canvas Alert - You created this Announcement: %{title}, %{course}."
+        body: "IBTA Arabia Alert - You created this Announcement: %{title}, %{course}."
     announcement_reply: 
       email: 
         body: "%{user} posted a new comment on the announcement: %{discussion_topic} for %{course}:"
@@ -8584,7 +8584,7 @@ en-AU:
       summary: 
         subject: "New Comment on Announcement: %{discussion_topic}: %{course}"
       twitter: 
-        body: "Canvas Alert - Announcement Comment: %{discussion_topic}, %{course}."
+        body: "IBTA Arabia Alert - Announcement Comment: %{discussion_topic}, %{course}."
     appointment_canceled_by_user: 
       email: 
         html: 
@@ -8616,7 +8616,7 @@ en-AU:
         message: "%{user} canceled his/her reservation for \"%{appointment_name}\"."
         more_info: "More info at %{url}"
       twitter: 
-        message: "Canvas Alert - %{user} canceled his/her reservation for \"%{appointment_name}\"."
+        message: "IBTA Arabia Alert - %{user} canceled his/her reservation for \"%{appointment_name}\"."
     appointment_deleted_for_user: 
       email: 
         html: 
@@ -8647,7 +8647,7 @@ en-AU:
         message: "Your time slot for \"%{appointment_name} was canceled\"."
         more_info: "More info at %{url}"
       twitter: 
-        message: "Canvas Alert - Your time slot for \"%{appointment_name} was canceled\"."
+        message: "IBTA Arabia Alert - Your time slot for \"%{appointment_name} was canceled\"."
     appointment_group_deleted: 
       email: 
         html: 
@@ -8671,7 +8671,7 @@ en-AU:
         message: "All appointments for \"%{appointment_name} have been canceled\"."
         more_info: "More info at %{url}"
       twitter: 
-        message: "Canvas Alert - All appointments for \"%{appointment_name} have been canceled\"."
+        message: "IBTA Arabia Alert - All appointments for \"%{appointment_name} have been canceled\"."
     appointment_group_published: 
       email: 
         group_signup: "Group (%{group_category})"
@@ -8703,7 +8703,7 @@ en-AU:
         message: "Time slots for \"%{appointment_name}\" are now available for signup (%{dates})."
         subject: "Appointment \"%{appointment_name}\" is available for signup (%{course})"
       twitter: 
-        message: "Canvas Alert - Signups are open for \"%{appointment_name}\"."
+        message: "IBTA Arabia Alert - Signups are open for \"%{appointment_name}\"."
     appointment_group_updated: 
       email: 
         group_signup: "Group (%{group_category})"
@@ -8734,7 +8734,7 @@ en-AU:
         message: "Time slots have been added to \"%{appointment_name}\" and are available for signup (%{dates})."
         subject: "Appointment \"%{appointment_name}\" has been updated (%{course})"
       twitter: 
-        message: "Canvas Alert - New time slots are available for \"%{appointment_name}\"."
+        message: "IBTA Arabia Alert - New time slots are available for \"%{appointment_name}\"."
     appointment_reserved_by_user: 
       email: 
         html: 
@@ -8763,7 +8763,7 @@ en-AU:
         message: "%{user} has signed up for \"%{appointment_name}\"."
         more_info: "More info at %{url}"
       twitter: 
-        message: "Canvas Alert - %{user} has signed up for \"%{appointment_name}\"."
+        message: "IBTA Arabia Alert - %{user} has signed up for \"%{appointment_name}\"."
     appointment_reserved_for_user: 
       email: 
         html: 
@@ -8795,7 +8795,7 @@ en-AU:
         message: "%{user} has signed you up for \"%{appointment_name}\" (%{date_and_time})."
         subject: "You have been signed up for \"%{appointment_name}\" (%{course})"
       twitter: 
-        message: "Canvas Alert - You have been signed up for \"%{appointment_name}\"."
+        message: "IBTA Arabia Alert - You have been signed up for \"%{appointment_name}\"."
     assignment_changed: 
       email: 
         body: |-
@@ -8816,7 +8816,7 @@ en-AU:
       summary: 
         subject: "Assignment Changed: %{title}, %{course}"
       twitter: 
-        assignment_change: "Canvas Alert - Change: %{assignment_name}, %{course_name}"
+        assignment_change: "IBTA Arabia Alert - Change: %{assignment_name}, %{course_name}"
     assignment_created: 
       email: 
         assignment_created: "Assignment Created - %{assignment_name}, %{course_name}"
@@ -8845,7 +8845,7 @@ en-AU:
         multiple_due_dates: "due: Multiple Dates"
         no_due_date: "due: No Due Date"
       twitter: 
-        assignment_change: "Canvas Alert - Change: %{assignment_name}, %{course_name}"
+        assignment_change: "IBTA Arabia Alert - Change: %{assignment_name}, %{course_name}"
         due_at: "due: %{assignment_due_date_time}"
         multiple_due_dates: "due: Multiple Dates"
         no_due_date: "due: No Due Date"
@@ -8870,7 +8870,7 @@ en-AU:
         due_at: "due: %{assignment_due_date_time}"
         no_due_date: "due: No Due Date"
       twitter: 
-        assignment_change: "Canvas Alert - Date Change: %{assignment_name}, %{course_name}"
+        assignment_change: "IBTA Arabia Alert - Date Change: %{assignment_name}, %{course_name}"
         due_at: "due: %{assignment_due_date_time}"
         no_due_date: "due: No Due Date"
     assignment_due_date_override_changed: 
@@ -8894,7 +8894,7 @@ en-AU:
         due_at: "due: %{assignment_due_date_time}"
         no_due_date: "due: No Due Date"
       twitter: 
-        assignment_change: "Canvas Alert - Date Change: %{assignment_name}, %{course_name} (%{override})"
+        assignment_change: "IBTA Arabia Alert - Date Change: %{assignment_name}, %{course_name} (%{override})"
         due_at: "due: %{assignment_due_date_time}"
         no_due_date: "due: No Due Date"
     assignment_graded: 
@@ -8914,7 +8914,7 @@ en-AU:
         assignment_graded: "Assignment Marked: %{assignment_name}, %{course_name}"
         the_assignment_is_graded: "The assignment, %{assignment_name}, has been marked."
       twitter: 
-        assignment_graded: "Canvas Alert - Marked: %{assignment_name}, %{course_name}"
+        assignment_graded: "IBTA Arabia Alert - Marked: %{assignment_name}, %{course_name}"
     assignment_locked: "This assignment is currently locked."
     assignment_locked_at: "This assignment was locked %{at}."
     assignment_locked_module: "This assignment is part of the module *%{module}* and hasn't been unlocked yet."
@@ -8937,7 +8937,7 @@ en-AU:
         turned_in_at: "turned in: %{submission_date}"
         user_resubmitted: "Re-Submission: %{user_name}, %{assignment_name}"
       twitter: 
-        user_resubmitted: "Canvas Alert - Resubmission: %{user_name}, %{assignment_name}"
+        user_resubmitted: "IBTA Arabia Alert - Resubmission: %{user_name}, %{assignment_name}"
     assignment_submitted: 
       email: 
         html: 
@@ -8955,7 +8955,7 @@ en-AU:
         turned_in_at: "turned in: %{submission_date}"
         user_submitted: "Submission: %{user_name}, %{assignment_name}"
       twitter: 
-        user_submitted: "Canvas Alert - Submission: %{user_name}, %{assignment_name}"
+        user_submitted: "IBTA Arabia Alert - Submission: %{user_name}, %{assignment_name}"
     assignment_submitted_late: 
       email: 
         html: 
@@ -8973,7 +8973,7 @@ en-AU:
         turned_in_at: "turned in: %{submission_date}"
         user_submitted: "Late Assignment: %{user_name}, %{assignment_name}"
       twitter: 
-        user_submitted: "Canvas Alert - Late Submission: %{user_name}, %{assignment_name}"
+        user_submitted: "IBTA Arabia Alert - Late Submission: %{user_name}, %{assignment_name}"
     assignment_unmuted: 
       email: 
         body: |-
@@ -9039,7 +9039,7 @@ en-AU:
             in %{service} and you were invited using your email address, %{email}.
         subject: "Collaboration Invitation: %{course_or_group}"
       twitter: 
-        body: "Canvas Alert - Collaboration Invite: %{document}, %{course_or_group}"
+        body: "IBTA Arabia Alert - Collaboration Invite: %{document}, %{course_or_group}"
     confirm_email_communication_channel: 
       email: 
         body: "The email address, %{email} is being registered at %{website} for the user, %{user}."
@@ -9047,8 +9047,8 @@ en-AU:
         html: 
           body: "The email address, %{email} is being registered at %{website} for the user, %{user}."
           details: "Click here to confirm this registration"
-          subject: "Confirm Email: Canvas"
-        subject: "Confirm Email: Canvas"
+          subject: "Confirm Email: IBTA Arabia"
+        subject: "Confirm Email: IBTA Arabia"
     confirm_registration: 
       email: 
         body: "Thank you for registering with %{product_name}!  This email is confirmation that the user %{user} is registering for a new account at %{website}."
@@ -9061,7 +9061,7 @@ en-AU:
     confirm_sms_communication_channel: 
       sms: 
         body: |-
-            Confirm Canvas registration w/ code:
+            Confirm IBTA Arabia registration w/ code:
             
             %{confirmation_code}
             
@@ -9098,24 +9098,24 @@ en-AU:
           attached_files: "Attached Files:"
           audio_comment: "This message includes media comments. To listen or reply, click the link below:"
           download: download
-          reply_to_conversation_message: "You can reply to this message in Canvas by replying directly to this email."
-          subject: "%{user_name}, you just sent a message in Canvas."
+          reply_to_conversation_message: "You can reply to this message in IBTA Arabia by replying directly to this email."
+          subject: "%{user_name}, you just sent a message in IBTA Arabia."
           unknown_user: "Unknown User"
           view_message: "View this message in Conversations"
-        reply_to_conversation_message: "You can reply to this message in Canvas by replying directly to this email."
-        subject: "%{user_name}, you just sent a message in Canvas."
+        reply_to_conversation_message: "You can reply to this message in IBTA Arabia by replying directly to this email."
+        subject: "%{user_name}, you just sent a message in IBTA Arabia."
         unknown_user: "Unknown User"
         view_message: "View this message in Conversations"
       sms: 
-        body: "%{user_name}, you just sent a message in Canvas:"
+        body: "%{user_name}, you just sent a message in IBTA Arabia:"
         more_info: "More info at %{url}"
         unknown_user: "Unknown User"
       summary: 
-        body: "%{user_name}, you just sent a message in Canvas:"
-        subject: "%{user_name}, you just sent a message in Canvas."
+        body: "%{user_name}, you just sent a message in IBTA Arabia:"
+        subject: "%{user_name}, you just sent a message in IBTA Arabia."
         unknown_user: "Unknown User"
       twitter: 
-        tweet: "Canvas Alert - Message from %{user_name}."
+        tweet: "IBTA Arabia Alert - Message from %{user_name}."
     conversation_message: 
       email: 
         attached_files: "Attached Files:"
@@ -9124,30 +9124,30 @@ en-AU:
           attached_files: "Attached Files:"
           audio_comment: "This message includes media comments. To listen or reply, click the link below:"
           download: download
-          reply_to_conversation_message: "You can reply to this message in Canvas by replying directly to this email."
-          subject: "%{user_name} just sent you a message in Canvas."
+          reply_to_conversation_message: "You can reply to this message in IBTA Arabia by replying directly to this email."
+          subject: "%{user_name} just sent you a message in IBTA Arabia."
           unknown_user: "Unknown User"
           view_message: "View this message in Conversations"
-        reply_to_conversation_message: "You can reply to this message in Canvas by replying directly to this email."
-        subject: "%{user_name} just sent you a message in Canvas."
+        reply_to_conversation_message: "You can reply to this message in IBTA Arabia by replying directly to this email."
+        subject: "%{user_name} just sent you a message in IBTA Arabia."
         unknown_user: "Unknown User"
         view_message: "View this message in Conversations"
       sms: 
-        body: "%{user_name} just sent you a message in Canvas:"
+        body: "%{user_name} just sent you a message in IBTA Arabia:"
         more_info: "More info at %{url}"
         unknown_user: "Unknown User"
       summary: 
-        body: "%{user_name} just sent you a message in Canvas:"
-        subject: "%{user_name} just sent you a message in Canvas."
+        body: "%{user_name} just sent you a message in IBTA Arabia:"
+        subject: "%{user_name} just sent you a message in IBTA Arabia."
         unknown_user: "Unknown User"
       twitter: 
-        tweet: "Canvas Alert - Message from %{user_name}."
+        tweet: "IBTA Arabia Alert - Message from %{user_name}."
     course_already_started: 
       email: 
         body: |-
             Hi %{user},
             
-            %{course}, your course on Canvas Network, started a couple days ago, and we noticed you haven't logged in yet. We just wanted to send you one last reminder in case you forgot.
+            %{course}, your course on IBTA Arabia Network, started a couple days ago, and we noticed you haven't logged in yet. We just wanted to send you one last reminder in case you forgot.
             
             To log in, go to %{site} and enter your username and password. If you haven't set a password yet, you can set one here: %{password_url}
             
@@ -9155,58 +9155,58 @@ en-AU:
             
             We hope to see you soon,
             
-            Canvas Network
+            IBTA Arabia Network
         course_already_started: "Your course has already started"
     course_required_materials: 
       email: 
         body: |-
             Hi %{user},
             
-            Good news! %{course}, the course you enrolled in on Canvas Network, will be starting soon.
+            Good news! %{course}, the course you enrolled in on IBTA Arabia Network, will be starting soon.
             
-            To help make sure you get the most from your course, you should check for any special instructions or course materials listed by the instructor.  You can look for this on the course details page on Canvas Network, or just click the link below.
+            To help make sure you get the most from your course, you should check for any special instructions or course materials listed by the instructor.  You can look for this on the course details page on IBTA Arabia Network, or just click the link below.
             
             %{url}
             
             Keep learning,
             
-            Canvas Network
+            IBTA Arabia Network
         course_required_materials: "Materials and instructions for %{course}"
     course_started: 
       email: 
         body: |-
             Hello %{user},
             
-            This is a friendly reminder that %{course}, your course on Canvas Network, begins today. You can now log in to %{site} and get started!
+            This is a friendly reminder that %{course}, your course on IBTA Arabia Network, begins today. You can now log in to %{site} and get started!
             
-            Don't forget to set up your Canvas Network profile, so others in the course know who you are. You can update your profile at %{profile_url}
+            Don't forget to set up your IBTA Arabia Network profile, so others in the course know who you are. You can update your profile at %{profile_url}
             
             Keep learning,
             
-            Canvas Network
+            IBTA Arabia Network
         course_starts_today: "Your course begins today"
     course_starts_in_week: 
       email: 
         body: |-
             %{user},
             
-            It's almost time! %{course}, a course you enrolled in on Canvas Network, begins next week. We know how excited you must be, and we're excited too.
+            It's almost time! %{course}, a course you enrolled in on IBTA Arabia Network, begins next week. We know how excited you must be, and we're excited too.
             
             What can you do to get ready?
             
-            If you haven't already created your Canvas Network profile, you can log in and set it up at Canvas.net. Your profile will help other people in the course know who you are. There, you can also set up your notification preferences.
+            If you haven't already created your IBTA Arabia Network profile, you can log in and set it up at IBTA Arabia.net. Your profile will help other people in the course know who you are. There, you can also set up your notification preferences.
             
             Finally, you can review the required materials and any instructions for your course here: %{url}
             
             Keep learning,
             
-            Canvas Network
+            IBTA Arabia Network
         course_starts_next_week: "Your course starts next week"
     dialog: 
       title: "Send a reply message"
     email: 
       footer: |-
-          You received this email because you are participating in one or more classes using Canvas.  To change or turn off email notifications, visit:
+          You received this email because you are participating in one or more classes using IBTA Arabia.  To change or turn off email notifications, visit:
           %{url}
     enrollment_accepted: 
       email: 
@@ -9240,7 +9240,7 @@ en-AU:
         body_teacher: "%{user} just accepted their invitation to participate in the course, %{course}, as a teacher."
         subject: "%{user} accepted the Course Invitation"
       twitter: 
-        body: "Canvas Alert - Accepted: %{user}, %{enrollment_type}, course, %{course}"
+        body: "IBTA Arabia Alert - Accepted: %{user}, %{enrollment_type}, course, %{course}"
     enrollment_invitation: 
       email: 
         body_designer: "You've been invited to participate in the course, %{course}, as a designer."
@@ -9287,7 +9287,7 @@ en-AU:
         body_teacher: "You've been invited to participate in the course, %{course}, as a teacher."
         subject: "Course Invitation"
       twitter: 
-        body: "Canvas Alert - Invited: course as %{enrollment_type}"
+        body: "IBTA Arabia Alert - Invited: course as %{enrollment_type}"
     enrollment_notification: 
       email: 
         body_designer: "You've been enrolled in the course, %{course}, as a designer."
@@ -9335,7 +9335,7 @@ en-AU:
         body_teacher: "You've been enrollment in the course, %{course}, as a teacher."
         subject: "Course Enrollment"
       twitter: 
-        body: "Canvas Alert - Enrolled: course as %{role_type}"
+        body: "IBTA Arabia Alert - Enrolled: course as %{role_type}"
     enrollment_registration: 
       email: 
         body_designer: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a designer."
@@ -9343,7 +9343,7 @@ en-AU:
         body_student: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a student."
         body_ta: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a TA."
         body_teacher: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a teacher."
-        details: "You'll need to register with Canvas before you can participate in the class.  To get started, visit the course page here:"
+        details: "You'll need to register with IBTA Arabia before you can participate in the class.  To get started, visit the course page here:"
         html: 
           body: "You've been invited to participate in a class at %{website}. The class is called %{course}. Course role: %{role_type}"
           body_designer: "The class is called %{course}, and you've been invited to participate as a designer."
@@ -9351,7 +9351,7 @@ en-AU:
           body_student: "The class is called %{course}, and you've been invited to participate as a student."
           body_ta: "The class is called %{course}, and you've been invited to participate as a TA."
           body_teacher: "The class is called %{course}, and you've been invited to participate as a teacher."
-          details: "You'll need to register with Canvas before you can participate in the class."
+          details: "You'll need to register with IBTA Arabia before you can participate in the class."
           email: Email
           link: "Click here to get started"
           name: Name
@@ -9385,7 +9385,7 @@ en-AU:
         body_teacher: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a teacher."
         subject: "Course Invitation"
       twitter: 
-        body: "Canvas Alert - Invited: course as %{enrollment_type}"
+        body: "IBTA Arabia Alert - Invited: course as %{enrollment_type}"
     event_date_changed: 
       email: 
         email_body: "The event, %{event_title}, for the course, %{course_name}, has changed times. It's now:"
@@ -9430,18 +9430,18 @@ en-AU:
             change_password_at: "change this login's password at"
           login_at_account: "%{login_email} at %{account_name}"
           login_managed_by_account: "this login's credentials are managed by %{account_name}"
-          password_from_account: "The password for this login should have been given to you by the system administrators at %{account_name}, and Instructure doesn't have access to your password. If your password is not working, please contact the system administrators about changing or verifying your password."
-          requested_password_reset: "You requested a confirmation of your password for logging into Canvas."
-          subject: "Forgot Password: Canvas"
+          password_from_account: "The password for this login should have been given to you by the system administrators at %{account_name}, and IBTA doesn't have access to your password. If your password is not working, please contact the system administrators about changing or verifying your password."
+          requested_password_reset: "You requested a confirmation of your password for logging into IBTA Arabia."
+          subject: "Forgot Password: IBTA Arabia"
         labels: 
           associated_with_accounts: "This address is associated with the following accounts"
           change_password_at: "change this login's password at"
           click_to_reset: "To set a new password, please click the following link"
         login_at_account: "%{login_email} at %{account_name}"
         login_managed_by_account: "this login's credentials are managed by %{account_name}"
-        password_from_account: "The password for this login should have been given to you by the system administrators at %{account_name}, and Instructure doesn't have access to your password.  If your password is not working, please contact the system administrators about changing or verifying your password."
-        requested_password_reset: "You requested a confirmation of your password for logging into Canvas."
-        subject: "Forgot Password: Canvas"
+        password_from_account: "The password for this login should have been given to you by the system administrators at %{account_name}, and IBTA doesn't have access to your password.  If your password is not working, please contact the system administrators about changing or verifying your password."
+        requested_password_reset: "You requested a confirmation of your password for logging into IBTA Arabia."
+        subject: "Forgot Password: IBTA Arabia"
     grade_weight_changed: 
       email: 
         grade_changed: "The grading policy for the course, %{course_name} has changed."
@@ -9467,7 +9467,7 @@ en-AU:
           grades_based_on_percent: "Grading is based on the weighted total for each assignment group"
           subject: "Mark Weight Changed"
       twitter: 
-        grade_changed: "Canvas Alert - Grading Policy Changed: %{course_name}"
+        grade_changed: "IBTA Arabia Alert - Grading Policy Changed: %{course_name}"
     group_assignment_submitted_late: 
       email: 
         body: "The group %{group_name} has just turned in a late submission for %{assignment_name} in the course %{course_name}."
@@ -9485,7 +9485,7 @@ en-AU:
         body: "The group %{group_name} turned in a late submission for %{assignment_name} in the course %{course_name}."
         subject: "Late Assignment: %{group_name}, %{assignment_name}"
       twitter: 
-        subject: "Canvas Alert - Late Group Submission: %{group_name}, %{assignment_name}"
+        subject: "IBTA Arabia Alert - Late Group Submission: %{group_name}, %{assignment_name}"
     group_membership_accepted: 
       email: 
         account_group: "Your request to join the group %{group_name} for the account %{account_name} has been accepted."
@@ -9509,8 +9509,8 @@ en-AU:
         course_group: "Your request to join the group %{group_name} for the course %{course_name} has been accepted."
         subject: "Group Membership Accepted: %{group_name}"
       twitter: 
-        account_group: "Canvas Alert - Group Membership Accepted: %{group_name} for the account %{account_name}."
-        course_group: "Canvas Alert - Group Membership Accepted: %{group_name} for the course %{course_name}."
+        account_group: "IBTA Arabia Alert - Group Membership Accepted: %{group_name} for the account %{account_name}."
+        course_group: "IBTA Arabia Alert - Group Membership Accepted: %{group_name} for the course %{course_name}."
     group_membership_rejected: 
       email: 
         account_group: "Your request to join the group %{group_name} for the account %{account_name} has been rejected."
@@ -9534,8 +9534,8 @@ en-AU:
         course_group: "Your request to join the group %{group_name} for the course %{course_name} has been rejected."
         subject: "Group Membership Rejected for %{group_name}"
       twitter: 
-        account_group: "Canvas Alert - Group Membership Rejected: %{group_name} for the account %{account_name}."
-        course_group: "Canvas Alert - Group Membership Rejected: %{group_name} for the course %{course_name}."
+        account_group: "IBTA Arabia Alert - Group Membership Rejected: %{group_name} for the account %{account_name}."
+        course_group: "IBTA Arabia Alert - Group Membership Rejected: %{group_name} for the course %{course_name}."
     html_message: 
       html_not_exist: "The HTML version of this message was not created nor sent"
     index: 
@@ -9547,12 +9547,12 @@ en-AU:
           click_to_preferences: "Update your notification settings"
     merge_email_communication_channel: 
       email: 
-        body: "An account has been created for you at %{host}, but you already have a Canvas account.  If you would like to merge them together, please visit the following url:"
+        body: "An account has been created for you at %{host}, but you already have a IBTA Arabia account.  If you would like to merge them together, please visit the following url:"
         html: 
-          account_created: "An account has been created for you at %{host}, but you already have a Canvas account."
+          account_created: "An account has been created for you at %{host}, but you already have a IBTA Arabia account."
           merge2: "If you would like to merge them together, *click here*"
-          subject: "New Canvas Account"
-        subject: "New Canvas Account"
+          subject: "New IBTA Arabia Account"
+        subject: "New IBTA Arabia Account"
     message: 
       actions: 
         reply: Reply
@@ -9587,7 +9587,7 @@ en-AU:
         body: "A new admin, %{user}, has been added for the account %{account}"
         subject: "New Account User"
       twitter: 
-        body: "Canvas Alert - New Admin: %{user}, %{account}"
+        body: "IBTA Arabia Alert - New Admin: %{user}, %{account}"
     new_announcement: 
       email: 
         html: 
@@ -9599,7 +9599,7 @@ en-AU:
         details: "More info at %{url}"
         subject: "New announcement: %{title}, %{course}"
       twitter: 
-        body: "Canvas Alert - Announcement: %{title}, %{course}."
+        body: "IBTA Arabia Alert - Announcement: %{title}, %{course}."
     new_context_group_membership: 
       email: 
         body_account: "You've been added to a new group for the account %{account}.  The name of the group is %{group_name}."
@@ -9624,8 +9624,8 @@ en-AU:
         body_course: "You've been added to a new group for the course %{course}.  The name of the group is %{group_name}."
         subject: "New Group Membership for %{course_or_account}"
       twitter: 
-        body_account: "Canvas Alert - New Group: %{group} for the account %{account}"
-        body_course: "Canvas Alert - New Group: %{group} for the course %{course}"
+        body_account: "IBTA Arabia Alert - New Group: %{group} for the account %{account}"
+        body_course: "IBTA Arabia Alert - New Group: %{group} for the course %{course}"
     new_context_group_membership_invitation: 
       email: 
         body_account: "You've been invited to join the group %{group} for the account %{account}."
@@ -9648,8 +9648,8 @@ en-AU:
         body_course: "You've been invited to join the group %{group} for the course %{course}."
         subject: "New Group Membership for %{course_or_account}"
       twitter: 
-        body_account: "Canvas Alert - Invitation: %{group} for the account %{account}"
-        body_course: "Canvas Alert - Invitation: %{group} for the course %{course}."
+        body_account: "IBTA Arabia Alert - Invitation: %{group} for the account %{account}"
+        body_course: "IBTA Arabia Alert - Invitation: %{group} for the course %{course}."
     new_course: 
       email: 
         body: "A course, %{course}, has been added for the account %{account}"
@@ -9675,7 +9675,7 @@ en-AU:
           teachers: Teachers
         subject: "New Course"
       twitter: 
-        body: "Canvas Alert - New Course: %{course}, %{account}"
+        body: "IBTA Arabia Alert - New Course: %{course}, %{account}"
     new_discussion_entry: 
       email: 
         body: "%{user} posted a new comment on the thread %{discussion_topic} for %{course}:"
@@ -9692,7 +9692,7 @@ en-AU:
       summary: 
         subject: "New Comment for %{discussion_topic}: %{course}"
       twitter: 
-        body: "Canvas Alert - Comment: %{discussion_topic}, %{course}."
+        body: "IBTA Arabia Alert - Comment: %{discussion_topic}, %{course}."
     new_discussion_topic: 
       email: 
         body: "A new discussion has been started that may be interesting to you:"
@@ -9712,7 +9712,7 @@ en-AU:
       summary: 
         subject: "New Discussion - %{discussion_topic}: %{course}"
       twitter: 
-        subject: "Canvas Alert - Topic: %{discussion_topic}, %{course}"
+        subject: "IBTA Arabia Alert - Topic: %{discussion_topic}, %{course}"
     new_event_created: 
       email: 
         body: "There's a new event scheduled for %{course_name} that you should be aware of:"
@@ -9739,7 +9739,7 @@ en-AU:
       twitter: 
         from_to_time: "from %{start_date_time} to %{end_date_time}"
         no_time_set: "No Time Set"
-        subject: "Canvas Alert - Event: %{event_title}, %{course_name}"
+        subject: "IBTA Arabia Alert - Event: %{event_title}, %{course_name}"
     new_file_added: 
       email: 
         body: "A new file has been added for the course, %{name}:"
@@ -9755,7 +9755,7 @@ en-AU:
       summary: 
         subject: "New File Added: %{title}, %{name}"
       twitter: 
-        body: "Canvas Alert - New File: %{title} (%{size}) for %{name}:"
+        body: "IBTA Arabia Alert - New File: %{title} (%{size}) for %{name}:"
     new_files_added: 
       email: 
         body: "%{count} new files have been added for the course, %{name}:"
@@ -9773,7 +9773,7 @@ en-AU:
         link: "You can view them here"
         subject: "%{count} new files added for the course, %{name}:"
       twitter: 
-        body: "Canvas Alert - %{count} new files for %{name}"
+        body: "IBTA Arabia Alert - %{count} new files for %{name}"
     new_student_organized_group: 
       email: 
         body_account: "A new student organized group named \"%{group_name}\" was created for the account %{account}. The first member is %{user}."
@@ -9796,8 +9796,8 @@ en-AU:
         body_course: "A new student organized group named \"%{group_name}\" was created for the course %{course}. The first member is %{user}."
         subject: "New Student Group for %{course_or_account}"
       twitter: 
-        body_account: "Canvas Alert - New Group: %{group_name} for the account %{account}"
-        body_course: "Canvas Alert - New Group: %{group_name} for the course %{course}"
+        body_account: "IBTA Arabia Alert - New Group: %{group_name} for the account %{account}"
+        body_course: "IBTA Arabia Alert - New Group: %{group_name} for the course %{course}"
     new_user: 
       email: 
         body: "A new user, %{user}, has just registered for the account %{account}"
@@ -9814,7 +9814,7 @@ en-AU:
         body: "A new user, %{user}, has just registered for the account %{account}"
         subject: "New User"
       twitter: 
-        body: "Canvas Alert - New User: %{user}, %{account}"
+        body: "IBTA Arabia Alert - New User: %{user}, %{account}"
     page_locked: "This page is currently locked."
     page_locked_at: "This page was locked %{at}."
     page_locked_module: "This page is part of the module *%{module}* and hasn't been unlocked yet."
@@ -9835,40 +9835,40 @@ en-AU:
         body: "You've been invited to peer review %{reviewee}. Follow the link below to review them!"
     pseudonym_registration: 
       email: 
-        body: "You have been registered for a Canvas account at %{account}!  Before you can log in and start using Canvas, you'll need to finish the configuration process."
+        body: "You have been registered for a IBTA Arabia account at %{account}!  Before you can log in and start using IBTA Arabia, you'll need to finish the configuration process."
         html: 
-          body: "You have been registered for a Canvas account at %{account}! Before you can log in and start using Canvas, you'll need to finish the configuration process."
+          body: "You have been registered for a IBTA Arabia account at %{account}! Before you can log in and start using IBTA Arabia, you'll need to finish the configuration process."
           link: "Click here to finish the registration process"
-          subject: "Finish Registration: Canvas"
+          subject: "Finish Registration: IBTA Arabia"
         link_message: "To finish the registration process, please visit the following url:"
-        subject: "Finish Registration: Canvas"
+        subject: "Finish Registration: IBTA Arabia"
       sms: 
-        body: "You have been registered for a Canvas account at %{account}!  Before you can log in and start using Canvas, you'll need to finish the configuration process."
+        body: "You have been registered for a IBTA Arabia account at %{account}!  Before you can log in and start using IBTA Arabia, you'll need to finish the configuration process."
         link: "Click the following URL to finish the registration process: %{link}"
       summary: 
-        body: "You have been registered for a Canvas account at %{account}!  Before you can log in and start using Canvas, you'll need to finish the configuration process."
+        body: "You have been registered for a IBTA Arabia account at %{account}!  Before you can log in and start using IBTA Arabia, you'll need to finish the configuration process."
         link_message: "To finish the registration process, please visit the following URL:"
-        subject: "Finish Registration: Canvas"
+        subject: "Finish Registration: IBTA Arabia"
       twitter: 
-        body: "Canvas Alert - You have been registered for a Canvas account at %{account}!"
+        body: "IBTA Arabia Alert - You have been registered for a IBTA Arabia account at %{account}!"
     pseudonym_registration_done: 
       email: 
-        body: "You have been registered for a Canvas account at %{account}!  "
+        body: "You have been registered for a IBTA Arabia account at %{account}!  "
         html: 
-          body: "You have been registered for a Canvas account at %{account}!"
+          body: "You have been registered for a IBTA Arabia account at %{account}!"
           link: "Click here to access your account."
-          subject: "Canvas Registration Complete"
+          subject: "IBTA Arabia Registration Complete"
         link_message: "Visit the following URL to access your account:"
-        subject: "Canvas Registration Complete"
+        subject: "IBTA Arabia Registration Complete"
       sms: 
-        body: "You have been registered for a Canvas account at %{account}!  "
+        body: "You have been registered for a IBTA Arabia account at %{account}!  "
         link: "Visit the following URL to access your account %{link}"
       summary: 
-        body: "You have been registered for a Canvas account at %{account}!  "
+        body: "You have been registered for a IBTA Arabia account at %{account}!  "
         link_message: "Visit the following URL to access your account:"
-        subject: "Canvas Registration Complete"
+        subject: "IBTA Arabia Registration Complete"
       twitter: 
-        body: "Canvas Alert - You have been registered for a Canvas account at %{account}!  "
+        body: "IBTA Arabia Alert - You have been registered for a IBTA Arabia account at %{account}!  "
     quiz_locked: "This quiz is currently locked."
     quiz_locked_at: "This quiz was locked %{at}."
     quiz_locked_module: "This quiz is part of the module *%{module}* and hasn't been unlocked yet."
@@ -9890,7 +9890,7 @@ en-AU:
         body: "A regrade has finished for your quiz %{title}."
         subject: "Quiz Regraded: %{quiz}, %{context}"
       twitter: 
-        body: "Canvas Alert - Quiz Regraded : %{quiz}"
+        body: "IBTA Arabia Alert - Quiz Regraded : %{quiz}"
     quiz_unpublished_module: "This quiz is part of an unpublished module and is not available yet."
     report_generated: 
       email: 
@@ -9920,7 +9920,7 @@ en-AU:
         body: "You've been reminded to assess: %{rubric}, %{context}:"
         subject: "Reminder to Assess: %{rubric}, %{context}"
       twitter: 
-        tweet: "Canvas Alert - Reminder: assess %{rubric}, %{context}"
+        tweet: "IBTA Arabia Alert - Reminder: assess %{rubric}, %{context}"
     rubric_association_created: 
       email: 
         body: "A new assessment has been created for %{context}:"
@@ -9937,7 +9937,7 @@ en-AU:
         body: "A new assessment has been created for %{context}:"
         subject: "New Assessment: %{title}, %{context}"
       twitter: 
-        tweet: "Canvas Alert - New Assessment: %{title}, %{context}."
+        tweet: "IBTA Arabia Alert - New Assessment: %{title}, %{context}."
     send_form: 
       labels: 
         message_body: Message
@@ -9962,7 +9962,7 @@ en-AU:
         someone: Someone
         subject: "Submission Comment: %{user}, %{assignment}, %{context}"
       twitter: 
-        tweet: "Canvas Alert - Comment: %{author} for %{assignment}, %{user}, %{context}."
+        tweet: "IBTA Arabia Alert - Comment: %{author} for %{assignment}, %{user}, %{context}."
     submission_comment_for_teacher: 
       email: 
         body: "%{author} just made a new comment on the submission for %{user} for %{assignment}"
@@ -9983,7 +9983,7 @@ en-AU:
         someone: Someone
         subject: "Submission Comment: %{user}, %{assignment}, %{context}"
       twitter: 
-        tweet: "Canvas Alert - Comment: %{author} for %{assignment}, %{user}, %{context}."
+        tweet: "IBTA Arabia Alert - Comment: %{author} for %{assignment}, %{user}, %{context}."
     submission_grade_changed: 
       email: 
         body: "The mark on your assignment, %{assignment_title} has been changed."
@@ -10025,7 +10025,7 @@ en-AU:
         not_applicable: N/A
         score: "score:  %{score} out of %{total}"
         score_pending: "(pending review)"
-        tweet: "Canvas Alert - Mark Change: %{date}"
+        tweet: "IBTA Arabia Alert - Mark Change: %{date}"
     submission_graded: 
       email: 
         body: "Your assignment, %{assignment}, has been marked."
@@ -10067,7 +10067,7 @@ en-AU:
         not_applicable: N/A
         score: "score:  %{score} out of %{total}"
         score_pending_review: "(pending review)"
-        tweet: "Canvas Alert - Marked: %{assignment}, %{context}"
+        tweet: "IBTA Arabia Alert - Marked: %{assignment}, %{context}"
     submission_needs_grading: 
       email: 
         body: "%{user_name} has completed the quiz %{quiz_title}, and it requires manual grading."
@@ -10092,23 +10092,23 @@ en-AU:
         subject: "Quiz Submitted: %{quiz}, %{context}"
         submitted_date: "submitted: %{date}"
       twitter: 
-        body: "Canvas Alert - Quiz Submitted: %{quiz}, %{user_name}"
+        body: "IBTA Arabia Alert - Quiz Submitted: %{quiz}, %{user_name}"
     summaries: 
       email: 
-        daily_body: "You're signed up to receive a daily report of some notifications from your Canvas account.  Below is the report for %{date}:"
+        daily_body: "You're signed up to receive a daily report of some notifications from your IBTA Arabia account.  Below is the report for %{date}:"
         html: 
           click_to_preferences: "Click here to edit your notification preferences"
-          daily_body: "You're signed up to receive a daily report of some notifications from your Canvas account. Below is the report for %{date}:"
-          subject: "Recent Canvas Notifications"
+          daily_body: "You're signed up to receive a daily report of some notifications from your IBTA Arabia account. Below is the report for %{date}:"
+          subject: "Recent IBTA Arabia Notifications"
           view: "Click to view"
-          weekly_body: "You're signed up to receive a weekly report of some notifications from your Canvas account. Below is the report for the week ending %{date}:"
+          weekly_body: "You're signed up to receive a weekly report of some notifications from your IBTA Arabia account. Below is the report for the week ending %{date}:"
         notifications_link: "You can change your notification settings by visiting the following page:"
-        subject: "Recent Canvas Notifications"
-        weekly_body: "You're signed up to receive a weekly report of some notifications from your Canvas account.  Below is the report for the week ending %{date}:"
+        subject: "Recent IBTA Arabia Notifications"
+        weekly_body: "You're signed up to receive a weekly report of some notifications from your IBTA Arabia account.  Below is the report for the week ending %{date}:"
       sms: 
         notifications_sms: "%{notifications_count} new notifications at %{url}"
       twitter: 
-        tweet: "Canvas Alert - %{notification_count} new notifications"
+        tweet: "IBTA Arabia Alert - %{notification_count} new notifications"
     topic_locked: "This topic is currently locked."
     topic_locked_at: "This topic was locked %{at}."
     topic_locked_module: "This topic is part of the module *%{module}* and hasn't been unlocked yet."
@@ -10130,7 +10130,7 @@ en-AU:
       summary: 
         subject: "Updated Wiki Page: %{title}, %{user}"
       twitter: 
-        tweet: "Canvas Alert - Page Updated: %{title}, %{user}."
+        tweet: "IBTA Arabia Alert - Page Updated: %{title}, %{user}."
     visit_modules_page: "*Visit the course modules page for information on how to unlock this content.*"
     web_conference_invitation: 
       email: 
@@ -10148,7 +10148,7 @@ en-AU:
         body: "You've been invited to participate in a web conference, %{title} for %{name}."
         subject: "Web Conference Invitation: %{name}"
       twitter: 
-        tweet: "Canvas Alert - Invite: attend %{title}, %{name}"
+        tweet: "IBTA Arabia Alert - Invite: attend %{title}, %{name}"
     web_conference_recording_ready: 
       email: 
         body: "Your recording of %{title} for %{name} is ready."
@@ -10165,7 +10165,7 @@ en-AU:
         body: "Your recording of %{title} for %{name} is ready."
         subject: "Web Conference Recording Ready: %{name}"
       twitter: 
-        tweet: "Canvas Alert - Recording ready: %{title}, %{name}"
+        tweet: "IBTA Arabia Alert - Recording ready: %{title}, %{name}"
   migration: 
     announcement_type: Announcement
     assignment_group_type: "Assignment Group"
@@ -10395,7 +10395,7 @@ en-AU:
   move_to_front_bf6f0194: "Move to Front"
   moving_a4d552df: Moving...
   multi_factor_authentication_configured_865b1bde: "Multi-factor authentication configured"
-  multiple_canvas_accounts_are_associated_with_cleve_c1739660: "Multiple Canvas accounts are associated with Clever District %{district_id}"
+  multiple_IBTA Arabia_accounts_are_associated_with_cleve_c1739660: "Multiple IBTA Arabia accounts are associated with Clever District %{district_id}"
   multiple_due_dates_6b0d75c6: "Multiple due dates"
   multiple_modules_930713d4: "Multiple Modules"
   must_achieve_mastery_at_least_count_times_scores_a_628db168: 
@@ -10449,7 +10449,7 @@ en-AU:
   nav_text_94206145: "Nav Text"
   nav_text_active_a924ae88: "Nav Text Active"
   near_mastery_f25174a4: "Near Mastery"
-  need_a_canvas_account_221d18ed: "Need a Canvas Account?"
+  need_a_canvas_account_221d18ed: "Need a IBTA Arabia Account?"
   new_13daf639: New
   new_account_role_6e5c4964: "New Account Role"
   new_assignment_for_course_name_f71dd337: "New assignment for %{course_name}"
@@ -10512,7 +10512,7 @@ en-AU:
   note_sub_account_themes_are_not_active_during_this_a5dd9da: "Note: sub-account themes are not active during this preview."
   note_that_email_may_not_always_be_populated_in_the_bb4a1572: "Note that email may not always be populated in the user's profile at Microsoft. Oid will not be populated for personal Microsoft accounts."
   note_that_some_attributes_may_not_be_populated_for_7c1f2854: "Note that some attributes may not be populated for all users at Clever."
-  note_this_login_s_account_uses_delegated_authentic_89227914: "Note: This login's account uses delegated authentication, but allows fallback Canvas password authentication. The password fields in this form update the fallback Canvas password, *not* the delegated authentication."
+  note_this_login_s_account_uses_delegated_authentic_89227914: "Note: This login's account uses delegated authentication, but allows fallback IBTA Arabia password authentication. The password fields in this form update the fallback IBTA Arabia password, *not* the delegated authentication."
   notes_c42e0fd5: Notes
   notes_for_name_2eefac11: "Notes for %{name}"
   notification: 
@@ -10879,7 +10879,7 @@ en-AU:
   orbis_report_header_course_sis_id: "course sis id"
   orbis_report_header_date_submitted: "date submitted"
   orbis_report_header_points_possible: "points possible"
-  orbis_report_header_student_canvas_id: "canvas user id"
+  orbis_report_header_student_canvas_id: "IBTA Arabia user id"
   orbis_report_header_student_name: "student name"
   orbis_report_header_student_sis_id: "user sis"
   orbis_report_header_submission_score: "submission score"
@@ -10946,7 +10946,7 @@ en-AU:
       instructions: 
         main: 
           manage: 
-            description: "*Outcomes are created here to track mastery in a course. To get started, checkout the menu bar along the top. Click on the New button to create a new outcome, or the New Group button to create a new group to organise your outcomes into. The Find button will allow you to use outcomes that have been created by your state or institution. As you create and use outcomes you will be able to use the panel to the left to navigate through your outcomes. You can drag and drop outcomes between the different levels to create structure.* *More importantly, Canvas allows you to add outcomes to your grading rubrics so that you can evaluate mastery as you mark assignments. Once you've set up outcomes, click Manage Rubrics to start using your outcomes for grading.*"
+            description: "*Outcomes are created here to track mastery in a course. To get started, checkout the menu bar along the top. Click on the New button to create a new outcome, or the New Group button to create a new group to organise your outcomes into. The Find button will allow you to use outcomes that have been created by your state or institution. As you create and use outcomes you will be able to use the panel to the left to navigate through your outcomes. You can drag and drop outcomes between the different levels to create structure.* *More importantly, IBTA Arabia allows you to add outcomes to your grading rubrics so that you can evaluate mastery as you mark assignments. Once you've set up outcomes, click Manage Rubrics to start using your outcomes for grading.*"
             title: "Setting up Outcomes"
     mastery_error: "Must be greater than or equal to 0"
     missing_outcome: "Couldn't find that learning outcome"
@@ -11080,7 +11080,7 @@ en-AU:
     view_more_link: "View More"
   paginated_view: 
     loading_more_results: "Loading more results"
-  parent_of_a_canvas_user_afba1624: "Parent of a Canvas User?"
+  parent_of_a_canvas_user_afba1624: "Parent of a IBTA Arabia User?"
   parent_signup_b7c6bf0a: "Parent Signup"
   parents_sign_up_here_f0aa8f4f: "Parents sign up here"
   participation_af2598: Participation
@@ -11128,12 +11128,12 @@ en-AU:
   please_wait_e6355980: "Please wait..."
   plugins: 
     academic_benchmark_importer: 
-      description: "This enables importing Academic Benchmark standards into Canvas."
+      description: "This enables importing Academic Benchmark standards into IBTA Arabia."
     account_reports: 
       description: "Select account reports"
       name: "Account Reports"
     app_center: 
-      description: "App Centre for tracking/installing external tools in Canvas"
+      description: "App Centre for tracking/installing external tools in IBTA Arabia"
       name: "App Centre"
     app_center_settings: 
       labels: 
@@ -11151,7 +11151,7 @@ en-AU:
       no_copying_frozen: "Don't allow frozen assignments to be copied."
     banner_grade_exchange_settings: 
       labels: 
-        canvas_source_identifier: "Name of your Canvas instance"
+        canvas_source_identifier: "Name of your IBTA Arabia instance"
         sis_source_identifier: "Name of your Banner instance"
     big_blue_button: 
       description: "BigBlueButton web conferencing support"
@@ -11176,10 +11176,10 @@ en-AU:
         api_key: "API Key"
         base_url: "Base URL"
     canvas_webhooks: 
-      description: "Webhooks plugin for Canvas"
-      name: "Canvas Webhooks"
+      description: "Webhooks plugin for IBTA Arabia"
+      name: "IBTA Arabia Webhooks"
     catalog_provisioner: 
-      description: "Catalog Account Provisioner for Canvas"
+      description: "Catalog Account Provisioner for IBTA Arabia"
       name: "Catalog Provisioner"
     clever: 
       description: "Clever Login"
@@ -11297,7 +11297,7 @@ en-AU:
       description: |-
           This plugin allows final grades to be published back to a student information system (SIS).  When enabled, the user will be given an option in the gradebook to publish these grades.  This will occur via a POST request to the specified publish endpoint.  Each type defines it's own content format and mime type.  The response from the endpoint does not matter and is currently ignored.
           
-          For example, the Instructure formatted CSV will POST a csv file with mime type 'text/csv' to the specified endpoint, containing the following columns:
+          For example, the IBTA formatted CSV will POST a csv file with mime type 'text/csv' to the specified endpoint, containing the following columns:
           
           "publisher_id", "publisher_sis_id", "course_id", "course_sis_id", "section_id", "section_sis_id", "student_id", "student_sis_id", "enrollment_id", "enrollment_status", "score", "grade"
           
@@ -11317,7 +11317,7 @@ en-AU:
         default_email_domain: "Default email domain"
         email_preference: "Email preference"
         lms_delivery_name: "LMS Delivery Name"
-        map_sections_to_courses: "Map IMS sections to Canvas Courses"
+        map_sections_to_courses: "Map IMS sections to IBTA Arabia Courses"
         section_end_days_adjustment: "Section end days adjustment"
         section_name_selection: "Section name selection"
         section_start_days_adjustment: "Section start days adjustment"
@@ -11327,8 +11327,8 @@ en-AU:
       author: Author
       description: Description
       name: Name
-      no_plugins: "There are no Canvas plugins installed"
-      page_title: "Canvas Plugins"
+      no_plugins: "There are no IBTA Arabia plugins installed"
+      page_title: "IBTA Arabia Plugins"
       tag: Tag
       version: Version
       website: Website
@@ -11342,7 +11342,7 @@ en-AU:
           You will need an account either at [Kaltura.com](%{kaltura_url})
           or with a self-hosted instance of Kaltura.
           
-          **Note:** once you have Kaltura configured within Canvas,
+          **Note:** once you have Kaltura configured within IBTA Arabia,
           you need to go to the Kaltura Management Console and under "Settings ->
           Integration Settings" enable server notifications with a
           Notification URL of:
@@ -11352,7 +11352,7 @@ en-AU:
           Then check the boxes for "Add Entry" and "Delete Entry" in the "Sent by Server" column.
       headers: 
         account_settings: "Account Settings"
-        canvas_settings: "Canvas Settings"
+        canvas_settings: "IBTA Arabia Settings"
         domain_settings: "Domain Settings"
         misc_settings: "Misc. Settings"
         ui_conf_ids: "UI Conf IDs"
@@ -11421,7 +11421,7 @@ en-AU:
     notices: 
       settings_updated: "Plugin settings successfully updated."
     panda_pub_settings: 
-      description: "PandaPub is a pub/sub service which, when configured, allows some parts of Canvas to receive notifications of events within the browser, rather than polling for changes."
+      description: "PandaPub is a pub/sub service which, when configured, allows some parts of IBTA Arabia to receive notifications of events within the browser, rather than polling for changes."
       labels: 
         application_id: "Application Id"
         base_url: "Base URL"
@@ -11479,7 +11479,7 @@ en-AU:
       description: |-
           If the institution does not use WebCT's "Learning Modules" (including schools who adopted WebCT
             prior to version 4.0, when modules were made available), course migrations can be improved by importing the "Course Content"
-            as Canvas Modules instead of the "Learning Modules". This page allows one to set the default behavior of the WebCT migrator
+            as IBTA Arabia Modules instead of the "Learning Modules". This page allows one to set the default behavior of the WebCT migrator
             with respect to content modules. It is important to remember that, while individual course migrations retain the ability
             to choose, the bulk migrator always utilises the value configured here and cannot be changed per migration.
       labels: 
@@ -11579,7 +11579,7 @@ en-AU:
   primary_color_button_b75db628: "Primary colour button"
   primary_color_button_disabled_9081ddff: "Primary colour button disabled"
   privacy_290109ea: Privacy
-  product_name: Canvas
+  product_name: IBTA Arabia
   profile: 
     access_token: 
       default_app_name: "No App"
@@ -11642,8 +11642,8 @@ en-AU:
       page_title: "Students Being Observed"
     please_select_an_option: "Please select an option"
     profile: 
-      access_token_description: "Access tokens can be used to allow other applications to make API calls on your behalf. You can also generate access tokens and *use the Canvas Open API* to come up with your own integrations."
-      approved_integrations: "These are the third-party applications you have authorized to access the Canvas site on your behalf:"
+      access_token_description: "Access tokens can be used to allow other applications to make API calls on your behalf. You can also generate access tokens and *use the IBTA Arabia Open API* to come up with your own integrations."
+      approved_integrations: "These are the third-party applications you have authorized to access the IBTA Arabia site on your behalf:"
       buttons: 
         add_picture_file: "Add File"
         authorize_google_docs: "Authorize Google Docs Access"
@@ -11659,8 +11659,8 @@ en-AU:
         select_image: "Select Image"
         update_settings: "Update Settings"
       confirm_email_instructions: "Before you can edit your profile, you need to verify your email address (%{email}) by clicking the link in the email we sent you. If you don't see it, *click to re-send the email*, and make sure to check your spam box."
-      delicious_description: "Delicious is a tool that lets you store and share your bookmarks with others. Canvas's rich content editor will let you search your Delicious tags to easily link from within Canvas to other resources you find useful."
-      diigo_description: "Diigo is a social bookmarking tool tailored specifically to research and education. Canvas's rich content editor will let you search your Diigo tags to easily link from within Canvas to other resources you find useful."
+      delicious_description: "Delicious is a tool that lets you store and share your bookmarks with others. IBTA Arabia's rich content editor will let you search your Delicious tags to easily link from within IBTA Arabia to other resources you find useful."
+      diigo_description: "Diigo is a social bookmarking tool tailored specifically to research and education. IBTA Arabia's rich content editor will let you search your Diigo tags to easily link from within IBTA Arabia to other resources you find useful."
       error_loading_token_details: "Error Loading Token Details"
       feature_options: "Feature Options"
       full_token_warning: |-
@@ -11668,7 +11668,7 @@ en-AU:
           retrieve the full token anymore, you'll have to regenerate it to get a new
           value.
       generate_access_token_description: |-
-          Access tokens are what allow third-party applications to access Canvas
+          Access tokens are what allow third-party applications to access IBTA Arabia
           resources on your behalf. These tokens are normally created automatically for
           applications as needed, but if [you're developing a new or limited
           project](%{documentation_url}) you can just generate the token from here.
@@ -11751,14 +11751,14 @@ en-AU:
         view_your_profile: "view your profile"
         yo: Yo
       loading_token_details: "Loading Token Details..."
-      no_approved_integrations: "Third-party applications can request permission to access the Canvas site on your behalf. As you begin authorizing applications you will see them listed here."
+      no_approved_integrations: "Third-party applications can request permission to access the IBTA Arabia site on your behalf. As you begin authorizing applications you will see them listed here."
       no_language_preference: "System Default (%{language})"
       no_registered_services: "No Registered Services"
       none: None
       page_title: "User Settings"
       profile_pictures: "Select the image you'd like to use as your profile pic, or upload a new image:"
       skype_description: "Skype offers free online voice and video calls. Lots of students use Skype as a free, easy way to communicate. If you register your Skype Name and enable visibility, then other students can easily find your contact and call or add you using Skype."
-      subscribe_to_emails: "I want to receive information, news and tips from Instructure"
+      subscribe_to_emails: "I want to receive information, news and tips from IBTA"
       titles: 
         access_token_details: "Access Token Details"
         authorize_google_docs: "Authorize Google Docs"
@@ -11783,7 +11783,7 @@ en-AU:
           These notifications will be sent as direct messages to yourself from
           yourself, and won't appear in your public stream.
       unknown_service: Unknown
-      web_services: "Canvas can make your life a lot easier by tying itself in with the web tools you already use. Click any of the services in \"Other Services\" to see what we mean."
+      web_services: "IBTA Arabia can make your life a lot easier by tying itself in with the web tools you already use. Click any of the services in \"Other Services\" to see what we mean."
       yo_description: |-
           Yo is a single-tap zero character communication tool.
           If you have a Yo account, you can register it here. Then if you allow
@@ -11818,8 +11818,8 @@ en-AU:
     twitter_select: 
       twitter: Twitter
     ways_to_contact: 
-      bouncing_channel: "Canvas was unable to send messages to you using this contact method. Please ensure the contact information is correct to continue receiving messages from Canvas."
-      bouncing_email: "Canvas was unable to send email to this address. Please ensure the address is correct to continue receiving email from Canvas."
+      bouncing_channel: "IBTA Arabia was unable to send messages to you using this contact method. Please ensure the contact information is correct to continue receiving messages from IBTA Arabia."
+      bouncing_email: "IBTA Arabia was unable to send email to this address. Please ensure the address is correct to continue receiving email from IBTA Arabia."
       buttons: 
         confirm: Confirm
         ok_thanks: "Ok, Thanks"
@@ -11842,7 +11842,7 @@ en-AU:
         cell_number: "Cell Number"
         country: Country
         email_address: "Email Address"
-        enable_login_for_email: "I want to log in to Canvas using this email address"
+        enable_login_for_email: "I want to log in to IBTA Arabia using this email address"
         sms_email: "SMS Email"
       links: 
         add_contact_method: "Add Contact Method"
@@ -11887,7 +11887,7 @@ en-AU:
     notifications: 
       privacy_notice: 
         ok: Ok
-        privacy_notice: "Notice: Some notifications may contain confidential information. Selecting to receive notifications at an email other than your institution provided address may result in sending sensitive Canvas course and group information outside of the institutional system."
+        privacy_notice: "Notice: Some notifications may contain confidential information. Selecting to receive notifications at an email other than your institution provided address may result in sending sensitive IBTA Arabia course and group information outside of the institutional system."
         privacy_notice_title: "Privacy Notice"
     take_picture_view: 
       retry: Retry
@@ -11935,7 +11935,7 @@ en-AU:
     login: 
       invalid_login: "Invalid login"
       invalid_password: "Invalid password"
-      invalid_user_email: "Oops! This doesn't quite look like an email address. Please make sure you're using your email address affiliated with your Canvas account."
+      invalid_user_email: "Oops! This doesn't quite look like an email address. Please make sure you're using your email address affiliated with your IBTA Arabia account."
       parent_signup: "Parent Signup"
       password_confirmation_sent: "Password confirmation sent to %{email_address}. Make sure you check your spam box."
     notices: 
@@ -12101,7 +12101,7 @@ en-AU:
       give_everyone_full_credit: "Give everyone full credit for this question."
       no_scores_reduced: "Award points for both corrected and previously correct answers (*no scores will be reduced*)"
       regrade_disabled: "Regrading is not allowed on this question because either an answer was removed or the question type was changed after a student completed a submission."
-      regrade_options: "Choose a remark option for students who have already taken the quiz. Canvas will remark all your submissions after you save the quiz (students' scores MAY be affected)."
+      regrade_options: "Choose a remark option for students who have already taken the quiz. IBTA Arabia will remark all your submissions after you save the quiz (students' scores MAY be affected)."
       some_scores_reduced: "Only award points for the correct answer (*some students' scores may be reduced*)"
       update_question_without_regrading: "Update question without regrading"
   quiz_e0dcce8f: Quiz
@@ -12114,7 +12114,7 @@ en-AU:
         action_log: "Action Log"
       notices: 
         no_events_available: "There were no events logged during the quiz-taking session."
-      page_blurred: "Stopped viewing the Canvas quiz-taking page..."
+      page_blurred: "Stopped viewing the IBTA Arabia quiz-taking page..."
       page_focused: Resumed.
       question_answered: 
         one: "Answered question:"
@@ -12396,7 +12396,7 @@ en-AU:
     ldb_login_popup: 
       email: Email
       log_in: "Log In"
-      logged_out_of_canvas: "*You have been logged out of canvas.* To continue please log in."
+      logged_out_of_canvas: "*You have been logged out of IBTA Arabia.* To continue please log in."
       password: Password
       titles: 
         log_in: "Please Log In"
@@ -13182,7 +13182,7 @@ en-AU:
         labels: 
           started: Started
           times_up: "Time's Up! Submitting results in"
-        logged_out_of_canvas: "*You have been logged out of canvas.* To continue please log in"
+        logged_out_of_canvas: "*You have been logged out of IBTA Arabia.* To continue please log in"
         login_required: "Login Required"
         not_saved: "Not saved"
         quiz_instructions: "Quiz Instructions"
@@ -13441,7 +13441,7 @@ en-AU:
       labels: 
         email: Email
         name: Name
-    welcome_to_canvas: "Welcome to Canvas!"
+    welcome_to_canvas: "Welcome to IBTA Arabia!"
   registration_url_60e0eaaa: "Registration URL"
   regular_style_checkbox_ee3d71c1: "Regular-style tickbox"
   remind_me_next_time_6402eb7d: "Remind me next time"
@@ -13465,7 +13465,7 @@ en-AU:
   rename_this_section_73065edd: "Rename this Section"
   replace_e61834a7: Replace
   replaces_the_current_folder_tree_with_a_new_access_6f9d15c2: "Replaces the current folder tree with a new accessible and more feature-rich folder tree."
-  reply_from_name: "%{name} via Canvas Notifications"
+  reply_from_name: "%{name} via IBTA Arabia Notifications"
   reply_to_comment_72d96728: "Reply to Comment"
   reply_to_current_message_55391f5b: "Reply to Current Message"
   reply_to_main_discussion_29823888: "Reply to Main Discussion"
@@ -13531,7 +13531,7 @@ en-AU:
       manage_announcements: "Manage global announcements"
       manage_assignments: "Manage (add / edit / delete) assignments and quizzes"
       manage_calendar: "Add, edit and delete events on the course calendar"
-      manage_canvasnet_courses: "Manage Canvas Network courses"
+      manage_canvasnet_courses: "Manage IBTA Arabia Network courses"
       manage_catalog: "Manage catalogue"
       manage_content: "Manage all other course content"
       manage_courses: "Manage ( add / edit / delete ) courses"
@@ -13714,7 +13714,7 @@ en-AU:
   salesforce_account_id_eb5c78ad: "Salesforce Account Id"
   salesforce_has_a_different_login_host_for_sanbox_a_2d878ae9: "Salesforce has a different login host for sanbox accounts than it does for production accounts, so if you're using a Salesforce sanbox account and you don't check this box, it won't be able to authenticate (and this works in reverse too; if you have a production account and you DO check this box, it won't authenticate)."
   salesforce_ticketing_webtocase_connector_80f75716: "Salesforce Ticketing WebToCase Connector"
-  same_value_as_canvas_url__c_will_probably_be_going_37027686: "Same value as 'Canvas_URL__c'; will probably be going away soon."
+  same_value_as_canvas_url__c_will_probably_be_going_37027686: "Same value as 'IBTA Arabia_URL__c'; will probably be going away soon."
   sample_data_e4fd01ff: "Sample Data"
   save_11a80ec3: Save
   save_changes_698abe77: "Save Changes"
@@ -13952,7 +13952,7 @@ en-AU:
         crosslist_this_section: "Cross-List this Section"
         current_enrollments: "Current Enrollments"
         decrosslist_section: "De-Cross-List this Section"
-  see_some_lti_tools_that_work_great_with_canvas_16ef75a0: "*See some LTI tools* that work great with Canvas."
+  see_some_lti_tools_that_work_great_with_canvas_16ef75a0: "*See some LTI tools* that work great with IBTA Arabia."
   select_a_grading_period_5ea50f1: "Select a Grading Period..."
   select_a_grading_period_aab25483: "Select a Grading Period."
   select_a_predefined_color_c77ab2f5: "Select a predefined colour."
@@ -14030,7 +14030,7 @@ en-AU:
       not_available_yet: "We'll send you an email shortly before the course begins."
   self_registration_156392d6: "Self Registration"
   send_a_message_to_the_teacher_1ae115b6: "Send a Message to the Teacher."
-  send_custom_fields_uncheck_unless_using_canvas_zen_67e83666: "Send Custom Fields (uncheck unless using Canvas zendesk)"
+  send_custom_fields_uncheck_unless_using_canvas_zen_67e83666: "Send Custom Fields (uncheck unless using IBTA Arabia zendesk)"
   send_e3bd0ed0: Send
   send_only_to_the_following_types_of_users_d8465c11: "Send only to the following types of users:"
   send_this_announcement_to_unenrolled_users_4ea549d7: "Send this announcement to unenrolled users."
@@ -14149,7 +14149,7 @@ en-AU:
     canvas_footer: 
       ? "User Research"
       : "User Research"
-      by_instructure: "By Instructure"
+      by_instructure: "By IBTA"
       open_source_learning_management_system: "Open Source LMS"
     components: 
       ic_submission-download-dialog: 
@@ -14342,7 +14342,7 @@ en-AU:
     keyboard_navigation_hint: 
       prompt: "Press comma to hear a list of keyboard shortcuts for this page."
     locale_warning: 
-      crowdsourced_warning_message: "The language you have selected was translated via crowdsourcing. Instructure has not reviewed or verified the accuracy of the translation, and accepts no responsibility for your use of this language setting. Please use at your own discretion."
+      crowdsourced_warning_message: "The language you have selected was translated via crowdsourcing. IBTA has not reviewed or verified the accuracy of the translation, and accepts no responsibility for your use of this language setting. Please use at your own discretion."
       crowdsourced_warning_title: "Crowdsourced Language"
     menu_assignment: 
       labels: 
@@ -14427,9 +14427,9 @@ en-AU:
       links_title: Title
       links_url: URL
       manage_settings: "Manage Registered Services"
-      message_me: "message me in Canvas"
+      message_me: "message me in IBTA Arabia"
       message_title: Message
-      message_user_canvas: "Message %{user} in Canvas"
+      message_user_canvas: "Message %{user} in IBTA Arabia"
       name: Name
       no_links: "%{name} hasn't added any links"
       nothing_in_common: "You don't have anything in common"
@@ -14761,7 +14761,7 @@ en-AU:
         uploading: "Uploading, Please Wait."
   shared_secret_892c88f2: "Shared Secret"
   short_name_ad9bf84f: "short name"
-  should_be_self_evident_the_canvas_id_of_the_report_44378262: "Should be self-evident, the canvas ID of the reporting user"
+  should_be_self_evident_the_canvas_id_of_the_report_44378262: "Should be self-evident, the IBTA Arabia ID of the reporting user"
   show_and_hide_courses_menu_9e09d1d0: "Show and hide courses menu"
   show_attendance_columns_4d160e16: "Show Attendance Columns"
   show_by_date_e3967761: "Show by Date"
@@ -14790,7 +14790,7 @@ en-AU:
       too_many_errors: "There were %{count} more errors"
       too_many_warnings: "There were %{count} more warnings"
       unrecorgnized_type: "Unrecognized import type"
-    instructure_csv: "Instructure formatted CSV or zipfile of CSVs"
+    instructure_csv: "IBTA formatted CSV or zipfile of CSVs"
     upload_filename: "sis_upload_%{id}.zip"
   sis_export_title: "SIS Export"
   sis_grade_export_settings_45a9f709: "SIS Mark Export Settings"
@@ -14835,14 +14835,14 @@ en-AU:
       date: Date
       value: Value
     domain_not_found: 
-      body_description: "Please check your Canvas URL and try again. If you do not know your Canvas URL, please contact your institution or course instructor."
-      body_reference: "If you're interested in a free Canvas account not tied to a specific institution you can sign up at"
+      body_description: "Please check your IBTA Arabia URL and try again. If you do not know your IBTA Arabia URL, please contact your institution or course instructor."
+      body_reference: "If you're interested in a free IBTA Arabia account not tied to a specific institution you can sign up at"
       links: 
-        canvas_instructure: canvas.instructure.com
-      page_title: "Oops, Canvas can’t find your login page."
+        canvas_instructure: IBTA Arabia.IBTA.com
+      page_title: "Oops, IBTA Arabia can’t find your login page."
       you_typed: "You typed"
     institution_suspended: 
-      body: "Your school's Canvas account is temporarily suspended. Please contact your Canvas administrator."
+      body: "Your school's IBTA Arabia account is temporarily suspended. Please contact your IBTA Arabia administrator."
       links: 
         logout: Logout
         stop_masquerading: "[Stop Masquerading]"
@@ -14871,10 +14871,10 @@ en-AU:
       close: Close
       forward: Forward
   smartbanner: 
-    android_banner_author: "Instructure Inc."
+    android_banner_author: "IBTA Inc."
     android_banner_in_google_play: "In Google Play"
     android_banner_price: FREE
-    android_banner_title: "Canvas by Instructure"
+    android_banner_title: "IBTA Arabia"
     android_banner_view_button: VIEW
   some_conferences_on_this_page_are_hidden_because_o_789684fd: "Some conferences on this page are hidden because of errors while retrieving their status."
   someone: Someone
@@ -15250,7 +15250,7 @@ en-AU:
   teacher_5a73b637: Teacher
   teachers_52e2423f: Teachers
   teal_f729a294: Teal
-  tell_us_how_and_when_you_would_like_to_be_notified_de3ed2bc: "Please tell us how and when you would like to be notified of events in Canvas."
+  tell_us_how_and_when_you_would_like_to_be_notified_de3ed2bc: "Please tell us how and when you would like to be notified of events in IBTA Arabia."
   tenant_d2a41f78: Tenant
   term_e1c1d390: Term
   terms: 
@@ -15321,9 +15321,9 @@ en-AU:
   the_app_was_deactivated_573520ab: "The app was deactivated"
   the_app_was_updated_successfully_3d71cd1b: "The app was updated successfully"
   the_error_stack_trace_if_there_is_one_b7e008a1: "The error stack trace, if there is one"
-  the_files_tab_is_the_place_to_share_lecture_slides_95a93bce: "The Files tab is the place to share lecture slides, example documents, study helps -- anything your students will want to download.  Uploading and organising your files is easy with Canvas.  We'll show you how."
+  the_files_tab_is_the_place_to_share_lecture_slides_95a93bce: "The Files tab is the place to share lecture slides, example documents, study helps -- anything your students will want to download.  Uploading and organising your files is easy with IBTA Arabia.  We'll show you how."
   the_following_fields_are_invalid_fields_b3565800: "The following fields are invalid: %{fields}"
-  the_full_hostname_for_the_account_instance_somethi_e325da1f: "The full hostname for the account instance (something.instructure.com, for example)"
+  the_full_hostname_for_the_account_instance_somethi_e325da1f: "The full hostname for the account instance (something.IBTA.com, for example)"
   the_grade_for_this_assignment_will_not_sync_to_the_3bb4f6f5: "The mark for this assignment will not sync to the student information system."
   the_grade_for_this_assignment_will_not_sync_to_the_8f4571aa: "The mark for this assignment will not sync to the student information system. Click here to toggle this setting."
   the_grade_for_this_assignment_will_sync_to_the_stu_29c3b522: "The mark for this assignment will sync to the student information system. Click here to toggle this setting."
@@ -15336,20 +15336,20 @@ en-AU:
   the_material_is_licensed_under_creative_commons_3242cb5e: "The material is licensed under Creative Commons"
   the_material_is_subject_to_fair_use_exception_41bc6a4b: "The material is subject to fair use exception"
   the_message_titled_subject_could_not_be_delivered__8c6cbbe3: |-
-      The message titled "%{subject}" could not be delivered.  The message was sent from an address that is not linked to your Canvas account.  If you are trying to contact someone through Canvas, you can try logging in to your account and sending them a message using the Inbox tool.
+      The message titled "%{subject}" could not be delivered.  The message was sent from an address that is not linked to your IBTA Arabia account.  If you are trying to contact someone through IBTA Arabia, you can try logging in to your account and sending them a message using the Inbox tool.
       
                 Thank you,
-                Canvas Support
+                IBTA Arabia Support
   the_message_titled_subject_could_not_be_delivered__f063857e: |-
-      The message titled "%{subject}" could not be delivered because the discussion topic has been deleted. If you are trying to contact someone through Canvas, you can try logging in to your account and sending them a message using the Inbox tool.
+      The message titled "%{subject}" could not be delivered because the discussion topic has been deleted. If you are trying to contact someone through IBTA Arabia, you can try logging in to your account and sending them a message using the Inbox tool.
       
                 Thank you,
-                Canvas Support
+                IBTA Arabia Support
   the_message_you_sent_with_the_subject_line_subject_c73f92e4: |-
-      The message you sent with the subject line "%{subject}" was not delivered. To reply to Canvas messages from this email, it must first be a confirmed communication channel in your Canvas profile. Please visit your profile and resend the confirmation email for this email address [See https://community.canvaslms.com/docs/DOC-2281]. You may also contact this person via the Canvas Inbox [See https://community.canvaslms.com/docs/DOC-2670].
+      The message you sent with the subject line "%{subject}" was not delivered. To reply to IBTA Arabia messages from this email, it must first be a confirmed communication channel in your IBTA Arabia profile. Please visit your profile and resend the confirmation email for this email address [See https://community.ibta-arabia.com/docs/DOC-2281]. You may also contact this person via the IBTA Arabia Inbox [See https://community.ibta-arabia.com/docs/DOC-2670].
       
                 Thank you,
-                Canvas Support
+                IBTA Arabia Support
   the_module_item_is_locked_27fe420b: "The module item is locked."
   the_most_recent_scores_for_user_current_user_name__ea82f0b6: "The most recent scores for user %{current_user_name} and outcome %{outcome_name}."
   the_profile_picture_has_been_reported_d609d6dd: "The profile picture has been reported."
@@ -15394,7 +15394,7 @@ en-AU:
   this_conference_may_be_recorded_f76deeeb: "This conference may be recorded."
   this_course_cannot_be_added_to_the_courses_menu_at_a3fbb11e: "This course cannot be added to the courses menu at this time."
   this_course_hasn_t_started_yet_you_will_not_be_abl_c828c423: "This course hasn’t started yet. You will not be able to participate in this course until %{date}."
-  this_course_is_claimed_and_ready_but_you_ll_need_t_25b95a0a: "This course is claimed and ready, but you'll need to finish the registration process before you can publish the course.  You should have received an email from Canvas with a link to finish the process.  Be sure to check your spam box."
+  this_course_is_claimed_and_ready_but_you_ll_need_t_25b95a0a: "This course is claimed and ready, but you'll need to finish the registration process before you can publish the course.  You should have received an email from IBTA Arabia with a link to finish the process.  Be sure to check your spam box."
   this_course_is_visible_only_to_teachers_until_it_i_ce972f0: "This course is visible only to teachers until it is published."
   this_email_address_is_unconfirmed_f0fc8c6e: "This email address is unconfirmed."
   this_enables_an_updated_navigation_new_dashboard_a_8bd4cae: "This enables an updated navigation, new dashboard and a simpler, more modern look and feel."
@@ -15407,7 +15407,7 @@ en-AU:
   this_folder_is_currently_locked_and_unavailable_to_f85c451: "This folder is currently locked and unavailable to view."
   this_grade_differs_from_the_student_s_view_of_the__56742bd0: "This grade differs from the student's view of the grade because some assignments are muted."
   this_image_appears_as_a_background_watermark_to_yo_1c6b4497: "This image appears as a background watermark to your page. Accepted formats: png, svg, gif, jpeg."
-  this_is_a_comma_separated_list_of_url_s_to_trust_t_a6611f4: "This is a comma separated list of URL's to trust. Trusting any URL's in this list will bypass the CSRF token when logging in to Canvas."
+  this_is_a_comma_separated_list_of_url_s_to_trust_t_a6611f4: "This is a comma separated list of URL's to trust. Trusting any URL's in this list will bypass the CSRF token when logging in to IBTA Arabia."
   this_is_a_concluded_course_so_only_concluded_enrol_e6e3a9d9: "This is a concluded course, so only concluded enrolments are available."
   this_is_a_message_for_name_7abf1e39: "This is a message for *%{name}*."
   this_is_the_currently_chosen_grade_for_this_studen_86118eb6: "This is the currently chosen mark for this student."
@@ -15430,13 +15430,13 @@ en-AU:
   this_quiz_is_unpublished_only_teachers_can_see_the_51d281b1: "*This quiz is unpublished* Only teachers can see the quiz until it is published."
   this_recorder_uses_flash_as_a_result_you_may_find__427d2ddb: "This recorder uses Flash. As a result, you may find it easier to make a recording on your local machine, and then use the media uploader tab to upload it."
   this_report_shows_all_the_courses_for_a_given_term_9102a3d7: "This report shows all the courses for a given term. The resulting csv file will have one row per course and will show the course ID, course sis ID, course short name, course name, account ID, account sis ID, account name and storage used in MB."
-  this_sample_page_includes_common_ui_elements_in_ca_331f4ac4: "This sample page includes common UI elements in Canvas to help you build your custom branding. Once you start making changes to the colour values and images in the left sidebar, you will see a *Preview Your Changes* button. Click it to refresh this page and see how your changes look."
+  this_sample_page_includes_common_ui_elements_in_ca_331f4ac4: "This sample page includes common UI elements in IBTA Arabia to help you build your custom branding. Once you start making changes to the colour values and images in the left sidebar, you will see a *Preview Your Changes* button. Click it to refresh this page and see how your changes look."
   this_student_s_responses_are_hidden_because_this_a_252e8335: "This student's responses are hidden because this assignment is anonymous."
   this_student_wrote_f1a3f22d: "This student wrote:"
   this_submission_has_already_been_graded_and_is_rea_8ec61c52: "This submission has already been graded and is ready for moderation."
   this_user_has_multiple_roles_in_the_course_changin_8cbd82d4: "This user has multiple roles in the course. Changing their role here will overwrite all of their current enrolments."
   this_user_is_currently_not_able_to_access_the_cour_39cabed1: "This user is currently not able to access the course."
-  this_will_allow_you_to_authenticate_canvas_for_pos_fdfca40: "This will allow you to authenticate Canvas for posting grades to SIS"
+  this_will_allow_you_to_authenticate_IBTA Arabia_for_pos_fdfca40: "This will allow you to authenticate IBTA Arabia for posting grades to SIS"
   this_will_apply_these_changes_to_your_entire_accou_22b86cde: "This will apply these changes to your entire account. Would you like to proceed?"
   ticketing_system_52205bff: "Ticketing System"
   ticketing_system_configurations_c4fecd96: "Ticketing system configurations"
@@ -15618,7 +15618,7 @@ en-AU:
       alt_help_text: "Describe the image to improve accessibility"
       alt_text: "Alt text"
       attributes: Attributes
-      canvas: Canvas
+      canvas: IBTA Arabia
       dimension_help_text: "Aspect ratio will be preserved"
       dimensions: Dimensions
       flickr: Flickr
@@ -15803,7 +15803,7 @@ en-AU:
   use_remote_version_of_rich_content_editor_52f7fc4b: "Use remote version of Rich Content Editor"
   use_remote_version_of_rich_content_editor_and_side_a058a664: "Use remote version of Rich Content Editor AND sidebar"
   use_remote_version_of_rich_content_editor_and_side_ebaaa986: "Use remote version of Rich Content Editor AND sidebar in high-risk areas like quizzes"
-  use_the_new_quiz_lti_tool_in_place_of_regular_canv_d7cb0c7f: "Use the new quiz LTI tool in place of regular canvas quizzes."
+  use_the_new_quiz_lti_tool_in_place_of_regular_canv_d7cb0c7f: "Use the new quiz LTI tool in place of regular IBTA Arabia quizzes."
   use_this_configuration_for_parent_observer_registr_e49f8f66: "Use this configuration for parent/observer registration"
   used_by_permission_314a78dd: "Used by Permission"
   user: 
@@ -15824,7 +15824,7 @@ en-AU:
   user_content_aaf0fb5a: "User Content"
   user_count_respondents_e30a8593: "%{user_count} respondents"
   user_date_range_search: 
-    cant_be_blank: "Canvas User ID can't be blank"
+    cant_be_blank: "IBTA Arabia User ID can't be blank"
     cant_come_before_from: "'To Date' can't come before 'From Date'"
     results_found: "%{length} results found"
   user_id_bcace870: "User ID"
@@ -15892,7 +15892,7 @@ en-AU:
       updating_user_details: "Updating User Details..."
     notices: 
       image_reported: "This image has been reported"
-  user_name_just_added_you_to_a_conversation_in_canv_7b278b51: "%{user_name} just added you to a conversation in Canvas. To view the conversation, click this link: %{link}."
+  user_name_just_added_you_to_a_conversation_in_canv_7b278b51: "%{user_name} just added you to a conversation in IBTA Arabia. To view the conversation, click this link: %{link}."
   user_name_successfully_added_79af8365: "%{user_name} successfully added!"
   user_name_you_ll_need_to_log_in_before_you_can_vie_164c8e30: "%{user_name}, you'll need to *log in* before you can view that page."
   user_navigation_a097be0f: "User Navigation"
@@ -15997,7 +15997,7 @@ en-AU:
     cc_prefs: 
       buttons: 
         configure: "Configure Communication Preferences"
-      comm_preferences_instructions: "Now that you're registered with Canvas, you might want to configure what notifications you'll receive as your courses progress. Canvas is flexible enough to let you choose how and for what events you'd like to be notified. When things happen in your courses you can choose to be emailed or texted to your cell immediately, daily or weekly."
+      comm_preferences_instructions: "Now that you're registered with IBTA Arabia, you might want to configure what notifications you'll receive as your courses progress. IBTA Arabia is flexible enough to let you choose how and for what events you'd like to be notified. When things happen in your courses you can choose to be emailed or texted to your cell immediately, daily or weekly."
       titles: 
         configure_com_prefs: "Configure Communication Preferences"
     confirms: 
@@ -16145,7 +16145,7 @@ en-AU:
         name_and_email: "Name and Email"
       update_instructions: "You can update some of this user's information, but they can change it back if they choose."
     new: 
-      create_a_canvas_account: "Create a Canvas Account"
+      create_a_canvas_account: "Create a IBTA Arabia Account"
       privacy_policy: "Privacy Policy"
       terms_of_use: "Terms of Use"
     no_self_registration: "Self registration has not been enabled for this account"
@@ -16154,11 +16154,11 @@ en-AU:
       almost_there: "You're almost there..."
       done_resending: "Done! Message may take a few minutes."
       failed_resending: "Request failed. Try again."
-      invite_to_read: "We invite you to watch this brief overview of Canvas. You may also *read about how Canvas is helping* to bring students in 27 countries closer to lecture halls, instructors and classmates."
+      invite_to_read: "We invite you to watch this brief overview of IBTA Arabia. You may also *read about how IBTA Arabia is helping* to bring students in 27 countries closer to lecture halls, instructors and classmates."
       links: 
         download_pdf: "download PDF"
       need_flash: "You need Flash player 8+ and JavaScript enabled to view this video."
-      overview_video: "Overview Video of Canvas"
+      overview_video: "Overview Video of IBTA Arabia"
       registration_complete: "Registration Complete"
       resending: Re-Sending...
       sent_email_paragraph: "We sent an email to %{email_address}. *Click the link in the email to finish registering*. If you don't see it, **click to re-send the email**, and make sure to check your spam box."
@@ -16222,7 +16222,7 @@ en-AU:
                   those courses are available, you will see information about them here
                   and in the top navigation. In the meantime, feel free to sign up for
                   more courses or set up your profile.
-      welcome_to_happiness: "Welcome to Canvas!"
+      welcome_to_happiness: "Welcome to IBTA Arabia!"
   users_d1b60cb0: Users
   users_matching_search_term_c604db9e: "Users Matching \"%{search_term}\""
   users_of_screen_readers_may_need_to_turn_off_the_v_98811cd: "Users of screen readers may need to turn off the virtual cursor in order to use these keyboard shortcuts"
@@ -16263,11 +16263,11 @@ en-AU:
   warning_icon_f64936d7: "warning icon"
   warnings: 
     test_install: 
-      periodic_message: "This Canvas installation is only for testing, and will reset periodically."
-      title: "Canvas Test Installation"
+      periodic_message: "This IBTA Arabia installation is only for testing, and will reset periodically."
+      title: "IBTA Arabia Test Installation"
       weekly_message: 
-        one: "This Canvas installation is only for testing, and will reset every %{count} weeks."
-        other: "This Canvas installation is only for testing, and will reset every %{count} weeks."
+        one: "This IBTA Arabia installation is only for testing, and will reset every %{count} weeks."
+        other: "This IBTA Arabia installation is only for testing, and will reset every %{count} weeks."
   watermark_c93fae0d: Watermark
   watermark_opacity_ce3d3097: "Watermark Opacity"
   watermarks_other_images_e970fc6a: "Watermarks & Other Images"
@@ -16295,7 +16295,7 @@ en-AU:
   webct_file_description: "Blackboard Vista/CE, WebCT 6+ Course"
   webct_name: "Blackboard Vista/CE (WebCT)"
   week_s_cb1492ee: Week(s)
-  welcome_to_the_canvas_theme_editor_73091d1: "Welcome to the Canvas Theme Editor"
+  welcome_to_the_canvas_theme_editor_73091d1: "Welcome to the IBTA Arabia Theme Editor"
   welcome_to_your_courses_to_customize_the_list_of_c_22de652e: "Welcome to your courses! To customise the list of courses, click on the \"All Courses\" link and star the courses to display."
   well_below_mastery_37664bdc: "Well Below Mastery"
   what_are_self_sign_up_groups_af1f002a: "What Are Self Sign-Up Groups?"
@@ -16486,7 +16486,7 @@ en-AU:
   you_are_logged_in_at_institution1_using_your_crede_3f5bb205: "You are logged in at %{institution1} using your credentials from %{institution2}"
   you_are_subscribed_and_will_be_notified_of_new_com_60b5b62b: "You are subscribed and will be notified of new comments. Click to unsubscribe."
   you_are_the_group_leader_for_this_group_b8629b70: "you are the group leader for this group"
-  you_are_trying_to_launch_insecure_content_from_wit_5c1c692b: "You are trying to launch insecure content from within a secure site (canvas). Some web browsers may prevent this content from loading."
+  you_are_trying_to_launch_insecure_content_from_wit_5c1c692b: "You are trying to launch insecure content from within a secure site (IBTA Arabia). Some web browsers may prevent this content from loading."
   you_are_unsubscribed_and_will_not_be_notified_of_n_bf4b96a2: "You are unsubscribed and will not be notified of new comments. Click to subscribe."
   you_can_also_manage_access_at_this_time_105a2530: "You can also manage access at this time:"
   you_can_check_out_other_groups_by_clicking_this_li_1c09e4fb: "You can check out other groups by clicking this link: %{link}"
@@ -16497,7 +16497,7 @@ en-AU:
   you_can_log_in_directly_with_this_provider_by_goin_467d7f66: "You can log in directly with this provider by going to %{url}"
   you_can_now_set_regrade_options_for_students_who_h_c1ceb1c4: "You can now set regrade options for students who have already taken the quiz."
   you_can_reply_to_this_comment_by_responding_to_thi_3d130e8c: "You can reply to this comment by responding to this message, or review the submission details using this link: %{link}."
-  you_can_reply_to_this_message_in_canvas_by_replyin_fa33638d: "You can reply to this message in Canvas by replying directly to this email, or by clicking this link: %{link}."
+  you_can_reply_to_this_message_in_IBTA Arabia_by_replyin_fa33638d: "You can reply to this message in IBTA Arabia by replying directly to this email, or by clicking this link: %{link}."
   you_can_review_the_submission_details_by_clicking__9abc5515: "You can review the submission details by clicking this link: %{link}."
   you_can_see_details_for_this_group_by_clicking_thi_acaf07e5: "You can see details for this group by clicking this link: %{link}."
   you_can_see_which_groups_you_re_a_part_of_for_this_6efda22c: "You can see which groups you're a part of for this account by clicking this link: %{link}."
@@ -16528,8 +16528,8 @@ en-AU:
   you_must_specify_a_usage_right_5eb57f87: "You must specify a usage right."
   you_need_to_preview_your_changes_before_applying_t_468d56e4: "You need to \"Preview Your Changes\" before applying to everyone."
   you_need_to_preview_your_changes_before_applying_t_cb048bed: "you need to \"Preview Your Changes\" before applying to everyone"
-  you_re_editing_your_canvas_theme_apply_or_cancel_c_1633384e: "You're editing your Canvas Theme! Apply or cancel changes from within the *Theme Editor*."
-  you_re_editing_your_canvas_theme_the_changes_have__c0ae1bd1: "You're editing your Canvas Theme! The changes have not been applied yet."
+  you_re_editing_your_canvas_theme_apply_or_cancel_c_1633384e: "You're editing your IBTA Arabia Theme! Apply or cancel changes from within the *Theme Editor*."
+  you_re_editing_your_canvas_theme_the_changes_have__c0ae1bd1: "You're editing your IBTA Arabia Theme! The changes have not been applied yet."
   you_scored_a_score_a5dd5561: "You scored a %{score}."
   you_scored_d3e00111: "You scored"
   you_ve_been_enrolled_in_the_course_course_course_r_2b2f00f9: "You've been enrolled in the course, %{course}. Course role: %{role_type}"
@@ -16583,7 +16583,7 @@ en-AU:
   your_assignment_list_can_now_be_found_on_the_calen_9785b5ac: "Your Assignment list can now be found on the *Calendar* page."
   your_assignments_list_has_improved_3eded80e: "Your *Assignments* list has improved!"
   your_assignments_will_show_here_listed_by_due_date_18dc880f: "Your Assignments will show here listed by due date."
-  your_browser_does_not_meet_the_minimum_requirement_2fa7c11f: "Your browser does not meet the minimum requirements for Canvas. Please visit the *Canvas Community* for a complete list of supported browsers."
+  your_browser_does_not_meet_the_minimum_requirement_2fa7c11f: "Your browser does not meet the minimum requirements for IBTA Arabia. Please visit the *IBTA Arabia Community* for a complete list of supported browsers."
   your_content_has_been_exported_bbb57764: "Your content has been exported."
   your_custom_theme_has_been_successfully_applied_eaa0fc82: "Your custom theme has been successfully applied."
   your_email_b5364bee: "Your Email"

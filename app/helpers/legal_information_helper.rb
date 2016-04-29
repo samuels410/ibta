@@ -18,11 +18,11 @@
 
 module LegalInformationHelper
   def terms_of_use_url
-    Setting.get('terms_of_use_url', 'http://www.canvaslms.com/policies/terms-of-use')
+    Setting.get('terms_of_use_url', 'http://www.ibta-arabia.com/Terms_and_Conditions/')
   end
 
   def privacy_policy_url
-    Setting.get('privacy_policy_url', 'http://www.canvaslms.com/policies/privacy-policy')
+    Setting.get('privacy_policy_url', 'http://www.ibta-arabia.com/Privacy_Policy/')
   end
 
 protected

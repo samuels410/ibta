@@ -105,7 +105,7 @@ define([
                         Learn how to **generate an access token**.', {
                           wrappers: [
                             '<a href="https://www.eduappcenter.com">$1</a>',
-                            '<a href="https://community.canvaslms.com/docs/DOC-3026">$1</a>'
+                            '<a href="https://community.ibta-arabia.com/docs/DOC-3026">$1</a>'
                           ]
                       })
                     }}
