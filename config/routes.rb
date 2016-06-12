@@ -648,7 +648,7 @@ CanvasRails::Application.routes.draw do
   delete 'logout' => 'login#destroy'
   get 'logout' => 'login#logout_confirm'
 
-  get 'login/canvas' => 'login/canvas#new', as: :canvas_login
+  get 'login/ibta' => 'login/canvas#new', as: :canvas_login
   post 'login/canvas' => 'login/canvas#create'
   # deprecated alias
   post 'login' => 'login/canvas#create'

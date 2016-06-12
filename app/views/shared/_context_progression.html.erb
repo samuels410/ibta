@@ -1,0 +1,24 @@
+<%
+   if @context and @context.class == Course and @current_user and !can_do(@context, @current_user, :manage)
+     @current_user_progression = calc_progression_percentage(@context,@current_user)
+   end
+%>
+<% if @current_user_progression %>
+    <div class="progress-capsule" >
+      <div class="progress-divider" >
+        <h2>Course Progress ( <%= @current_user_progression %>%)</h2>
+        </div>
+      <% if @tag_id %>
+      <a href="/courses/<%=@context.id %>/modules/items/<%= @tag_id %>">
+      <% end  %>
+        <div style="">
+          <div id="progressbar" class="ui-progressbar ui-widget ui-widget-content ui-corner-all" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="37" style="width: 100%;">
+            <div class="ui-progressbar-value ui-widget-header ui-corner-left" style="width: <%= @current_user_progression %>%;" title="<%= @current_user_progression %>%" data-tooltip></div>
+          </div>
+        </div>
+      <% if @tag_id %>
+      </a>
+      <% end  %>
+    </div>
+<% end %>
+</br>

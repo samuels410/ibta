@@ -14011,7 +14011,7 @@ en:
       too_many_errors: "There were %{count} more errors"
       too_many_warnings: "There were %{count} more warnings"
       unrecorgnized_type: "Unrecognized import type"
-    instructure_csv: "Instructure formatted CSV or zipfile of CSVs"
+    instructure_csv: "IBTA Arabia formatted CSV or zipfile of CSVs"
     upload_filename: "sis_upload_%{id}.zip"
   sis_export_title: "SIS Export"
   sis_grade_export_settings_45a9f709: "SIS Grade Export Settings"

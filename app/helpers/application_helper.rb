@@ -913,6 +913,33 @@ module ApplicationHelper
     )
   end
 
+  def calc_progression_percentage(context,user)
+    @tag_id = nil
+    context_modules = context.context_modules.active
+    progressions = context_modules.map{|m| m.evaluate_for(user) }
+    possible = context_modules.size
+    score = progressions.select { |progression| progression.workflow_state == 'completed' unless progression.nil? }
+    started_module_progressions = progressions.select { |progression| (progression.workflow_state == 'started' || progression.workflow_state == 'unlocked') unless progression.nil? }
+    started_module_progression = started_module_progressions.first
+    if started_module_progression
+      completion_requirements = started_module_progression.context_module.completion_requirements || []
+      requirements_met = started_module_progression.requirements_met || []
+      need_to_be_completed = completion_requirements - requirements_met
+      needs_completion = need_to_be_completed.first
+      @tag_id = needs_completion[:id]
+    end
+    calculate_percentage(score.size,possible)
+  end
+
+  def calculate_percentage(score,possible)
+    begin
+      res = (Float(score) / possible * 100).ceil
+    rescue => e
+      logger.error("Error While Calculating Percentage:#{e}")
+      res= 0
+    end
+  end
+
   def dashboard_url(opts={})
     return super(opts) if opts[:login_success] || opts[:become_user_id] || @domain_root_account.nil?
     custom_dashboard_url || super(opts)
