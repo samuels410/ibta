@@ -58,6 +58,7 @@ define [
           previous: @msfInstance.previous
           next: @msfInstance.next
           new_styles: window.ENV.use_new_styles
+          locale_ar: @checkArab
         )
         @msfAnimation(options.animation) if options?.animation != undefined
         @show()
@@ -168,6 +169,13 @@ define [
       # If the next item is in another module, then the module ids won't be the same and we need
       # to display the module name instead of the item title.
       # @api private
+      checkArab: ->
+        if window.ENV.LOCALE == "ar-SA"
+          true
+        else
+          false
+
+
 
       buildNextData: ->
         @next.url = @item.next.html_url
